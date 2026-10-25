@@ -1,0 +1,171 @@
+1:"$Sreact.fragment"
+3:I[39756,["/_next/static/chunks/2li_n9fcff5ve.js","/_next/static/chunks/33x7cmkqiwvsf.js"],"default"]
+4:I[37457,["/_next/static/chunks/2li_n9fcff5ve.js","/_next/static/chunks/33x7cmkqiwvsf.js"],"default"]
+6:I[97367,["/_next/static/chunks/2li_n9fcff5ve.js","/_next/static/chunks/33x7cmkqiwvsf.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+a:I[97367,["/_next/static/chunks/2li_n9fcff5ve.js","/_next/static/chunks/33x7cmkqiwvsf.js"],"ViewportBoundary"]
+c:I[97367,["/_next/static/chunks/2li_n9fcff5ve.js","/_next/static/chunks/33x7cmkqiwvsf.js"],"MetadataBoundary"]
+e:I[68027,["/_next/static/chunks/2li_n9fcff5ve.js","/_next/static/chunks/33x7cmkqiwvsf.js"],"default",1]
+:HL["/_next/static/chunks/3i1ykeq4mj41i.css","style"]
+:HC["/",""]
+9:X
+0:{"P":null,"c":["","blog","database-systems",""],"q":"","i":false,"f":[[["",{"children":["blog",{"children":[["slug","database-systems","d",["tags"]],{"children":["__PAGE__",{},"$undefined","$undefined",4608]},"$undefined","$undefined",4608]},"$undefined","$undefined",4608]},"$undefined","$undefined",4624],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/3i1ykeq4mj41i.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/2li_n9fcff5ve.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/33x7cmkqiwvsf.js","async":true,"nonce":"$undefined"}]],"$L2"]}],{"children":[["$","$1","c",{"children":[null,["$","div",null,{"lang":"en","dir":"ltr","className":"relative z-10","children":[["$","script",null,{"dangerouslySetInnerHTML":{"__html":"try {\n  document.documentElement.lang = \"en\";\n  document.documentElement.dir = \"ltr\";\n} catch (e) {}"}}],["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L5",[["$","script","script-0",{"src":"/_next/static/chunks/158bio-g4urb_.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/37kq702g0ymms.js","async":true,"nonce":"$undefined"}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],{},null,false,null]},null,false,"$9"]},null,false,null]},null,false,null],["$","$1","h",{"children":[null,["$","$La",null,{"children":"$Lb"}],["$","div",null,{"hidden":true,"children":["$","$Lc",null,{"children":["$","$7",null,{"name":"Next.Metadata","children":"$Ld"}]}]}],null]}],false]],"m":"$undefined","G":["$e",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/3i1ykeq4mj41i.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"h":null,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"DCJX1MLFGBgTLA4rzvRvE"}
+f:I[90715,["/_next/static/chunks/2li_n9fcff5ve.js","/_next/static/chunks/33x7cmkqiwvsf.js"],"default"]
+10:I[56194,["/_next/static/chunks/2li_n9fcff5ve.js","/_next/static/chunks/33x7cmkqiwvsf.js"],"default"]
+9:C
+2:["$","html",null,{"lang":"fa","dir":"rtl","className":"h-full antialiased","suppressHydrationWarning":true,"children":[["$","head",null,{"children":["$","script",null,{"dangerouslySetInnerHTML":{"__html":"\ntry {\n  // Single-theme site (default neon): clear any previously saved custom theme.\n  localStorage.removeItem(\"sm_theme\");\n  document.documentElement.removeAttribute(\"data-theme\");\n  var m = localStorage.getItem(\"sm_mode\");\n  if (m) document.documentElement.setAttribute(\"data-mode\", m);\n} catch (e) {}\n"}}]}],["$","body",null,{"className":"min-h-screen overflow-x-hidden bg-void font-sans text-mist","children":[["$","div",null,{"aria-hidden":true,"className":"pointer-events-none fixed inset-0 z-0 print:hidden","children":[["$","div",null,{"className":"grid-lines absolute inset-0"}],["$","div",null,{"className":"noise-layer absolute inset-0 opacity-[0.05] mix-blend-overlay"}],["$","div",null,{"className":"absolute inset-x-0 top-0 h-48 bg-gradient-to-b from-neon/[0.05] to-transparent"}],["$","div",null,{"className":"absolute bottom-[-10rem] start-[-6rem] size-[26rem] rounded-full bg-flare/[0.04] blur-[120px]"}],["$","div",null,{"className":"absolute end-[-8rem] top-1/3 size-[30rem] rounded-full bg-neon/[0.05] blur-[140px]"}]]}],["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","$Lf",null,{"lang":"fa"}],["$","$L10",null,{"lang":"fa"}]]}]]}]
+b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#05070b"}]]
+11:I[27201,["/_next/static/chunks/2li_n9fcff5ve.js","/_next/static/chunks/33x7cmkqiwvsf.js"],"IconMark"]
+8:null
+d:[["$","title","0",{"children":"Database Systems: How Information Is Organized, Stored and Protected | Soheil Mohajer"}],["$","meta","1",{"name":"description","content":"Relational and NoSQL models, the anatomy of a DBMS, SQL by example, indexes, transactions and ACID - an introductory map of how modern databases actually work."}],["$","link","2",{"rel":"author","href":"https://soheilmohajer.ir"}],["$","meta","3",{"name":"author","content":"سهیل مهاجر"}],["$","meta","4",{"name":"keywords","content":"سهیل مهاجر,توسعه‌دهنده اندروید,ایجنت هوش مصنوعی,برنامه‌نویسی بازی,Unity,Android Developer,AI Agent Developer,n8n,کافه بازار"}],["$","meta","5",{"name":"robots","content":"index, follow"}],["$","link","6",{"rel":"canonical","href":"https://soheilmohajer.ir/blog/database-systems/"}],["$","meta","7",{"property":"og:title","content":"Database Systems: How Information Is Organized, Stored and Protected"}],["$","meta","8",{"property":"og:description","content":"Relational and NoSQL models, the anatomy of a DBMS, SQL by example, indexes, transactions and ACID - an introductory map of how modern databases actually work."}],["$","meta","9",{"property":"og:type","content":"article"}],["$","meta","10",{"property":"article:published_time","content":"2026-10-24"}],["$","meta","11",{"property":"article:tag","content":"Databases"}],["$","meta","12",{"property":"article:tag","content":"SQL"}],["$","meta","13",{"property":"article:tag","content":"Computer Science"}],["$","meta","14",{"name":"twitter:card","content":"summary"}],["$","meta","15",{"name":"twitter:title","content":"Database Systems: How Information Is Organized, Stored and Protected"}],["$","meta","16",{"name":"twitter:description","content":"Relational and NoSQL models, the anatomy of a DBMS, SQL by example, indexes, transactions and ACID - an introductory map of how modern databases actually work."}],["$","link","17",{"rel":"icon","href":"/icon.svg?icon.3flq9i3ko7ub7.svg","sizes":"any","type":"image/svg+xml"}],["$","$L11","18",{}]]
+12:I[36380,["/_next/static/chunks/2li_n9fcff5ve.js","/_next/static/chunks/33x7cmkqiwvsf.js","/_next/static/chunks/158bio-g4urb_.js","/_next/static/chunks/37kq702g0ymms.js"],"default"]
+13:I[2971,["/_next/static/chunks/2li_n9fcff5ve.js","/_next/static/chunks/33x7cmkqiwvsf.js","/_next/static/chunks/158bio-g4urb_.js","/_next/static/chunks/37kq702g0ymms.js"],"default"]
+14:I[22016,["/_next/static/chunks/2li_n9fcff5ve.js","/_next/static/chunks/33x7cmkqiwvsf.js","/_next/static/chunks/158bio-g4urb_.js","/_next/static/chunks/37kq702g0ymms.js"],""]
+15:T3d23,<h2 id="1-introduction">1. Introduction</h2><p>A database is an organized collection of information that can be stored, searched, updated, and managed. Databases are part of everyday life, even when users do not notice them. When a person checks a bank balance, orders a product online, registers for a class, or saves a contact on a phone, a database may be working behind the scenes.</p>
+<p>Before database systems became common, many organizations kept information in separate files or paper records. This approach could work for small tasks, but it became difficult when records grew in size or had to be shared by several people. Files might contain repeated information, different versions of the same record, or mistakes that were hard to find. Database technology developed to make the storage and management of information more reliable.</p>
+<p>A database is not exactly the same as a database management system. The database is the organized data itself, while a <strong>database management system (DBMS)</strong> is the software used to define, store, retrieve, and protect that data. Examples of DBMS software include MySQL, PostgreSQL, Microsoft SQL Server, Oracle Database, and SQLite. Each product has its own strengths, but they share the basic goal of making data useful and manageable.</p>
+<p><img src="/posts/database-systems/db-01-student-table.png" alt="A database and a student table"></p>
+<p><em>Figure 1. A database can organize information into a table that is easier to search and maintain.</em></p>
+<p>The purpose of this post is to explain the main types of databases, describe the basic parts of a database system, and show how users work with stored information. It also considers common benefits, limitations, and real-world uses.</p>
+<blockquote>
+<p><strong>Why databases matter</strong>
+Modern services often need to process many records quickly and allow several users to work at the same time. A well-designed database helps keep those records consistent, makes searching more efficient, and provides rules for access. It does not remove every risk, however: the design, security settings, backups, and maintenance of the system still matter.</p>
+</blockquote>
+<hr>
+<h2 id="2-main-types-of-databases">2. Main Types of Databases</h2><p>Databases can be classified by the way they organize information and by the kinds of tasks they are designed to support. No single type is best for every situation. The choice depends on the structure of the data, the number of users, the speed required, and the way the information will be queried.</p>
+<p><img src="/posts/database-systems/db-02-database-types.png" alt="The main families of databases"></p>
+<p><em>Figure 2. The main families of databases, with examples of each.</em></p>
+<h3 id="21-relational-databases">2.1 Relational databases</h3><p>A relational database stores information in tables made up of rows and columns. Each table usually represents one kind of subject, such as students, courses, products, or orders. Keys connect related tables and help prevent records from being confused. Relational systems commonly use <strong>Structured Query Language (SQL)</strong> to create tables and work with data. MySQL, PostgreSQL, Oracle Database, and Microsoft SQL Server are examples.</p>
+<h3 id="22-nosql-databases">2.2 NoSQL databases</h3><p>The term <strong>NoSQL</strong> covers several database approaches that do not rely solely on the traditional relational table model. Document databases store records in document-like formats; key-value databases associate a key with a value; wide-column databases organize data by column families; and graph databases focus on relationships between entities. These models can be useful when an application has flexible data structures or needs to represent complex connections. MongoDB, Redis, Cassandra, and Neo4j are examples from different NoSQL categories.</p>
+<h3 id="23-other-models">2.3 Other models</h3><p>Hierarchical databases arrange records in a tree-like parent-and-child structure. Network databases allow records to have more complex links. Object-oriented databases represent data as objects, a concept familiar from object-oriented programming. These models are important in the history of database design and can still be useful in specialized systems.</p>
+<table>
+<thead>
+<tr>
+<th>Type</th>
+<th>How it organizes data</th>
+<th>Examples</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Relational</td>
+<td>Tables of rows and columns, connected by keys</td>
+<td>MySQL, PostgreSQL, Oracle Database, Microsoft SQL Server</td>
+</tr>
+<tr>
+<td>Document (NoSQL)</td>
+<td>Records in document-like formats</td>
+<td>MongoDB</td>
+</tr>
+<tr>
+<td>Key-value (NoSQL)</td>
+<td>A key associated with a value</td>
+<td>Redis</td>
+</tr>
+<tr>
+<td>Wide-column (NoSQL)</td>
+<td>Data organized by column families</td>
+<td>Cassandra</td>
+</tr>
+<tr>
+<td>Graph (NoSQL)</td>
+<td>Relationships between entities</td>
+<td>Neo4j</td>
+</tr>
+<tr>
+<td>Hierarchical</td>
+<td>Tree-like parent-and-child records</td>
+<td>Specialized systems</td>
+</tr>
+<tr>
+<td>Network</td>
+<td>Records with more complex links</td>
+<td>Specialized systems</td>
+</tr>
+<tr>
+<td>Object-oriented</td>
+<td>Data represented as objects</td>
+<td>Specialized systems</td>
+</tr>
+</tbody></table>
+<p><em>Table 1. A quick comparison of database models.</em></p>
+<blockquote>
+<p><strong>Choosing a database</strong>
+A small desktop program may work well with an embedded database such as SQLite. A business application with structured transactions may be suited to a relational DBMS. A service that stores flexible product descriptions might consider a document database, while a social network analysis tool may benefit from a graph model. The decision should follow the needs of the application rather than a general claim that one technology is always faster or better.</p>
+</blockquote>
+<hr>
+<h2 id="3-structure-of-a-database-system">3. Structure of a Database System</h2><p>A database system includes more than stored records. It usually involves the data, DBMS software, users or applications, and supporting processes such as backups and access control. These parts work together so that information can be used without every application needing to manage the physical files directly.</p>
+<p><img src="/posts/database-systems/db-03-architecture.png" alt="Database system architecture"></p>
+<p><em>Figure 3. A simplified database architecture: applications send requests through the DBMS, which manages stored data and supporting records.</em></p>
+<h3 id="the-data-layer">The data layer</h3><p>The data layer contains the actual records and their structure. In a relational database, information is arranged in tables. A column has a name and a data type, while each row represents one record. A <strong>primary key</strong> identifies a row, and a <strong>foreign key</strong> can connect it to a row in another table. These relationships help avoid storing the same facts repeatedly.</p>
+<h3 id="the-database-management-system">The database management system</h3><p>The DBMS interprets requests, checks permissions, applies constraints, and coordinates changes. It may also manage indexes that help queries find records more quickly. Transaction support is especially important when several operations must succeed together. For example, transferring money between two accounts should not subtract money from one account without adding it to the other.</p>
+<h3 id="users-applications-and-administrators">Users, applications, and administrators</h3><p>End users normally interact through an application, such as a school portal or online store. Developers build the application and its queries, while database administrators may manage performance, user permissions, backups, and recovery. In small projects, one person may perform several of these roles. In larger organizations, separating responsibilities can improve security and reliability.</p>
+<hr>
+<h2 id="4-how-databases-work">4. How Databases Work</h2><p>In a typical database application, a user takes an action, the application prepares a request, and the DBMS processes it. The system checks the request, finds or changes the relevant records, and returns a result. The details vary by product, but this basic pattern is common to many database-backed services.</p>
+<p><img src="/posts/database-systems/db-04-request-cycle.png" alt="The basic request cycle"></p>
+<p><em>Figure 4. The basic request cycle in a database-backed application.</em></p>
+<h3 id="sql-a-practical-example">SQL: a practical example</h3><p>SQL stands for Structured Query Language. It is widely used with relational databases. The following example creates a small Students table. A primary key gives each student a distinct identifier, and the Department column records the student&#39;s field of study.</p>
+<div class="term" dir="ltr"><div class="term-bar"><span class="d d1"></span><span class="d d2"></span><span class="d d3"></span><span class="file">snippet.sql</span><button type="button" class="copy" data-copy>COPY</button></div><pre class="shiki vitesse-dark" style="background-color:#121212;color:#dbd7caee" tabindex="0"><code><span class="line"><span style="color:#4D9375">CREATE</span><span style="color:#4D9375"> TABLE</span><span style="color:#80A665"> Students</span><span style="color:#DBD7CAEE"> (</span></span>
+<span class="line"><span style="color:#DBD7CAEE">  StudentID </span><span style="color:#CB7676">INTEGER</span><span style="color:#CB7676"> PRIMARY KEY</span><span style="color:#DBD7CAEE">,</span></span>
+<span class="line"><span style="color:#DBD7CAEE">  FullName </span><span style="color:#CB7676">VARCHAR</span><span style="color:#DBD7CAEE">(</span><span style="color:#4C9A91">100</span><span style="color:#DBD7CAEE">),</span></span>
+<span class="line"><span style="color:#DBD7CAEE">  Department </span><span style="color:#CB7676">VARCHAR</span><span style="color:#DBD7CAEE">(</span><span style="color:#4C9A91">60</span><span style="color:#DBD7CAEE">)</span></span>
+<span class="line"><span style="color:#DBD7CAEE">);</span></span></code></pre></div><p>After records have been added, a query can select students from one department:</p>
+<div class="term" dir="ltr"><div class="term-bar"><span class="d d1"></span><span class="d d2"></span><span class="d d3"></span><span class="file">snippet.sql</span><button type="button" class="copy" data-copy>COPY</button></div><pre class="shiki vitesse-dark" style="background-color:#121212;color:#dbd7caee" tabindex="0"><code><span class="line"><span style="color:#4D9375">SELECT</span><span style="color:#DBD7CAEE"> StudentID, FullName</span></span>
+<span class="line"><span style="color:#4D9375">FROM</span><span style="color:#DBD7CAEE"> Students</span></span>
+<span class="line"><span style="color:#4D9375">WHERE</span><span style="color:#DBD7CAEE"> Department </span><span style="color:#CB7676">=</span><span style="color:#C98A7D77"> '</span><span style="color:#C98A7D">Computer Science</span><span style="color:#C98A7D77">'</span></span>
+<span class="line"><span style="color:#4D9375">ORDER BY</span><span style="color:#DBD7CAEE"> FullName;</span></span></code></pre></div><p>This query asks the DBMS to return the student ID and name for records whose department is Computer Science, sorted by name. SQL also includes commands to insert new rows, update existing information, delete records, and combine related tables. In real applications, queries should be written carefully and user-provided values should be passed safely rather than joined into query text, helping prevent <strong>SQL injection</strong> attacks.</p>
+<h3 id="indexes-and-transactions">Indexes and transactions</h3><p>An <strong>index</strong> is an additional structure that can speed up searches on selected columns, although indexes take storage space and can make updates more expensive. A <strong>transaction</strong> groups related operations into a unit. Many relational systems provide transaction guarantees commonly described as <strong>ACID</strong>: atomicity, consistency, isolation, and durability. These properties help preserve correct results when operations fail or users work concurrently.</p>
+<blockquote>
+<p><strong>Good design is important</strong>
+A useful database design starts with clear requirements. Tables should represent meaningful entities, data types should match the values being stored, and constraints should prevent invalid records. Developers should test queries with realistic data and consider both performance and maintainability.</p>
+</blockquote>
+<hr>
+<h2 id="5-benefits-challenges-and-applications">5. Benefits, Challenges, and Applications</h2><h3 id="benefits">Benefits</h3><p>A database can keep information organized, reduce unnecessary duplication, support accurate reporting, and make it easier for several users to work with shared records. Access permissions can limit who may read or change particular information. Backups and recovery tools can also reduce the impact of hardware failure or accidental deletion when they are configured and tested properly.</p>
+<h3 id="challenges-and-responsible-use">Challenges and responsible use</h3><p>Database systems require planning and ongoing care. Poorly designed tables can lead to inconsistent records, and badly written queries may become slow as data grows. Sensitive information must be protected through appropriate permissions, encryption where suitable, secure application code, and careful handling of backups. Organizations should also consider legal requirements and avoid collecting personal data that they do not need. A database is a tool; its reliability depends partly on the people and processes around it.</p>
+<h3 id="examples-in-everyday-life">Examples in everyday life</h3><table>
+<thead>
+<tr>
+<th>Field</th>
+<th>Information stored in databases</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Banking</td>
+<td>Account balances, transfers, and transaction histories</td>
+</tr>
+<tr>
+<td>Healthcare</td>
+<td>Appointments, test results, and patient records</td>
+</tr>
+<tr>
+<td>Education</td>
+<td>Student registration, course lists, attendance, and grades</td>
+</tr>
+<tr>
+<td>E-commerce</td>
+<td>Product catalogs, orders, stock levels, and delivery details</td>
+</tr>
+<tr>
+<td>Transport</td>
+<td>Bookings, schedules, and route information</td>
+</tr>
+</tbody></table>
+<p><em>Table 2. Everyday uses of databases.</em></p>
+<p>In each case, databases help turn large collections of records into information that can be searched and acted upon.</p>
+<hr>
+<h2 id="conclusion">Conclusion</h2><p>Databases are a basic part of modern computing because they provide a structured way to store, retrieve, and protect information. Relational databases remain useful for many applications that depend on clear relationships and reliable transactions, while NoSQL and other models address different data needs. Understanding the data, choosing a suitable model, and maintaining security and backups are all essential to a successful database system.</p>
+<hr>
+<h2 id="references">References</h2><ol>
+<li>PostgreSQL Global Development Group. <em>PostgreSQL Documentation: The SQL Language - Concepts.</em> postgresql.org/docs/current/tutorial-concepts.html</li>
+<li>PostgreSQL Global Development Group. <em>PostgreSQL Tutorial.</em> postgresql.org/docs/current/tutorial.html</li>
+<li>MongoDB. <em>What Is a NoSQL Database?</em> mongodb.com/resources/basics/databases/nosql-explained</li>
+<li>Oracle. <em>What Is a Database?</em> oracle.com/database/what-is-database/</li>
+</ol>
+<p><em>Accessed October 2026. This post is an introductory overview; specific features vary by database product and version.</em></p>
+5:["$","main",null,{"className":"pb-20","children":[["$","$L12",null,{}],["$","$L13",null,{"status":"Ready to Hire","lang":"en","linkPrefix":"/"}],["$","article",null,{"className":"mx-auto w-full max-w-3xl px-5 pt-14 sm:px-8","children":[["$","header",null,{"children":[["$","p",null,{"className":"font-mono text-xs tracking-widest text-fog","children":[["$","span",null,{"className":"text-neon","children":"❯ ~/blog"}]," ⟶ ","database-systems",".md"]}],["$","div",null,{"className":"mt-5 flex flex-wrap gap-2","children":[["$","$L14","Databases",{"href":"/blog/tags/databases","className":"rounded-md border border-neon/25 bg-neon/10 px-2 py-0.5 font-mono text-[11px] tracking-wide text-neon transition hover:border-neon","children":"DATABASES"}],["$","$L14","SQL",{"href":"/blog/tags/sql","className":"rounded-md border border-neon/25 bg-neon/10 px-2 py-0.5 font-mono text-[11px] tracking-wide text-neon transition hover:border-neon","children":"SQL"}],["$","$L14","Computer Science",{"href":"/blog/tags/computer-science","className":"rounded-md border border-neon/25 bg-neon/10 px-2 py-0.5 font-mono text-[11px] tracking-wide text-neon transition hover:border-neon","children":"COMPUTER SCIENCE"}]]}],["$","h1",null,{"className":"chromatic mt-4 text-3xl font-black leading-tight sm:text-4xl","children":"Database Systems: How Information Is Organized, Stored and Protected"}],["$","p",null,{"className":"mt-4 text-lg leading-relaxed text-fog","children":"Relational and NoSQL models, the anatomy of a DBMS, SQL by example, indexes, transactions and ACID - an introductory map of how modern databases actually work."}],["$","div",null,{"className":"mt-6 flex flex-wrap items-center gap-x-5 gap-y-2 rounded-xl border border-line bg-panel px-4 py-3 font-mono text-xs text-fog","children":[["$","span",null,{"children":["DATE: ",["$","span",null,{"className":"text-mist","children":"Oct 24, 2026"}]]}],["$","span",null,{"children":["READ: ",["$","span",null,{"className":"text-beam","children":["~",9," MIN"]}]]}],["$","span",null,{"children":["AUTHOR: ",["$","span",null,{"className":"text-mist","children":"SOHEIL MAHAJER"}]]}]]}]]}],["$","div",null,{"className":"prose-blog mt-10","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16","$L17","$L18","$L19","$L1a"]}],"$L1b","$L1c"]}]
+16:["$","p",null,{"className":"mt-14 text-center font-mono text-xs tracking-widest text-fog","children":"——— // EOF — THANKS_FOR_READING ———"}]
+17:["$","div",null,{"className":"mt-6 flex flex-wrap justify-center gap-2","children":[["$","a",null,{"href":"https://twitter.com/intent/tweet?text=Database%20Systems%3A%20How%20Information%20Is%20Organized%2C%20Stored%20and%20Protected&url=https://soheilmohajer.ir/blog/database-systems","target":"_blank","rel":"noopener noreferrer","className":"rounded-full border border-line bg-panel px-3.5 py-1.5 font-mono text-[11px] tracking-wide text-fog transition hover:border-neon/50 hover:text-neon","children":"SHARE // X"}],["$","a",null,{"href":"https://www.linkedin.com/sharing/share-offsite/?url=https://soheilmohajer.ir/blog/database-systems","target":"_blank","rel":"noopener noreferrer","className":"rounded-full border border-line bg-panel px-3.5 py-1.5 font-mono text-[11px] tracking-wide text-fog transition hover:border-neon/50 hover:text-neon","children":"SHARE // LINKEDIN"}],["$","a",null,{"href":"https://t.me/share/url?url=https://soheilmohajer.ir/blog/database-systems&text=Database%20Systems%3A%20How%20Information%20Is%20Organized%2C%20Stored%20and%20Protected","target":"_blank","rel":"noopener noreferrer","className":"rounded-full border border-line bg-panel px-3.5 py-1.5 font-mono text-[11px] tracking-wide text-fog transition hover:border-neon/50 hover:text-neon","children":"SHARE // TELEGRAM"}]]}]
+18:["$","div",null,{"className":"mt-10 flex flex-wrap items-center gap-4 rounded-2xl border border-line bg-panel p-5","children":[["$","span",null,{"aria-hidden":true,"className":"grid size-14 shrink-0 place-items-center rounded-lg border border-neon/40 bg-neon/10 font-mono text-sm font-bold text-neon","children":"SM$"}],["$","div",null,{"children":[["$","p",null,{"className":"font-black","children":"Soheil Mohajer"}],["$","p",null,{"className":"text-sm text-fog","children":"Android & AI Agent Developer — Mashhad, IR"}]]}],["$","div",null,{"className":"ms-auto flex gap-2","children":[["$","a",null,{"href":"https://github.com/soheilmohajer-code","target":"_blank","rel":"noopener noreferrer","className":"rounded-full border border-line bg-panel-2 px-3 py-1 font-mono text-[11px] text-fog transition hover:border-neon/50 hover:text-neon","children":"GITHUB"}],["$","a",null,{"href":"https://t.me/soheil_mohajer","target":"_blank","rel":"noopener noreferrer","className":"rounded-full border border-line bg-panel-2 px-3 py-1 font-mono text-[11px] text-fog transition hover:border-neon/50 hover:text-neon","children":"TELEGRAM"}]]}]]}]
+19:["$","nav",null,{"className":"mt-6 grid gap-4 sm:grid-cols-2","aria-label":"Post navigation","children":[["$","$L14",null,{"href":"/blog/vuejs-framework","className":"rounded-xl border border-line bg-panel p-4 transition hover:border-neon/30","children":[["$","span",null,{"className":"font-mono text-[10px] tracking-widest text-fog","children":"❮ PREV_POST"}],["$","b",null,{"className":"mt-1 block text-sm leading-snug","children":"Vue.js: History, Features and Advantages"}]]}],null]}]
+1a:["$","div",null,{"className":"mt-6 flex flex-wrap items-center gap-4 rounded-2xl border border-dashed border-neon/40 bg-neon/5 p-5","children":[["$","div",null,{"children":[["$","b",null,{"className":"font-mono text-sm tracking-widest text-neon","children":"SUBSCRIBE // RSS.SYS"}],["$","p",null,{"className":"mt-1 text-sm text-fog","children":"New research notes and write-ups, straight to your reader."}]]}],["$","$L14",null,{"href":"/feed.xml","className":"ms-auto rounded-lg bg-neon px-4 py-2 font-mono text-xs font-bold text-black transition hover:brightness-110","children":"ADD_TO_READER ❯"}]]}]
+1b:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"Database Systems: How Information Is Organized, Stored and Protected\",\"description\":\"Relational and NoSQL models, the anatomy of a DBMS, SQL by example, indexes, transactions and ACID - an introductory map of how modern databases actually work.\",\"datePublished\":\"2026-10-24\",\"keywords\":\"Databases, SQL, Computer Science\",\"author\":{\"@type\":\"Person\",\"name\":\"Soheil Mohajer\",\"url\":\"https://soheilmohajer.ir\"},\"mainEntityOfPage\":\"https://soheilmohajer.ir/blog/database-systems\"}"}}]
+1c:["$","script",null,{"dangerouslySetInnerHTML":{"__html":"document.addEventListener(\"click\",function(e){var b=e.target.closest(\"[data-copy]\");if(!b)return;var pre=b.closest(\".term\").querySelector(\"pre\");if(!pre||!navigator.clipboard)return;navigator.clipboard.writeText(pre.innerText).then(function(){var o=b.textContent;b.textContent=\"COPIED\";setTimeout(function(){b.textContent=o},1200)});});"}}]

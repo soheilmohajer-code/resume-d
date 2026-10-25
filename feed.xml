@@ -7,6 +7,35 @@
     <language>en</language>
     <atom:link href="https://soheilmohajer.ir/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Database Systems: How Information Is Organized, Stored and Protected</title>
+      <link>https://soheilmohajer.ir/blog/database-systems</link>
+      <guid isPermaLink="true">https://soheilmohajer.ir/blog/database-systems</guid>
+      <pubDate>Sat, 24 Oct 2026 00:00:00 GMT</pubDate>
+      <description>Relational and NoSQL models, the anatomy of a DBMS, SQL by example, indexes, transactions and ACID - an introductory map of how modern databases actually work.</description>
+      <category>Databases</category>
+      <category>SQL</category>
+      <category>Computer Science</category>
+    </item>
+    <item>
+      <title>Vue.js: History, Features and Advantages</title>
+      <link>https://soheilmohajer.ir/blog/vuejs-framework</link>
+      <guid isPermaLink="true">https://soheilmohajer.ir/blog/vuejs-framework</guid>
+      <pubDate>Thu, 22 Oct 2026 00:00:00 GMT</pubDate>
+      <description>A tour of the progressive JavaScript framework: Evan You&apos;s original idea, reactivity, single-file components, directives, the Vite ecosystem, and an honest comparison with React and Angular.</description>
+      <category>Vue</category>
+      <category>JavaScript</category>
+      <category>Frontend</category>
+    </item>
+    <item>
+      <title>The History of the CPU: From a Calculator Chip to Billions of Transistors</title>
+      <link>https://soheilmohajer.ir/blog/cpu-history</link>
+      <guid isPermaLink="true">https://soheilmohajer.ir/blog/cpu-history</guid>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 GMT</pubDate>
+      <description>Six eras of CPU history - the 1971 Intel 4004, the x86 standard, the Pentium years, the GHz race that hit a wall of heat, the multi-core turn, and the modern ARM era.</description>
+      <category>Hardware</category>
+      <category>Computer Science</category>
+    </item>
+    <item>
       <title>Building a Resilient Adhan Scheduler on Android</title>
       <link>https://soheilmohajer.ir/blog/adhan-scheduler</link>
       <guid isPermaLink="true">https://soheilmohajer.ir/blog/adhan-scheduler</guid>

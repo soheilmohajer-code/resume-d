@@ -1,0 +1,181 @@
+1:"$Sreact.fragment"
+3:I[39756,["/_next/static/chunks/2li_n9fcff5ve.js","/_next/static/chunks/33x7cmkqiwvsf.js"],"default"]
+4:I[37457,["/_next/static/chunks/2li_n9fcff5ve.js","/_next/static/chunks/33x7cmkqiwvsf.js"],"default"]
+6:I[97367,["/_next/static/chunks/2li_n9fcff5ve.js","/_next/static/chunks/33x7cmkqiwvsf.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+a:I[97367,["/_next/static/chunks/2li_n9fcff5ve.js","/_next/static/chunks/33x7cmkqiwvsf.js"],"ViewportBoundary"]
+c:I[97367,["/_next/static/chunks/2li_n9fcff5ve.js","/_next/static/chunks/33x7cmkqiwvsf.js"],"MetadataBoundary"]
+e:I[68027,["/_next/static/chunks/2li_n9fcff5ve.js","/_next/static/chunks/33x7cmkqiwvsf.js"],"default",1]
+:HL["/_next/static/chunks/3i1ykeq4mj41i.css","style"]
+:HC["/",""]
+9:X
+0:{"P":null,"c":["","blog","cpu-history",""],"q":"","i":false,"f":[[["",{"children":["blog",{"children":[["slug","cpu-history","d",["tags"]],{"children":["__PAGE__",{},"$undefined","$undefined",4608]},"$undefined","$undefined",4608]},"$undefined","$undefined",4608]},"$undefined","$undefined",4624],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/3i1ykeq4mj41i.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/2li_n9fcff5ve.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/33x7cmkqiwvsf.js","async":true,"nonce":"$undefined"}]],"$L2"]}],{"children":[["$","$1","c",{"children":[null,["$","div",null,{"lang":"en","dir":"ltr","className":"relative z-10","children":[["$","script",null,{"dangerouslySetInnerHTML":{"__html":"try {\n  document.documentElement.lang = \"en\";\n  document.documentElement.dir = \"ltr\";\n} catch (e) {}"}}],["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L5",[["$","script","script-0",{"src":"/_next/static/chunks/158bio-g4urb_.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/37kq702g0ymms.js","async":true,"nonce":"$undefined"}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],{},null,false,null]},null,false,"$9"]},null,false,null]},null,false,null],["$","$1","h",{"children":[null,["$","$La",null,{"children":"$Lb"}],["$","div",null,{"hidden":true,"children":["$","$Lc",null,{"children":["$","$7",null,{"name":"Next.Metadata","children":"$Ld"}]}]}],null]}],false]],"m":"$undefined","G":["$e",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/3i1ykeq4mj41i.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"h":null,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"DCJX1MLFGBgTLA4rzvRvE"}
+f:I[90715,["/_next/static/chunks/2li_n9fcff5ve.js","/_next/static/chunks/33x7cmkqiwvsf.js"],"default"]
+10:I[56194,["/_next/static/chunks/2li_n9fcff5ve.js","/_next/static/chunks/33x7cmkqiwvsf.js"],"default"]
+9:C
+2:["$","html",null,{"lang":"fa","dir":"rtl","className":"h-full antialiased","suppressHydrationWarning":true,"children":[["$","head",null,{"children":["$","script",null,{"dangerouslySetInnerHTML":{"__html":"\ntry {\n  // Single-theme site (default neon): clear any previously saved custom theme.\n  localStorage.removeItem(\"sm_theme\");\n  document.documentElement.removeAttribute(\"data-theme\");\n  var m = localStorage.getItem(\"sm_mode\");\n  if (m) document.documentElement.setAttribute(\"data-mode\", m);\n} catch (e) {}\n"}}]}],["$","body",null,{"className":"min-h-screen overflow-x-hidden bg-void font-sans text-mist","children":[["$","div",null,{"aria-hidden":true,"className":"pointer-events-none fixed inset-0 z-0 print:hidden","children":[["$","div",null,{"className":"grid-lines absolute inset-0"}],["$","div",null,{"className":"noise-layer absolute inset-0 opacity-[0.05] mix-blend-overlay"}],["$","div",null,{"className":"absolute inset-x-0 top-0 h-48 bg-gradient-to-b from-neon/[0.05] to-transparent"}],["$","div",null,{"className":"absolute bottom-[-10rem] start-[-6rem] size-[26rem] rounded-full bg-flare/[0.04] blur-[120px]"}],["$","div",null,{"className":"absolute end-[-8rem] top-1/3 size-[30rem] rounded-full bg-neon/[0.05] blur-[140px]"}]]}],["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","$Lf",null,{"lang":"fa"}],["$","$L10",null,{"lang":"fa"}]]}]]}]
+b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#05070b"}]]
+11:I[27201,["/_next/static/chunks/2li_n9fcff5ve.js","/_next/static/chunks/33x7cmkqiwvsf.js"],"IconMark"]
+8:null
+d:[["$","title","0",{"children":"The History of the CPU: From a Calculator Chip to Billions of Transistors | Soheil Mohajer"}],["$","meta","1",{"name":"description","content":"Six eras of CPU history - the 1971 Intel 4004, the x86 standard, the Pentium years, the GHz race that hit a wall of heat, the multi-core turn, and the modern ARM era."}],["$","link","2",{"rel":"author","href":"https://soheilmohajer.ir"}],["$","meta","3",{"name":"author","content":"سهیل مهاجر"}],["$","meta","4",{"name":"keywords","content":"سهیل مهاجر,توسعه‌دهنده اندروید,ایجنت هوش مصنوعی,برنامه‌نویسی بازی,Unity,Android Developer,AI Agent Developer,n8n,کافه بازار"}],["$","meta","5",{"name":"robots","content":"index, follow"}],["$","link","6",{"rel":"canonical","href":"https://soheilmohajer.ir/blog/cpu-history/"}],["$","meta","7",{"property":"og:title","content":"The History of the CPU: From a Calculator Chip to Billions of Transistors"}],["$","meta","8",{"property":"og:description","content":"Six eras of CPU history - the 1971 Intel 4004, the x86 standard, the Pentium years, the GHz race that hit a wall of heat, the multi-core turn, and the modern ARM era."}],["$","meta","9",{"property":"og:type","content":"article"}],["$","meta","10",{"property":"article:published_time","content":"2026-10-20"}],["$","meta","11",{"property":"article:tag","content":"Hardware"}],["$","meta","12",{"property":"article:tag","content":"Computer Science"}],["$","meta","13",{"name":"twitter:card","content":"summary"}],["$","meta","14",{"name":"twitter:title","content":"The History of the CPU: From a Calculator Chip to Billions of Transistors"}],["$","meta","15",{"name":"twitter:description","content":"Six eras of CPU history - the 1971 Intel 4004, the x86 standard, the Pentium years, the GHz race that hit a wall of heat, the multi-core turn, and the modern ARM era."}],["$","link","16",{"rel":"icon","href":"/icon.svg?icon.3flq9i3ko7ub7.svg","sizes":"any","type":"image/svg+xml"}],["$","$L11","17",{}]]
+12:I[36380,["/_next/static/chunks/2li_n9fcff5ve.js","/_next/static/chunks/33x7cmkqiwvsf.js","/_next/static/chunks/158bio-g4urb_.js","/_next/static/chunks/37kq702g0ymms.js"],"default"]
+13:I[2971,["/_next/static/chunks/2li_n9fcff5ve.js","/_next/static/chunks/33x7cmkqiwvsf.js","/_next/static/chunks/158bio-g4urb_.js","/_next/static/chunks/37kq702g0ymms.js"],"default"]
+14:I[22016,["/_next/static/chunks/2li_n9fcff5ve.js","/_next/static/chunks/33x7cmkqiwvsf.js","/_next/static/chunks/158bio-g4urb_.js","/_next/static/chunks/37kq702g0ymms.js"],""]
+15:T41cb,<h2 id="1-introduction-the-brain-of-the-computer">1. Introduction: The Brain of the Computer</h2><p>Every time you open an app, type a message or play a game, one tiny piece of silicon is doing almost all of the thinking: the <strong>CPU</strong>, or <em>Central Processing Unit</em>. It reads instructions from a program, performs the calculations they ask for, and tells the rest of the computer what to do next. Without it, a computer is just a box of expensive, silent parts.</p>
+<p>A simple way to imagine a CPU is as a <strong>chef in a very fast kitchen</strong>. The recipe is the program, the ingredients are the data, and the chef follows the recipe step by step. Over the last 50 years, this chef has learned to cook billions of steps every second, and has even learned to work together with other chefs at the same time.</p>
+<p>Inside, a CPU has a few main parts. The <strong>Control Unit</strong> decides which instruction comes next. The <strong>ALU</strong> (Arithmetic Logic Unit) does the maths and logic. <strong>Registers</strong> are tiny, super-fast storage spots, and the <strong>cache</strong> is a small, fast memory that keeps frequently used data close by. These parts talk to the main memory and to input/output devices through a set of wires called the <strong>bus</strong>.</p>
+<p><img src="/posts/cpu-history/cpu-01-cpu-diagram.png" alt="A simplified view of a CPU"></p>
+<p><em>Figure 1. A simplified view of a CPU and how it connects to the rest of the computer.</em></p>
+<p>This post tells the story of how the CPU grew from a modest chip with 2,300 transistors into a giant with billions. The story has six main chapters, shown in the timeline below.</p>
+<p><img src="/posts/cpu-history/cpu-02-timeline.png" alt="Timeline of CPU history"></p>
+<p><em>Figure 2. The six eras of CPU history, with some famous milestones.</em></p>
+<hr>
+<h2 id="2-the-birth-of-the-microprocessor-1971-1978">2. The Birth of the Microprocessor (1971-1978)</h2><p>Before 1971, a computer&#39;s processor was built from many separate chips, or even from whole cabinets full of electronics. The big idea of the 1970s was to put <em>the entire processor on one single chip</em>. A chip like that is called a <strong>microprocessor</strong>.</p>
+<h3 id="intel-4004-1971">Intel 4004 (1971)</h3><p>The first commercial microprocessor was the <strong>Intel 4004</strong>, released in November 1971. Interestingly, it was not designed for a computer at all. A Japanese company called Busicom wanted chips for a new line of desk calculators, and Intel engineers, including Federico Faggin, Ted Hoff, Stanley Mazor and Masatoshi Shima, designed the 4004 for that job. It was a 4-bit processor with about 2,300 transistors running at 740 kHz. By today&#39;s standards that is incredibly tiny, yet it was as powerful as the room-sized ENIAC computer of the 1940s.</p>
+<h3 id="from-8008-to-8080">From 8008 to 8080</h3><p>Intel quickly followed with the 8-bit <strong>8008</strong> in 1972 and the much-improved <strong>8080</strong> in 1974. The 8080 had around 4,500 transistors, ran at 2 MHz, and became the heart of early hobby computers.</p>
+<blockquote>
+<p><strong>Fun fact: the computer that launched Microsoft</strong>
+In 1975 a kit computer called the <strong>Altair 8800</strong>, powered by the Intel 8080, appeared on the cover of a magazine. Two young programmers, Bill Gates and Paul Allen, saw it and wrote a BASIC interpreter for it. That small project was the first product of a company called Microsoft.</p>
+</blockquote>
+<h3 id="the-16-bit-step-intel-8086-1978">The 16-bit step: Intel 8086 (1978)</h3><p>In 1978 Intel released the <strong>8086</strong>, a 16-bit processor with about 29,000 transistors. Its design, called the <strong>x86 architecture</strong>, was so successful that its descendants are still used in most laptops and desktops almost 50 years later. Few engineering decisions have lasted this long.</p>
+<hr>
+<h2 id="3-the-personal-computer-era-1978-1990">3. The Personal Computer Era (1978-1990)</h2><p>In 1981 IBM launched the <strong>IBM PC</strong>, built around the Intel 8088, a cheaper cousin of the 8086. Because IBM used standard parts, other companies could build &quot;PC compatible&quot; machines, and the personal computer market exploded. From then on, Intel&#39;s x86 chips became the standard brain of the PC.</p>
+<p>During this decade, each new Intel chip brought a big jump in capability:</p>
+<ul>
+<li><strong>80286 (1982):</strong> introduced <em>protected mode</em>, which helped the computer keep programs separated and safer.</li>
+<li><strong>80386 (1985):</strong> the first 32-bit x86 chip, which made modern operating systems and multitasking practical.</li>
+<li><strong>80486 (1989):</strong> placed the math coprocessor (FPU) and a cache on the same chip as the CPU, and passed the one-million-transistor mark.</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>Chip</th>
+<th>Year</th>
+<th>Word size</th>
+<th>Transistors</th>
+<th>Typical launch speed</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Intel 4004</td>
+<td>1971</td>
+<td>4-bit</td>
+<td>2,300</td>
+<td>0.74 MHz</td>
+</tr>
+<tr>
+<td>Intel 8080</td>
+<td>1974</td>
+<td>8-bit</td>
+<td>about 4,500</td>
+<td>2 MHz</td>
+</tr>
+<tr>
+<td>Intel 8086</td>
+<td>1978</td>
+<td>16-bit</td>
+<td>about 29,000</td>
+<td>5 MHz</td>
+</tr>
+<tr>
+<td>Intel 80286</td>
+<td>1982</td>
+<td>16-bit</td>
+<td>about 134,000</td>
+<td>6 MHz</td>
+</tr>
+<tr>
+<td>Intel 80386</td>
+<td>1985</td>
+<td>32-bit</td>
+<td>about 275,000</td>
+<td>16 MHz</td>
+</tr>
+<tr>
+<td>Intel 80486</td>
+<td>1989</td>
+<td>32-bit</td>
+<td>about 1.2 million</td>
+<td>25 MHz</td>
+</tr>
+</tbody></table>
+<p><em>Table 1. Key Intel processors of the early years (figures are approximate).</em></p>
+<hr>
+<h2 id="4-the-pentium-era-and-the-intel-amd-rivalry-1990s">4. The Pentium Era and the Intel-AMD Rivalry (1990s)</h2><p>In 1993 Intel introduced the <strong>Pentium</strong>. Why not call it the &quot;586&quot;? Because courts had ruled that a plain number could not be protected as a trademark, so Intel chose a name it could own. The Pentium had about 3.1 million transistors and could execute two instructions in the same clock cycle, a trick called <em>superscalar execution</em>.</p>
+<p>Not everything went smoothly. In 1994 a mathematician noticed that some early Pentium chips gave slightly wrong answers in certain division problems. This <strong>FDIV bug</strong> became big news, and Intel eventually agreed to replace the affected chips, at a cost of hundreds of millions of dollars. It was a lesson for the whole industry that even tiny hardware mistakes matter.</p>
+<p>The rest of the decade brought the Pentium Pro (1995), Pentium II (1997) and Pentium III (1999), each faster than the last. Meanwhile, a competitor was growing stronger. <strong>AMD</strong> (Advanced Micro Devices) had been making x86 compatible chips for years, and in 1999 it launched the <strong>Athlon</strong>, a processor that matched or beat Intel&#39;s best. For the first time, buyers had a real choice.</p>
+<blockquote>
+<p><strong>Fun fact: the race to 1 GHz</strong>
+In March 2000, AMD released the first 1 GHz Athlon, and Intel answered with its own 1 GHz Pentium III just two days later. One billion cycles per second had been a dream a decade earlier. It was a fierce, famous, and very public race.</p>
+</blockquote>
+<blockquote>
+<p><strong>My experience: my first laptop</strong>
+My first laptop was a <strong>Lenovo B570e</strong>, and its processor was an Intel <strong>Pentium</strong>. The name was the same as the famous 1993 chip, but its meaning had changed: by then &quot;Pentium&quot; was the label of a budget line, placed below the Core i3, i5 and i7 families. It is a good reminder that a brand name can stay the same while the technology behind it moves on.</p>
+</blockquote>
+<hr>
+<h2 id="5-the-ghz-race-and-the-power-wall-2000-2005">5. The GHz Race and the Power Wall (2000-2005)</h2><p>After 2000, the main marketing battle was simple: whoever had the higher clock speed won. Intel&#39;s <strong>Pentium 4</strong> (2000) was designed for exactly this, and by 2004 versions of it reached about 3.8 GHz. AMD took a different path with the <strong>Athlon 64</strong> (2003), which brought 64-bit computing to ordinary PCs and showed that more clever design could beat raw speed.</p>
+<p>Then the industry hit a wall, literally a wall of heat. Faster clocks need more electricity, and more electricity becomes heat. Pentium 4 chips became so hot that cooling them was hard and expensive. In 2004 Intel cancelled its planned next-generation chip, and the whole industry changed direction. Figure 3 shows the dramatic result: after 2004, clock speeds almost stopped rising.</p>
+<p><img src="/posts/cpu-history/cpu-03-clock-speed.png" alt="Clock speed of flagship CPUs"></p>
+<p><em>Figure 3. Launch clock speeds of flagship desktop CPUs (approximate, log scale). Growth slows sharply after 2004.</em></p>
+<hr>
+<h2 id="6-the-multi-core-era-2005-2015">6. The Multi-core Era (2005-2015)</h2><p>If one chef cannot cook any faster, hire more chefs. That was the new idea: instead of one very fast core, put <strong>two or more cores</strong> on one chip. A <strong>core</strong> is a complete processing unit, so a dual-core CPU can truly work on two tasks at the same time.</p>
+<p><img src="/posts/cpu-history/cpu-04-multicore.png" alt="Single-core versus multi-core"></p>
+<p><em>Figure 4. The idea behind multi-core CPUs: more workers instead of one faster worker.</em></p>
+<p>In 2005 AMD launched the <strong>Athlon 64 X2</strong> and Intel the <strong>Pentium D</strong>, the first mainstream dual-core desktop processors. In 2006 Intel&#39;s <strong>Core 2 Duo</strong> arrived with excellent performance and low power use. Then came the <strong>Core i3, i5 and i7</strong> family (2008 onwards), which brought 4, 6 and later more cores to everyday computers. Software had to change too: programmers had to learn <em>parallel programming</em> so their programs could use all the cores.</p>
+<p>During the same decade, smartphones and tablets took off, and their processors cared about something different: not only speed, but also <strong>battery life</strong>. That demand opened the door to a different kind of processor design, described next.</p>
+<hr>
+<h2 id="7-the-modern-era-2015-today">7. The Modern Era (2015-Today)</h2><h3 id="arm-small-efficient-and-everywhere">ARM: small, efficient and everywhere</h3><p><strong>ARM</strong> began in the 1980s at a British company called Acorn Computers, where engineers Sophie Wilson and Steve Furber designed a simple, energy-saving processor. ARM uses an approach called <strong>RISC</strong> (Reduced Instruction Set Computing): few, simple instructions that run efficiently. The company licenses its designs to others, and today ARM-based chips power almost every smartphone in the world.</p>
+<h3 id="amd-ryzen-a-strong-comeback">AMD Ryzen: a strong comeback</h3><p>After some difficult years, AMD returned in 2017 with the <strong>Ryzen</strong> processors based on its new <strong>Zen</strong> architecture. They offered more cores at competitive prices, forced Intel to react, and brought healthy competition back to the market. AMD also popularised <strong>chiplets</strong>: building a large processor from several smaller pieces joined together.</p>
+<h3 id="apple-silicon-a-surprise-from-a-phone-maker">Apple Silicon: a surprise from a phone maker</h3><p>In November 2020 Apple introduced the <strong>M1</strong>, its own ARM-based processor for Mac computers. With about 16 billion transistors, it combined high speed with very low power use, and showed the world that an ARM chip could beat many traditional PC processors. Intel and others began mixing <em>performance cores</em> and <em>efficiency cores</em> on the same chip as well, an idea that first became popular in phones.</p>
+<blockquote>
+<p><strong>Fun fact: how big is the change?</strong>
+The Apple M1 has roughly <strong>seven million times</strong> more transistors than the 1971 Intel 4004. If a bicycle had improved at the same rate, it would travel at over 100 million kilometres per hour.</p>
+</blockquote>
+<h3 id="moore39s-law">Moore&#39;s Law</h3><p>In 1965 Gordon Moore, who later co-founded Intel, noticed that the number of components on a chip was doubling regularly. In 1975 he adjusted the prediction to a doubling about every two years. This became known as <strong>Moore&#39;s Law</strong>, and for decades it was a target the whole industry tried to meet. Figure 5 shows how closely real CPUs have followed it.</p>
+<p><img src="/posts/cpu-history/cpu-05-transistors.png" alt="Transistor counts versus Moore&#39;s Law"></p>
+<p><em>Figure 5. Transistor counts of famous CPUs (approximate, log scale) compared with the Moore&#39;s Law trend.</em></p>
+<p>In recent years, shrinking transistors has become harder and more expensive, so progress has slowed a little. Even so, engineers keep finding new paths forward, as the next section shows.</p>
+<hr>
+<h2 id="8-the-future-of-cpus">8. The Future of CPUs</h2><p>Nobody can predict the future exactly, but several trends are already clear:</p>
+<ul>
+<li><strong>Specialised chips:</strong> modern processors now include dedicated parts for graphics (GPU) and artificial intelligence (NPU), because these jobs run much better on special hardware.</li>
+<li><strong>3D stacking and chiplets:</strong> if chips cannot get much smaller, build them upwards and combine small pieces into one package.</li>
+<li><strong>RISC-V:</strong> a free, open instruction set that anyone can use without paying licence fees, which is growing quickly in universities and industry.</li>
+<li><strong>Energy efficiency:</strong> as data centres and phones need more power, doing more work per watt matters more than ever.</li>
+</ul>
+<hr>
+<h2 id="9-conclusion">9. Conclusion</h2><p>The CPU&#39;s history is a story of ideas: putting a whole processor on one chip (1971), building a standard that lasted decades (x86), racing for speed until heat said stop, and then sharing the work between many cores. Today, a single chip in our pocket is millions of times more complex than the first microprocessor. Understanding this history also helps us understand why modern computers are designed the way they are, and where they may go next. For a computer engineering student, it is a reminder that every big technology starts as a small experiment.</p>
+<hr>
+<h2 id="glossary-of-technical-terms">Glossary of Technical Terms</h2><ul>
+<li><strong>ALU (Arithmetic Logic Unit):</strong> The part of the CPU that performs maths and logic operations.</li>
+<li><strong>Bit:</strong> The smallest unit of data, either 0 or 1. A 32-bit CPU handles 32 bits at once.</li>
+<li><strong>Bus:</strong> A group of wires that carries data between the CPU, memory and other parts.</li>
+<li><strong>Cache:</strong> A small, very fast memory close to the CPU that stores frequently used data.</li>
+<li><strong>Chiplet:</strong> A small piece of a processor; several chiplets are joined to make one large CPU.</li>
+<li><strong>Clock speed:</strong> How many cycles the CPU runs per second, measured in Hz (1 GHz = one billion cycles per second).</li>
+<li><strong>Core:</strong> A complete processing unit inside a CPU; multi-core CPUs have several.</li>
+<li><strong>FPU (Floating-Point Unit):</strong> The part of a CPU that does maths with decimal numbers.</li>
+<li><strong>Microprocessor:</strong> A whole CPU built on a single chip.</li>
+<li><strong>Moore&#39;s Law:</strong> The observation that the number of transistors on a chip doubles about every two years.</li>
+<li><strong>RISC:</strong> Reduced Instruction Set Computing: a design with a small set of simple, fast instructions.</li>
+<li><strong>Superscalar:</strong> A CPU that can run more than one instruction in a single clock cycle.</li>
+<li><strong>Transistor:</strong> A tiny electronic switch; billions of them make up a modern CPU.</li>
+<li><strong>x86:</strong> The instruction set family started by the Intel 8086, still used in most PCs.</li>
+</ul>
+<hr>
+<h2 id="references">References</h2><ol>
+<li>Computer History Museum. Online exhibits on the microprocessor and personal computers. computerhistory.org</li>
+<li>Intel Corporation. Intel Museum and company history pages (Intel 4004, 8086 and later processors). intel.com</li>
+<li>Moore, G. E. (1965). &quot;Cramming more components onto integrated circuits.&quot; <em>Electronics</em>, 38(8).</li>
+<li>Wikipedia. Articles: &quot;Intel 4004&quot;, &quot;Microprocessor chronology&quot;, &quot;Pentium FDIV bug&quot;, &quot;Moore&#39;s law&quot;, &quot;ARM architecture family&quot;.</li>
+<li>Arm Ltd. Company history and architecture overview. arm.com</li>
+<li>Apple Newsroom. Announcement of the Apple M1 chip (November 2020). apple.com/newsroom</li>
+</ol>
+5:["$","main",null,{"className":"pb-20","children":[["$","$L12",null,{}],["$","$L13",null,{"status":"Ready to Hire","lang":"en","linkPrefix":"/"}],["$","article",null,{"className":"mx-auto w-full max-w-3xl px-5 pt-14 sm:px-8","children":[["$","header",null,{"children":[["$","p",null,{"className":"font-mono text-xs tracking-widest text-fog","children":[["$","span",null,{"className":"text-neon","children":"❯ ~/blog"}]," ⟶ ","cpu-history",".md"]}],["$","div",null,{"className":"mt-5 flex flex-wrap gap-2","children":[["$","$L14","Hardware",{"href":"/blog/tags/hardware","className":"rounded-md border border-neon/25 bg-neon/10 px-2 py-0.5 font-mono text-[11px] tracking-wide text-neon transition hover:border-neon","children":"HARDWARE"}],["$","$L14","Computer Science",{"href":"/blog/tags/computer-science","className":"rounded-md border border-neon/25 bg-neon/10 px-2 py-0.5 font-mono text-[11px] tracking-wide text-neon transition hover:border-neon","children":"COMPUTER SCIENCE"}]]}],["$","h1",null,{"className":"chromatic mt-4 text-3xl font-black leading-tight sm:text-4xl","children":"The History of the CPU: From a Calculator Chip to Billions of Transistors"}],["$","p",null,{"className":"mt-4 text-lg leading-relaxed text-fog","children":"Six eras of CPU history - the 1971 Intel 4004, the x86 standard, the Pentium years, the GHz race that hit a wall of heat, the multi-core turn, and the modern ARM era."}],["$","div",null,{"className":"mt-6 flex flex-wrap items-center gap-x-5 gap-y-2 rounded-xl border border-line bg-panel px-4 py-3 font-mono text-xs text-fog","children":[["$","span",null,{"children":["DATE: ",["$","span",null,{"className":"text-mist","children":"Oct 20, 2026"}]]}],["$","span",null,{"children":["READ: ",["$","span",null,{"className":"text-beam","children":["~",12," MIN"]}]]}],["$","span",null,{"children":["AUTHOR: ",["$","span",null,{"className":"text-mist","children":"SOHEIL MAHAJER"}]]}]]}]]}],["$","div",null,{"className":"prose-blog mt-10","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16","$L17","$L18","$L19","$L1a"]}],"$L1b","$L1c"]}]
+16:["$","p",null,{"className":"mt-14 text-center font-mono text-xs tracking-widest text-fog","children":"——— // EOF — THANKS_FOR_READING ———"}]
+17:["$","div",null,{"className":"mt-6 flex flex-wrap justify-center gap-2","children":[["$","a",null,{"href":"https://twitter.com/intent/tweet?text=The%20History%20of%20the%20CPU%3A%20From%20a%20Calculator%20Chip%20to%20Billions%20of%20Transistors&url=https://soheilmohajer.ir/blog/cpu-history","target":"_blank","rel":"noopener noreferrer","className":"rounded-full border border-line bg-panel px-3.5 py-1.5 font-mono text-[11px] tracking-wide text-fog transition hover:border-neon/50 hover:text-neon","children":"SHARE // X"}],["$","a",null,{"href":"https://www.linkedin.com/sharing/share-offsite/?url=https://soheilmohajer.ir/blog/cpu-history","target":"_blank","rel":"noopener noreferrer","className":"rounded-full border border-line bg-panel px-3.5 py-1.5 font-mono text-[11px] tracking-wide text-fog transition hover:border-neon/50 hover:text-neon","children":"SHARE // LINKEDIN"}],["$","a",null,{"href":"https://t.me/share/url?url=https://soheilmohajer.ir/blog/cpu-history&text=The%20History%20of%20the%20CPU%3A%20From%20a%20Calculator%20Chip%20to%20Billions%20of%20Transistors","target":"_blank","rel":"noopener noreferrer","className":"rounded-full border border-line bg-panel px-3.5 py-1.5 font-mono text-[11px] tracking-wide text-fog transition hover:border-neon/50 hover:text-neon","children":"SHARE // TELEGRAM"}]]}]
+18:["$","div",null,{"className":"mt-10 flex flex-wrap items-center gap-4 rounded-2xl border border-line bg-panel p-5","children":[["$","span",null,{"aria-hidden":true,"className":"grid size-14 shrink-0 place-items-center rounded-lg border border-neon/40 bg-neon/10 font-mono text-sm font-bold text-neon","children":"SM$"}],["$","div",null,{"children":[["$","p",null,{"className":"font-black","children":"Soheil Mohajer"}],["$","p",null,{"className":"text-sm text-fog","children":"Android & AI Agent Developer — Mashhad, IR"}]]}],["$","div",null,{"className":"ms-auto flex gap-2","children":[["$","a",null,{"href":"https://github.com/soheilmohajer-code","target":"_blank","rel":"noopener noreferrer","className":"rounded-full border border-line bg-panel-2 px-3 py-1 font-mono text-[11px] text-fog transition hover:border-neon/50 hover:text-neon","children":"GITHUB"}],["$","a",null,{"href":"https://t.me/soheil_mohajer","target":"_blank","rel":"noopener noreferrer","className":"rounded-full border border-line bg-panel-2 px-3 py-1 font-mono text-[11px] text-fog transition hover:border-neon/50 hover:text-neon","children":"TELEGRAM"}]]}]]}]
+19:["$","nav",null,{"className":"mt-6 grid gap-4 sm:grid-cols-2","aria-label":"Post navigation","children":[["$","$L14",null,{"href":"/blog/adhan-scheduler","className":"rounded-xl border border-line bg-panel p-4 transition hover:border-neon/30","children":[["$","span",null,{"className":"font-mono text-[10px] tracking-widest text-fog","children":"❮ PREV_POST"}],["$","b",null,{"className":"mt-1 block text-sm leading-snug","children":"Building a Resilient Adhan Scheduler on Android"}]]}],["$","$L14",null,{"href":"/blog/vuejs-framework","className":"rounded-xl border border-line bg-panel p-4 text-end transition hover:border-neon/30","children":[["$","span",null,{"className":"font-mono text-[10px] tracking-widest text-neon","children":"NEXT_POST ❯"}],["$","b",null,{"className":"mt-1 block text-sm leading-snug","children":"Vue.js: History, Features and Advantages"}]]}]]}]
+1a:["$","div",null,{"className":"mt-6 flex flex-wrap items-center gap-4 rounded-2xl border border-dashed border-neon/40 bg-neon/5 p-5","children":[["$","div",null,{"children":[["$","b",null,{"className":"font-mono text-sm tracking-widest text-neon","children":"SUBSCRIBE // RSS.SYS"}],["$","p",null,{"className":"mt-1 text-sm text-fog","children":"New research notes and write-ups, straight to your reader."}]]}],["$","$L14",null,{"href":"/feed.xml","className":"ms-auto rounded-lg bg-neon px-4 py-2 font-mono text-xs font-bold text-black transition hover:brightness-110","children":"ADD_TO_READER ❯"}]]}]
+1b:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"The History of the CPU: From a Calculator Chip to Billions of Transistors\",\"description\":\"Six eras of CPU history - the 1971 Intel 4004, the x86 standard, the Pentium years, the GHz race that hit a wall of heat, the multi-core turn, and the modern ARM era.\",\"datePublished\":\"2026-10-20\",\"keywords\":\"Hardware, Computer Science\",\"author\":{\"@type\":\"Person\",\"name\":\"Soheil Mohajer\",\"url\":\"https://soheilmohajer.ir\"},\"mainEntityOfPage\":\"https://soheilmohajer.ir/blog/cpu-history\"}"}}]
+1c:["$","script",null,{"dangerouslySetInnerHTML":{"__html":"document.addEventListener(\"click\",function(e){var b=e.target.closest(\"[data-copy]\");if(!b)return;var pre=b.closest(\".term\").querySelector(\"pre\");if(!pre||!navigator.clipboard)return;navigator.clipboard.writeText(pre.innerText).then(function(){var o=b.textContent;b.textContent=\"COPIED\";setTimeout(function(){b.textContent=o},1200)});});"}}]
