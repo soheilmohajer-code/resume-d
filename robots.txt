@@ -1,4 +1,5 @@
 User-Agent: *
 Allow: /
+Disallow: /admin
 
 Sitemap: https://soheilmohajer.ir/sitemap.xml

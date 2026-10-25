@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Soheil Mohajer — Blog</title>
+    <link>https://soheilmohajer.ir/blog</link>
+    <description>Research notes and write-ups on Android, AI agents, automation and game logic.</description>
+    <language>en</language>
+    <atom:link href="https://soheilmohajer.ir/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Building a Resilient Adhan Scheduler on Android</title>
+      <link>https://soheilmohajer.ir/blog/adhan-scheduler</link>
+      <guid isPermaLink="true">https://soheilmohajer.ir/blog/adhan-scheduler</guid>
+      <pubDate>Sun, 18 Oct 2026 00:00:00 GMT</pubDate>
+      <description>AlarmManager lessons from shipping Gah-e Saba: exact alarms, doze mode, OEM battery killers, boot receivers — and how to make scheduling code you cannot fully control testable.</description>
+      <category>Android</category>
+      <category>Kotlin</category>
+      <category>Production</category>
+    </item>
+    <item>
+      <title>RTL Survival Guide: Fixing Bidirectional Text in AI Chat UIs</title>
+      <link>https://soheilmohajer.ir/blog/rtl-bidirectional-text-in-ai-chats</link>
+      <guid isPermaLink="true">https://soheilmohajer.ir/blog/rtl-bidirectional-text-in-ai-chats</guid>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 GMT</pubDate>
+      <description>Why mixing Persian and English breaks in ChatGPT-style UIs, how first-strong detection fails on streamed responses, and the MutationObserver approach shipped in ParsiChat Fixer.</description>
+      <category>AI Agents</category>
+      <category>UX</category>
+      <category>Browsers</category>
+    </item>
+    <item>
+      <title>n8n vs Code-First Agents: Where Low-Code Actually Wins</title>
+      <link>https://soheilmohajer.ir/blog/n8n-vs-code-first-agents</link>
+      <guid isPermaLink="true">https://soheilmohajer.ir/blog/n8n-vs-code-first-agents</guid>
+      <pubDate>Sat, 05 Sep 2026 00:00:00 GMT</pubDate>
+      <description>After shipping both, an honest comparison of iteration speed, debugging, versioning and cost — and the hybrid architecture I now default to.</description>
+      <category>n8n</category>
+      <category>Python</category>
+      <category>AI Agents</category>
+    </item>
+  </channel>
+</rss>

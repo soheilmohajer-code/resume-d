@@ -1,0 +1,1 @@
+(globalThis.TURBOPACK||(globalThis.TURBOPACK=[])).push(["object"==typeof document?document.currentScript:void 0,89845,t=>{"use strict";async function e(t){return{error:"Contact form is unavailable in the static build."}}t.s(["sendMessage",0,e])}]);
