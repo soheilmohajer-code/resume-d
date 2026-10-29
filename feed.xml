@@ -27,6 +27,16 @@
       <category>Programming</category>
     </item>
     <item>
+      <title>Git Explained: Version Control, GitHub and GitLab Without the Confusion</title>
+      <link>https://soheilmohajer.ir/blog/git-github-gitlab-guide</link>
+      <guid isPermaLink="true">https://soheilmohajer.ir/blog/git-github-gitlab-guide</guid>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 GMT</pubDate>
+      <description>What Git actually is and why it must be installed on your system first, how GitHub and GitLab differ (and why both use the same commands), plus the core workflow and a cheat sheet.</description>
+      <category>Git</category>
+      <category>GitHub</category>
+      <category>GitLab</category>
+    </item>
+    <item>
       <title>Docker for Developers: From Kernel to Production</title>
       <link>https://soheilmohajer.ir/blog/docker-production-guide</link>
       <guid isPermaLink="true">https://soheilmohajer.ir/blog/docker-production-guide</guid>
