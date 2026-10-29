@@ -5,7 +5,7 @@
 <xhtml:link rel="alternate" hreflang="fa" href="https://soheilmohajer.ir" />
 <xhtml:link rel="alternate" hreflang="en" href="https://soheilmohajer.ir/en" />
 <xhtml:link rel="alternate" hreflang="ar" href="https://soheilmohajer.ir/ar" />
-<lastmod>2026-10-29T16:02:23.670Z</lastmod>
+<lastmod>2026-10-29T16:24:33.638Z</lastmod>
 <changefreq>monthly</changefreq>
 <priority>1</priority>
 </url>
@@ -14,7 +14,7 @@
 <xhtml:link rel="alternate" hreflang="fa" href="https://soheilmohajer.ir" />
 <xhtml:link rel="alternate" hreflang="en" href="https://soheilmohajer.ir/en" />
 <xhtml:link rel="alternate" hreflang="ar" href="https://soheilmohajer.ir/ar" />
-<lastmod>2026-10-29T16:02:23.670Z</lastmod>
+<lastmod>2026-10-29T16:24:33.638Z</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.9</priority>
 </url>
@@ -23,20 +23,26 @@
 <xhtml:link rel="alternate" hreflang="fa" href="https://soheilmohajer.ir" />
 <xhtml:link rel="alternate" hreflang="en" href="https://soheilmohajer.ir/en" />
 <xhtml:link rel="alternate" hreflang="ar" href="https://soheilmohajer.ir/ar" />
-<lastmod>2026-10-29T16:02:23.670Z</lastmod>
+<lastmod>2026-10-29T16:24:33.638Z</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.9</priority>
 </url>
 <url>
 <loc>https://soheilmohajer.ir/blog</loc>
-<lastmod>2026-10-29T16:02:23.670Z</lastmod>
+<lastmod>2026-10-29T16:24:33.638Z</lastmod>
 <changefreq>weekly</changefreq>
 <priority>0.9</priority>
 </url>
 <url>
 <loc>https://soheilmohajer.ir/fa/blog</loc>
-<lastmod>2026-10-29T16:02:23.670Z</lastmod>
+<lastmod>2026-10-29T16:24:33.638Z</lastmod>
 <changefreq>weekly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://soheilmohajer.ir/blog/linux-operating-system</loc>
+<lastmod>2026-10-29T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
 <priority>0.8</priority>
 </url>
 <url>
@@ -80,6 +86,12 @@
 <lastmod>2026-09-05T00:00:00.000Z</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.8</priority>
+</url>
+<url>
+<loc>https://soheilmohajer.ir/fa/blog/linux-operating-system</loc>
+<lastmod>2026-10-29T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
 </url>
 <url>
 <loc>https://soheilmohajer.ir/fa/blog/docker-production-guide</loc>
@@ -148,7 +160,22 @@
 <priority>0.4</priority>
 </url>
 <url>
+<loc>https://soheilmohajer.ir/blog/tags/linux</loc>
+<changefreq>weekly</changefreq>
+<priority>0.4</priority>
+</url>
+<url>
 <loc>https://soheilmohajer.ir/blog/tags/n8n</loc>
+<changefreq>weekly</changefreq>
+<priority>0.4</priority>
+</url>
+<url>
+<loc>https://soheilmohajer.ir/blog/tags/open-source</loc>
+<changefreq>weekly</changefreq>
+<priority>0.4</priority>
+</url>
+<url>
+<loc>https://soheilmohajer.ir/blog/tags/operating-systems</loc>
 <changefreq>weekly</changefreq>
 <priority>0.4</priority>
 </url>
@@ -179,6 +206,21 @@
 </url>
 <url>
 <loc>https://soheilmohajer.ir/fa/blog/tags/docker</loc>
+<changefreq>weekly</changefreq>
+<priority>0.3</priority>
+</url>
+<url>
+<loc>https://soheilmohajer.ir/fa/blog/tags/linux</loc>
+<changefreq>weekly</changefreq>
+<priority>0.3</priority>
+</url>
+<url>
+<loc>https://soheilmohajer.ir/fa/blog/tags/open-source</loc>
+<changefreq>weekly</changefreq>
+<priority>0.3</priority>
+</url>
+<url>
+<loc>https://soheilmohajer.ir/fa/blog/tags/operating-systems</loc>
 <changefreq>weekly</changefreq>
 <priority>0.3</priority>
 </url>

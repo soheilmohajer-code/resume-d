@@ -7,6 +7,16 @@
     <language>en</language>
     <atom:link href="https://soheilmohajer.ir/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Linux Explained: What It Is, Why People Love It, and Where It Loses</title>
+      <link>https://soheilmohajer.ir/blog/linux-operating-system</link>
+      <guid isPermaLink="true">https://soheilmohajer.ir/blog/linux-operating-system</guid>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 GMT</pubDate>
+      <description>What Linux actually is (kernel vs distro), how it differs from Windows and macOS, the honest pros and cons, and why it quietly runs most of the internet, all supercomputers and your phone.</description>
+      <category>Linux</category>
+      <category>Open Source</category>
+      <category>Operating Systems</category>
+    </item>
+    <item>
       <title>Docker for Developers: From Kernel to Production</title>
       <link>https://soheilmohajer.ir/blog/docker-production-guide</link>
       <guid isPermaLink="true">https://soheilmohajer.ir/blog/docker-production-guide</guid>
