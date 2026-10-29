@@ -7,6 +7,16 @@
     <language>en</language>
     <atom:link href="https://soheilmohajer.ir/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Docker for Developers: From Kernel to Production</title>
+      <link>https://soheilmohajer.ir/blog/docker-production-guide</link>
+      <guid isPermaLink="true">https://soheilmohajer.ir/blog/docker-production-guide</guid>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 GMT</pubDate>
+      <description>Why I learned Docker, what containers actually are (in plain words), and a production-grade reference: images and layer caching, Compose v2, networking, and the security traps nobody warns you about.</description>
+      <category>Docker</category>
+      <category>DevOps</category>
+      <category>Production</category>
+    </item>
+    <item>
       <title>Database Systems: How Information Is Organized, Stored and Protected</title>
       <link>https://soheilmohajer.ir/blog/database-systems</link>
       <guid isPermaLink="true">https://soheilmohajer.ir/blog/database-systems</guid>

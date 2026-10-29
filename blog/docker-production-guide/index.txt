@@ -1,0 +1,339 @@
+1:"$Sreact.fragment"
+3:I[39756,["/_next/static/chunks/0dk2h5lo2phku.js","/_next/static/chunks/33x7cmkqiwvsf.js"],"default"]
+4:I[37457,["/_next/static/chunks/0dk2h5lo2phku.js","/_next/static/chunks/33x7cmkqiwvsf.js"],"default"]
+6:I[97367,["/_next/static/chunks/0dk2h5lo2phku.js","/_next/static/chunks/33x7cmkqiwvsf.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+a:I[97367,["/_next/static/chunks/0dk2h5lo2phku.js","/_next/static/chunks/33x7cmkqiwvsf.js"],"ViewportBoundary"]
+c:I[97367,["/_next/static/chunks/0dk2h5lo2phku.js","/_next/static/chunks/33x7cmkqiwvsf.js"],"MetadataBoundary"]
+e:I[68027,["/_next/static/chunks/0dk2h5lo2phku.js","/_next/static/chunks/33x7cmkqiwvsf.js"],"default",1]
+:HL["/_next/static/chunks/07vr7tqin4r2a.css","style"]
+:HC["/",""]
+9:X
+0:{"P":null,"c":["","blog","docker-production-guide",""],"q":"","i":false,"f":[[["",{"children":["blog",{"children":[["slug","docker-production-guide","d",["tags"]],{"children":["__PAGE__",{},"$undefined","$undefined",4608]},"$undefined","$undefined",4608]},"$undefined","$undefined",4608]},"$undefined","$undefined",4624],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/07vr7tqin4r2a.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/0dk2h5lo2phku.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/33x7cmkqiwvsf.js","async":true,"nonce":"$undefined"}]],"$L2"]}],{"children":[["$","$1","c",{"children":[null,["$","div",null,{"lang":"en","dir":"ltr","className":"relative z-10","children":[["$","script",null,{"dangerouslySetInnerHTML":{"__html":"try {\n  document.documentElement.lang = \"en\";\n  document.documentElement.dir = \"ltr\";\n} catch (e) {}"}}],["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L5",[["$","script","script-0",{"src":"/_next/static/chunks/158bio-g4urb_.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/3t5t3-7kxkvsq.js","async":true,"nonce":"$undefined"}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],{},null,false,null]},null,false,"$9"]},null,false,null]},null,false,null],["$","$1","h",{"children":[null,["$","$La",null,{"children":"$Lb"}],["$","div",null,{"hidden":true,"children":["$","$Lc",null,{"children":["$","$7",null,{"name":"Next.Metadata","children":"$Ld"}]}]}],null]}],false]],"m":"$undefined","G":["$e",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/07vr7tqin4r2a.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"h":null,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"AAPzHFGOkcdYipk4gIbft"}
+f:I[90715,["/_next/static/chunks/0dk2h5lo2phku.js","/_next/static/chunks/33x7cmkqiwvsf.js"],"default"]
+10:I[56194,["/_next/static/chunks/0dk2h5lo2phku.js","/_next/static/chunks/33x7cmkqiwvsf.js"],"default"]
+9:C
+2:["$","html",null,{"lang":"fa","dir":"rtl","className":"h-full antialiased","suppressHydrationWarning":true,"children":[["$","head",null,{"children":["$","script",null,{"dangerouslySetInnerHTML":{"__html":"\ntry {\n  // Single-theme site (default neon): clear any previously saved custom theme.\n  localStorage.removeItem(\"sm_theme\");\n  document.documentElement.removeAttribute(\"data-theme\");\n  var m = localStorage.getItem(\"sm_mode\");\n  if (m) document.documentElement.setAttribute(\"data-mode\", m);\n} catch (e) {}\n"}}]}],["$","body",null,{"className":"min-h-screen overflow-x-hidden bg-void font-sans text-mist","children":[["$","div",null,{"aria-hidden":true,"className":"pointer-events-none fixed inset-0 z-0 print:hidden","children":[["$","div",null,{"className":"grid-lines absolute inset-0"}],["$","div",null,{"className":"noise-layer absolute inset-0 opacity-[0.05] mix-blend-overlay"}],["$","div",null,{"className":"absolute inset-x-0 top-0 h-48 bg-gradient-to-b from-neon/[0.05] to-transparent"}],["$","div",null,{"className":"absolute bottom-[-10rem] start-[-6rem] size-[26rem] rounded-full bg-flare/[0.04] blur-[120px]"}],["$","div",null,{"className":"absolute end-[-8rem] top-1/3 size-[30rem] rounded-full bg-neon/[0.05] blur-[140px]"}]]}],["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","$Lf",null,{"lang":"fa"}],["$","$L10",null,{"lang":"fa"}]]}]]}]
+b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#05070b"}]]
+11:I[27201,["/_next/static/chunks/0dk2h5lo2phku.js","/_next/static/chunks/33x7cmkqiwvsf.js"],"IconMark"]
+8:null
+d:[["$","title","0",{"children":"Docker for Developers: From Kernel to Production | Soheil Mohajer"}],["$","meta","1",{"name":"description","content":"Why I learned Docker, what containers actually are (in plain words), and a production-grade reference: images and layer caching, Compose v2, networking, and the security traps nobody warns you about."}],["$","link","2",{"rel":"author","href":"https://soheilmohajer.ir"}],["$","meta","3",{"name":"author","content":"سهیل مهاجر"}],["$","meta","4",{"name":"keywords","content":"سهیل مهاجر,توسعه‌دهنده اندروید,ایجنت هوش مصنوعی,برنامه‌نویسی بازی,Unity,Android Developer,AI Agent Developer,n8n,کافه بازار"}],["$","meta","5",{"name":"robots","content":"index, follow"}],["$","link","6",{"rel":"canonical","href":"https://soheilmohajer.ir/blog/docker-production-guide/"}],["$","link","7",{"rel":"alternate","hrefLang":"en-US","href":"https://soheilmohajer.ir/blog/docker-production-guide/"}],["$","link","8",{"rel":"alternate","hrefLang":"fa-IR","href":"https://soheilmohajer.ir/fa/blog/docker-production-guide/"}],["$","meta","9",{"property":"og:title","content":"Docker for Developers: From Kernel to Production"}],["$","meta","10",{"property":"og:description","content":"Why I learned Docker, what containers actually are (in plain words), and a production-grade reference: images and layer caching, Compose v2, networking, and the security traps nobody warns you about."}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"property":"article:published_time","content":"2026-10-29"}],["$","meta","13",{"property":"article:tag","content":"Docker"}],["$","meta","14",{"property":"article:tag","content":"DevOps"}],["$","meta","15",{"property":"article:tag","content":"Production"}],["$","meta","16",{"name":"twitter:card","content":"summary"}],["$","meta","17",{"name":"twitter:title","content":"Docker for Developers: From Kernel to Production"}],["$","meta","18",{"name":"twitter:description","content":"Why I learned Docker, what containers actually are (in plain words), and a production-grade reference: images and layer caching, Compose v2, networking, and the security traps nobody warns you about."}],["$","link","19",{"rel":"icon","href":"/icon.svg?icon.3flq9i3ko7ub7.svg","sizes":"any","type":"image/svg+xml"}],["$","$L11","20",{}]]
+12:I[36380,["/_next/static/chunks/0dk2h5lo2phku.js","/_next/static/chunks/33x7cmkqiwvsf.js","/_next/static/chunks/158bio-g4urb_.js","/_next/static/chunks/3t5t3-7kxkvsq.js"],"default"]
+13:I[2971,["/_next/static/chunks/0dk2h5lo2phku.js","/_next/static/chunks/33x7cmkqiwvsf.js","/_next/static/chunks/158bio-g4urb_.js","/_next/static/chunks/3t5t3-7kxkvsq.js"],"default"]
+14:I[22016,["/_next/static/chunks/0dk2h5lo2phku.js","/_next/static/chunks/33x7cmkqiwvsf.js","/_next/static/chunks/158bio-g4urb_.js","/_next/static/chunks/3t5t3-7kxkvsq.js"],""]
+15:T88ef,<p>I resisted Docker longer than I should have. My thinking was the classic
+developer&#39;s: <em>my machine runs everything fine, why add a whale to the mix?</em>
+Two projects changed my mind.</p>
+<p>The first was self-hosting <strong>n8n</strong> for my AI-agent work. The official way to
+run n8n seriously is a container, and within a week my &quot;temporary&quot; setup had
+become a <code>compose.yaml</code> I actually trust. The second was deploying my own
+AI-assistant platform (Next.js backend, PostgreSQL, Redis) to a VPS — where I
+learned that &quot;it works on my machine&quot; means nothing, and that Docker is the
+only honest answer to that sentence.</p>
+<p>Along the way I hit every classic trap: a database port quietly exposed to the
+whole internet <em>through</em> my firewall, a disk filled to 100% by logs and
+dangling images, and containers that couldn&#39;t reach a database on &quot;localhost&quot;.
+This post is the reference I wish I had that week: first Docker in plain
+words, then the parts of it that actually matter in production.</p>
+<blockquote>
+<p><strong>TL;DR</strong> — A container is an isolated <em>process</em>, not a small VM. Learn
+layer caching, learn Compose health checks, and never trust <code>-p 8000:8000</code>
+on a public server. Everything else is in the sections below.</p>
+</blockquote>
+<h2 id="docker-in-plain-words">Docker in plain words</h2><p>Shipping companies solved this problem decades ago: instead of loading
+sacks and barrels one by one onto different ships, they standardized
+<strong>containers</strong> — boxes that fit identically on a crane, a truck, or a ship.
+Whatever is inside doesn&#39;t matter to anyone handling the box.</p>
+<p>Docker does the same for software. You put your app, its runtime, and its
+dependencies into a container, and it runs the same way on your laptop, your
+teammate&#39;s Windows machine, and a Ubuntu server — because the <em>environment</em>
+travels with the app, not the machine.</p>
+<ul>
+<li><strong>What it is:</strong> a tool that packages an application with everything it
+needs (runtime, libraries, config) into an <strong>image</strong>, and runs that image
+as an isolated <strong>container</strong>.</li>
+<li><strong>What problem it solves:</strong> &quot;works on my machine&quot; bugs, dependency
+conflicts between projects, painful deployments, and environments that
+drift over time.</li>
+<li><strong>Where it&#39;s used:</strong> self-hosting tools (n8n, databases), deploying web
+backends, CI/CD pipelines, giving every developer an identical dev
+environment, and running microservices side by side on one server.</li>
+</ul>
+<p>And one sentence for the skeptical: a container is <strong>not</strong> a virtual
+machine — that distinction is where the real understanding starts.</p>
+<h2 id="under-the-hood-containers-are-just-processes">Under the hood: containers are just processes</h2><p>Many people imagine a container as a &quot;lightweight VM&quot;. That&#39;s technically
+wrong. A container is an ordinary Linux <strong>process</strong> whose <em>view</em> of the
+system is limited (isolated) and whose resource usage is controlled.</p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th>Virtual Machine</th>
+<th>Docker Container</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Virtualization</td>
+<td>Hardware-level (Hypervisor: KVM, VMware, Hyper-V)</td>
+<td>OS-level (Docker Engine: containerd / runc)</td>
+</tr>
+<tr>
+<td>Kernel</td>
+<td>Each VM has a full guest OS with its <strong>own kernel</strong></td>
+<td>All containers <strong>share the host Linux kernel</strong></td>
+</tr>
+<tr>
+<td>Boot time</td>
+<td>Tens of seconds to minutes</td>
+<td>Fraction of a second (a normal process start)</td>
+</tr>
+<tr>
+<td>Disk</td>
+<td>Gigabytes per guest OS</td>
+<td>Megabytes (base layers are shared)</td>
+</tr>
+<tr>
+<td>Overhead</td>
+<td>Notable</td>
+<td>Near zero (native performance)</td>
+</tr>
+<tr>
+<td>Isolation</td>
+<td>Very strong</td>
+<td>Strong enough for most workloads (when hardened)</td>
+</tr>
+</tbody></table>
+<p>The whole trick rests on three features that have been in the Linux kernel
+for years:</p>
+<ol>
+<li><strong>Namespaces</strong> — isolate what a process can <em>see</em>: its own process IDs
+(<code>pid</code>), network interfaces and ports (<code>net</code>), mount points (<code>mnt</code>),
+hostname (<code>uts</code>), IPC (<code>ipc</code>), and user mapping (<code>user</code>). Inside its
+namespaces, a container honestly believes it is alone in the world.</li>
+<li><strong>cgroups (Control Groups)</strong> — limit what a process can <em>use</em>: CPU time,
+memory, I/O. This is what <code>mem_limit</code> and CPU caps actually do.</li>
+<li><strong>Union file systems (layers)</strong> — stack read-only image layers and put a
+thin writable layer on top. This is what makes images small and fast to
+pull, and it&#39;s the foundation of the layer caching we exploit next.</li>
+</ol>
+<h2 id="images-layers-and-the-golden-rule-of-caching">Images, layers, and the golden rule of caching</h2><p>An image is built in <strong>layers</strong> — each instruction in a <code>Dockerfile</code>
+(especially <code>FROM</code>, <code>RUN</code>, <code>COPY</code>, <code>ADD</code>) creates a new layer with a unique
+SHA256 hash.</p>
+<p><strong>The golden rule:</strong> Docker checks layers top-down during a build. The
+moment one layer&#39;s inputs change (cache invalidation), that layer <em>and every
+layer after it</em> must be rebuilt. So things that rarely change (installing
+dependencies) must come <strong>above</strong> things that change constantly (source
+code).</p>
+<p>❌ Wrong order — every code edit re-downloads all packages:</p>
+<div class="term" dir="ltr"><div class="term-bar"><span class="d d1"></span><span class="d d2"></span><span class="d d3"></span><span class="file">snippet.dockerfile</span><button type="button" class="copy" data-copy>COPY</button></div><pre class="shiki vitesse-dark" style="background-color:#121212;color:#dbd7caee" tabindex="0"><code><span class="line"><span>FROM python:3.12-slim</span></span>
+<span class="line"><span>WORKDIR /app</span></span>
+<span class="line"><span># BAD: copying all source code first!</span></span>
+<span class="line"><span># Any change to main.py invalidates this layer AND the next RUN layer!</span></span>
+<span class="line"><span>COPY . .</span></span>
+<span class="line"><span>RUN pip install --no-cache-dir -r requirements.txt</span></span>
+<span class="line"><span>CMD ["python", "main.py"]</span></span></code></pre></div><p>✅ Correct order — dependencies are cached, only code is rebuilt:</p>
+<div class="term" dir="ltr"><div class="term-bar"><span class="d d1"></span><span class="d d2"></span><span class="d d3"></span><span class="file">snippet.dockerfile</span><button type="button" class="copy" data-copy>COPY</button></div><pre class="shiki vitesse-dark" style="background-color:#121212;color:#dbd7caee" tabindex="0"><code><span class="line"><span>FROM python:3.12-slim</span></span>
+<span class="line"><span>WORKDIR /app</span></span>
+<span class="line"><span># GOOD: copy ONLY dependency manifests first</span></span>
+<span class="line"><span>COPY requirements.txt .</span></span>
+<span class="line"><span># Cached unless requirements.txt actually changes!</span></span>
+<span class="line"><span>RUN pip install --no-cache-dir -r requirements.txt</span></span>
+<span class="line"><span># Now copy the frequently changing source code</span></span>
+<span class="line"><span>COPY . .</span></span>
+<span class="line"><span>CMD ["python", "main.py"]</span></span></code></pre></div><p>The commands that matter most, honestly explained:</p>
+<table>
+<thead>
+<tr>
+<th>Command</th>
+<th>What it actually does</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><code>FROM</code></td>
+<td>Base image. Prefer <code>-slim</code> (Debian) or <code>-alpine</code> (musl libc, very small) variants.</td>
+</tr>
+<tr>
+<td><code>WORKDIR</code></td>
+<td>Sets (and auto-creates) the working directory. Never use <code>RUN cd /app</code>.</td>
+</tr>
+<tr>
+<td><code>COPY</code> vs <code>ADD</code></td>
+<td>Always prefer <code>COPY</code> — it&#39;s transparent. <code>ADD</code> silently extracts <code>.tar.gz</code> and fetches URLs, which invites surprising behavior.</td>
+</tr>
+<tr>
+<td><code>RUN</code></td>
+<td>Executes at <strong>build time</strong> and bakes the result into a layer. Chain <code>apt-get update &amp;&amp; apt-get install -y ...</code> in ONE <code>RUN</code> and clean the apt cache afterwards.</td>
+</tr>
+<tr>
+<td><code>ARG</code> vs <code>ENV</code></td>
+<td><code>ARG</code> exists only at build time (<code>--build-arg</code>); <code>ENV</code> persists into the running container.</td>
+</tr>
+<tr>
+<td><code>EXPOSE</code></td>
+<td>Pure <strong>documentation</strong> between image author and runner. It opens no port — that&#39;s <code>-p</code>&#39;s job.</td>
+</tr>
+</tbody></table>
+<h2 id="containers-lifecycle-and-debugging">Containers, lifecycle, and debugging</h2><p>A container&#39;s lifecycle is just a process&#39;s lifecycle with extra states:
+<code>created → running → paused → stopped → deleted</code>. The commands I use daily:</p>
+<div class="term" dir="ltr"><div class="term-bar"><span class="d d1"></span><span class="d d2"></span><span class="d d3"></span><span class="file">snippet.bash</span><button type="button" class="copy" data-copy>COPY</button></div><pre class="shiki vitesse-dark" style="background-color:#121212;color:#dbd7caee" tabindex="0"><code><span class="line"><span style="color:#80A665">docker</span><span style="color:#C98A7D"> run</span><span style="color:#C99076"> -d</span><span style="color:#C99076"> --name</span><span style="color:#C98A7D"> api</span><span style="color:#C99076"> -p</span><span style="color:#C98A7D"> 127.0.0.1:8000:8000</span><span style="color:#C98A7D"> app:1.0</span><span style="color:#758575DD">   # run detached</span></span>
+<span class="line"><span style="color:#80A665">docker</span><span style="color:#C98A7D"> ps</span><span style="color:#C99076"> -a</span><span style="color:#758575DD">                                              # all containers (incl. stopped)</span></span>
+<span class="line"><span style="color:#80A665">docker</span><span style="color:#C98A7D"> logs</span><span style="color:#C99076"> -f</span><span style="color:#C99076"> --tail</span><span style="color:#4C9A91"> 100</span><span style="color:#C99076"> -t</span><span style="color:#C98A7D"> api</span><span style="color:#758575DD">                          # follow last 100 log lines</span></span>
+<span class="line"><span style="color:#80A665">docker</span><span style="color:#C98A7D"> exec</span><span style="color:#C99076"> -u</span><span style="color:#4C9A91"> 0</span><span style="color:#C99076"> -it</span><span style="color:#C98A7D"> api</span><span style="color:#C98A7D"> /bin/sh</span><span style="color:#758575DD">                          # shell as root inside</span></span>
+<span class="line"><span style="color:#80A665">docker</span><span style="color:#C98A7D"> stats</span><span style="color:#758575DD">                                              # live CPU/RAM per container</span></span>
+<span class="line"><span style="color:#80A665">docker</span><span style="color:#C98A7D"> inspect</span><span style="color:#C98A7D"> api</span><span style="color:#758575DD">                                        # full JSON metadata</span></span>
+<span class="line"><span style="color:#80A665">docker</span><span style="color:#C98A7D"> system</span><span style="color:#C98A7D"> df</span><span style="color:#C99076"> -v</span><span style="color:#758575DD">                                       # what's eating the disk</span></span></code></pre></div><p>When a container exits immediately, check its <strong>exit code</strong> in
+<code>docker ps -a</code>: <code>137</code> usually means OOM-killed (out of memory) or a manual
+<code>docker stop</code>, while <code>1</code> is your application crashing on its own. Reading
+exit codes before re-running blindly saves hours.</p>
+<h2 id="data-volumes-bind-mounts-tmpfs">Data: volumes, bind mounts, tmpfs</h2><p>Containers are disposable; your data must not be. Three ways to persist:</p>
+<ul>
+<li><strong>Named volumes</strong> (<code>db-data:/var/lib/postgresql/data</code>) — Docker-managed,
+the right default for database files.</li>
+<li><strong>Bind mounts</strong> (<code>./app:/app</code>) — map a host folder in; ideal for local
+development and config files.</li>
+<li><strong>tmpfs</strong> — in-memory only, gone on stop; perfect for <code>/tmp</code> in hardened
+production containers.</li>
+</ul>
+<p>Never bake data <em>into</em> an image: the writable layer is slow and dies with
+the container.</p>
+<h2 id="networking-the-internal-dns-is-the-superpower">Networking: the internal DNS is the superpower</h2><p>Every compose project creates its own network, and on that network
+<strong>service names are hostnames</strong>. Your backend doesn&#39;t connect to
+<code>localhost:5432</code> — it connects to <code>db:5432</code>, because on the compose network
+there <em>is</em> a host called <code>db</code>. This one idea kills the most common beginner
+bug: a container trying to reach a database on &quot;localhost&quot; (which is the
+container itself).</p>
+<p>From the host&#39;s perspective, <code>ports: [&quot;8000:8000&quot;]</code> publishes on all
+interfaces — remember this for the security section.</p>
+<h2 id="docker-compose-v2-done-right">Docker Compose v2, done right</h2><p>Compose lets you describe a multi-container architecture in one declarative
+<code>compose.yaml</code>. Two modernizations worth knowing: the obsolete
+<code>version: &quot;3.8&quot;</code> header is gone from the Compose Spec, and the old Python
+<code>docker-compose</code> (hyphen) is deprecated in favor of the Go plugin
+<code>docker compose</code> (space).</p>
+<p>A production-shaped example (FastAPI + PostgreSQL + Redis), with health
+checks, separated networks, and a loopback-only port binding:</p>
+<div class="term" dir="ltr"><div class="term-bar"><span class="d d1"></span><span class="d d2"></span><span class="d d3"></span><span class="file">snippet.yaml</span><button type="button" class="copy" data-copy>COPY</button></div><pre class="shiki vitesse-dark" style="background-color:#121212;color:#dbd7caee" tabindex="0"><code><span class="line"><span style="color:#B8A965">name</span><span style="color:#666666">:</span><span style="color:#C98A7D"> my-saas-platform</span></span>
+<span class="line"><span style="color:#B8A965">services</span><span style="color:#666666">:</span></span>
+<span class="line"><span style="color:#B8A965">  backend</span><span style="color:#666666">:</span></span>
+<span class="line"><span style="color:#B8A965">    build</span><span style="color:#666666">:</span></span>
+<span class="line"><span style="color:#B8A965">      context</span><span style="color:#666666">:</span><span style="color:#4C9A91"> .</span></span>
+<span class="line"><span style="color:#B8A965">      dockerfile</span><span style="color:#666666">:</span><span style="color:#C98A7D"> Dockerfile</span></span>
+<span class="line"><span style="color:#B8A965">      target</span><span style="color:#666666">:</span><span style="color:#C98A7D"> runtime</span></span>
+<span class="line"><span style="color:#B8A965">    image</span><span style="color:#666666">:</span><span style="color:#C98A7D"> my-saas-backend:1.0.0</span></span>
+<span class="line"><span style="color:#B8A965">    restart</span><span style="color:#666666">:</span><span style="color:#C98A7D"> unless-stopped</span></span>
+<span class="line"><span style="color:#B8A965">    ports</span><span style="color:#666666">:</span></span>
+<span class="line"><span style="color:#758575DD">      # Bind ONLY to localhost so UFW firewall isn't bypassed!</span></span>
+<span class="line"><span style="color:#666666">      -</span><span style="color:#C98A7D77"> "</span><span style="color:#C98A7D">127.0.0.1:8000:8000</span><span style="color:#C98A7D77">"</span></span>
+<span class="line"><span style="color:#B8A965">    env_file</span><span style="color:#666666">:</span><span style="color:#666666"> [</span><span style="color:#C98A7D">.env</span><span style="color:#666666">]</span></span>
+<span class="line"><span style="color:#B8A965">    environment</span><span style="color:#666666">:</span></span>
+<span class="line"><span style="color:#666666">      -</span><span style="color:#C98A7D"> DATABASE_URL=postgresql+asyncpg://${POSTGRES_USER}:${POSTGRES_PASSWORD}@db:5432/${POSTGRES_DB}</span></span>
+<span class="line"><span style="color:#666666">      -</span><span style="color:#C98A7D"> REDIS_URL=redis://cache:6379/0</span></span>
+<span class="line"><span style="color:#758575DD">    # Wait until Postgres and Redis are genuinely READY</span></span>
+<span class="line"><span style="color:#B8A965">    depends_on</span><span style="color:#666666">:</span></span>
+<span class="line"><span style="color:#B8A965">      db</span><span style="color:#666666">:</span></span>
+<span class="line"><span style="color:#B8A965">        condition</span><span style="color:#666666">:</span><span style="color:#C98A7D"> service_healthy</span></span>
+<span class="line"><span style="color:#B8A965">      cache</span><span style="color:#666666">:</span></span>
+<span class="line"><span style="color:#B8A965">        condition</span><span style="color:#666666">:</span><span style="color:#C98A7D"> service_healthy</span></span>
+<span class="line"><span style="color:#B8A965">    networks</span><span style="color:#666666">:</span><span style="color:#666666"> [</span><span style="color:#C98A7D">backend-net</span><span style="color:#666666">]</span></span>
+<span class="line"><span style="color:#B8A965">    develop</span><span style="color:#666666">:</span></span>
+<span class="line"><span style="color:#B8A965">      watch</span><span style="color:#666666">:</span></span>
+<span class="line"><span style="color:#666666">        -</span><span style="color:#B8A965"> action</span><span style="color:#666666">:</span><span style="color:#C98A7D"> sync</span></span>
+<span class="line"><span style="color:#B8A965">          path</span><span style="color:#666666">:</span><span style="color:#C98A7D"> ./app</span></span>
+<span class="line"><span style="color:#B8A965">          target</span><span style="color:#666666">:</span><span style="color:#C98A7D"> /app/app</span></span>
+<span class="line"><span style="color:#666666">        -</span><span style="color:#B8A965"> action</span><span style="color:#666666">:</span><span style="color:#C98A7D"> rebuild</span></span>
+<span class="line"><span style="color:#B8A965">          path</span><span style="color:#666666">:</span><span style="color:#C98A7D"> ./requirements.txt</span></span>
+<span class="line"></span>
+<span class="line"><span style="color:#B8A965">  db</span><span style="color:#666666">:</span></span>
+<span class="line"><span style="color:#B8A965">    image</span><span style="color:#666666">:</span><span style="color:#C98A7D"> postgres:16.4-alpine</span></span>
+<span class="line"><span style="color:#B8A965">    restart</span><span style="color:#666666">:</span><span style="color:#C98A7D"> unless-stopped</span></span>
+<span class="line"><span style="color:#B8A965">    environment</span><span style="color:#666666">:</span></span>
+<span class="line"><span style="color:#B8A965">      POSTGRES_USER</span><span style="color:#666666">:</span><span style="color:#C98A7D"> ${POSTGRES_USER:-appuser}</span></span>
+<span class="line"><span style="color:#B8A965">      POSTGRES_PASSWORD</span><span style="color:#666666">:</span><span style="color:#C98A7D"> ${POSTGRES_PASSWORD:?Database password is required}</span></span>
+<span class="line"><span style="color:#B8A965">      POSTGRES_DB</span><span style="color:#666666">:</span><span style="color:#C98A7D"> ${POSTGRES_DB:-appdb}</span></span>
+<span class="line"><span style="color:#B8A965">    volumes</span><span style="color:#666666">:</span></span>
+<span class="line"><span style="color:#666666">      -</span><span style="color:#C98A7D"> pg_data:/var/lib/postgresql/data</span></span>
+<span class="line"><span style="color:#B8A965">    networks</span><span style="color:#666666">:</span><span style="color:#666666"> [</span><span style="color:#C98A7D">backend-net</span><span style="color:#666666">]</span></span>
+<span class="line"><span style="color:#B8A965">    healthcheck</span><span style="color:#666666">:</span></span>
+<span class="line"><span style="color:#B8A965">      test</span><span style="color:#666666">:</span><span style="color:#666666"> [</span><span style="color:#C98A7D77">"</span><span style="color:#C98A7D">CMD-SHELL</span><span style="color:#C98A7D77">"</span><span style="color:#666666">,</span><span style="color:#C98A7D77"> "</span><span style="color:#C98A7D">pg_isready -U $${POSTGRES_USER:-appuser} -d $${POSTGRES_DB:-appdb}</span><span style="color:#C98A7D77">"</span><span style="color:#666666">]</span></span>
+<span class="line"><span style="color:#B8A965">      interval</span><span style="color:#666666">:</span><span style="color:#C98A7D"> 10s</span></span>
+<span class="line"><span style="color:#B8A965">      timeout</span><span style="color:#666666">:</span><span style="color:#C98A7D"> 5s</span></span>
+<span class="line"><span style="color:#B8A965">      retries</span><span style="color:#666666">:</span><span style="color:#4C9A91"> 5</span></span>
+<span class="line"></span>
+<span class="line"><span style="color:#B8A965">  cache</span><span style="color:#666666">:</span></span>
+<span class="line"><span style="color:#B8A965">    image</span><span style="color:#666666">:</span><span style="color:#C98A7D"> redis:7-alpine</span></span>
+<span class="line"><span style="color:#B8A965">    restart</span><span style="color:#666666">:</span><span style="color:#C98A7D"> unless-stopped</span></span>
+<span class="line"><span style="color:#B8A965">    networks</span><span style="color:#666666">:</span><span style="color:#666666"> [</span><span style="color:#C98A7D">backend-net</span><span style="color:#666666">]</span></span>
+<span class="line"><span style="color:#B8A965">    healthcheck</span><span style="color:#666666">:</span></span>
+<span class="line"><span style="color:#B8A965">      test</span><span style="color:#666666">:</span><span style="color:#666666"> [</span><span style="color:#C98A7D77">"</span><span style="color:#C98A7D">CMD</span><span style="color:#C98A7D77">"</span><span style="color:#666666">,</span><span style="color:#C98A7D77"> "</span><span style="color:#C98A7D">redis-cli</span><span style="color:#C98A7D77">"</span><span style="color:#666666">,</span><span style="color:#C98A7D77"> "</span><span style="color:#C98A7D">ping</span><span style="color:#C98A7D77">"</span><span style="color:#666666">]</span></span>
+<span class="line"><span style="color:#B8A965">      interval</span><span style="color:#666666">:</span><span style="color:#C98A7D"> 10s</span></span>
+<span class="line"><span style="color:#B8A965">      timeout</span><span style="color:#666666">:</span><span style="color:#C98A7D"> 3s</span></span>
+<span class="line"><span style="color:#B8A965">      retries</span><span style="color:#666666">:</span><span style="color:#4C9A91"> 5</span></span>
+<span class="line"></span>
+<span class="line"><span style="color:#B8A965">volumes</span><span style="color:#666666">:</span></span>
+<span class="line"><span style="color:#B8A965">  pg_data</span><span style="color:#666666">:</span></span>
+<span class="line"></span>
+<span class="line"><span style="color:#B8A965">networks</span><span style="color:#666666">:</span></span>
+<span class="line"><span style="color:#B8A965">  backend-net</span><span style="color:#666666">:</span></span>
+<span class="line"><span style="color:#B8A965">    driver</span><span style="color:#666666">:</span><span style="color:#C98A7D"> bridge</span></span></code></pre></div><p>The two details worth copying into your own files: <code>depends_on</code> with
+<code>condition: service_healthy</code> (so your app waits for a database that is
+<em>genuinely ready</em>, not merely started) and <code>develop.watch</code> for live sync
+during development.</p>
+<h2 id="production-security-the-traps-nobody-warns-you-about">Production security: the traps nobody warns you about</h2><p>Running Docker on a laptop and running it on a public server under real
+traffic are different sports. Four things I wish someone had told me:</p>
+<h3 id="the-ufw-trap-docker-bypasses-your-firewall">🚨 The UFW trap — Docker bypasses your firewall</h3><p>You enable <code>ufw</code>, allow only 22/80/443, then run a database with
+<code>-p 5432:5432</code> believing the firewall protects it. <strong>It doesn&#39;t.</strong> Docker
+writes its own rules directly into the <code>PREROUTING</code>/<code>DOCKER</code> chains of
+iptables, which are evaluated <em>before</em> UFW&#39;s rules. Your port is open to
+<code>0.0.0.0</code> — to the entire internet.</p>
+<div class="term" dir="ltr"><div class="term-bar"><span class="d d1"></span><span class="d d2"></span><span class="d d3"></span><span class="file">snippet.yaml</span><button type="button" class="copy" data-copy>COPY</button></div><pre class="shiki vitesse-dark" style="background-color:#121212;color:#dbd7caee" tabindex="0"><code><span class="line"><span style="color:#758575DD"># DANGEROUS: exposes port 8000 to the world, bypasses UFW!</span></span>
+<span class="line"><span style="color:#B8A965">ports</span><span style="color:#666666">:</span></span>
+<span class="line"><span style="color:#666666">  -</span><span style="color:#C98A7D77"> "</span><span style="color:#C98A7D">8000:8000</span><span style="color:#C98A7D77">"</span></span>
+<span class="line"><span style="color:#758575DD"># SAFE: binds only to loopback (reachable by host Nginx, not the internet)</span></span>
+<span class="line"><span style="color:#B8A965">ports</span><span style="color:#666666">:</span></span>
+<span class="line"><span style="color:#666666">  -</span><span style="color:#C98A7D77"> "</span><span style="color:#C98A7D">127.0.0.1:8000:8000</span><span style="color:#C98A7D77">"</span></span></code></pre></div><p>Bind published ports to <code>127.0.0.1</code> and let a reverse proxy on the host
+(Nginx/Caddy) talk to them.</p>
+<h3 id="log-rotation-or-your-disk-dies-quietly">💾 Log rotation, or your disk dies quietly</h3><p>The default <code>json-file</code> log driver has <strong>no size limit</strong>. A chatty service
+can write tens of gigabytes over a few weeks and take the whole server down
+at 100% disk. Always configure rotation:</p>
+<div class="term" dir="ltr"><div class="term-bar"><span class="d d1"></span><span class="d d2"></span><span class="d d3"></span><span class="file">snippet.json</span><button type="button" class="copy" data-copy>COPY</button></div><pre class="shiki vitesse-dark" style="background-color:#121212;color:#dbd7caee" tabindex="0"><code><span class="line"><span style="color:#666666">{</span></span>
+<span class="line"><span style="color:#B8A96577">  "</span><span style="color:#B8A965">log-driver</span><span style="color:#B8A96577">"</span><span style="color:#666666">:</span><span style="color:#C98A7D77"> "</span><span style="color:#C98A7D">json-file</span><span style="color:#C98A7D77">"</span><span style="color:#666666">,</span></span>
+<span class="line"><span style="color:#B8A96577">  "</span><span style="color:#B8A965">log-opts</span><span style="color:#B8A96577">"</span><span style="color:#666666">:</span><span style="color:#666666"> {</span><span style="color:#B8A96577"> "</span><span style="color:#B8A965">max-size</span><span style="color:#B8A96577">"</span><span style="color:#666666">:</span><span style="color:#C98A7D77"> "</span><span style="color:#C98A7D">10m</span><span style="color:#C98A7D77">"</span><span style="color:#666666">,</span><span style="color:#B8A96577"> "</span><span style="color:#B8A965">max-file</span><span style="color:#B8A96577">"</span><span style="color:#666666">:</span><span style="color:#C98A7D77"> "</span><span style="color:#C98A7D">3</span><span style="color:#C98A7D77">"</span><span style="color:#666666"> }</span></span>
+<span class="line"><span style="color:#666666">}</span></span></code></pre></div><h3 id="resource-limits-read-only-filesystems-and-dropped-capabilities">🛡️ Resource limits, read-only filesystems, and dropped capabilities</h3><p>Without memory limits, one container with a memory leak takes the whole
+server — including SSH — down with it. In production, add
+<code>deploy.resources.limits</code>, run with <code>read_only: true</code> plus a <code>tmpfs</code> on
+<code>/tmp</code> (so an attacker who gets in can&#39;t persist malware), and drop kernel
+capabilities you don&#39;t need with <code>cap_drop: [ALL]</code>.</p>
+<h3 id="secrets-are-not-env">🔑 Secrets are not ENV</h3><p>Environment variables are readable by anyone who can run <code>docker inspect</code>,
+and they leak into child processes. For passwords and private keys use
+Docker <strong>secrets</strong>, mounted as files under <code>/run/secrets/&lt;name&gt;</code> (in RAM,
+not on disk):</p>
+<div class="term" dir="ltr"><div class="term-bar"><span class="d d1"></span><span class="d d2"></span><span class="d d3"></span><span class="file">snippet.yaml</span><button type="button" class="copy" data-copy>COPY</button></div><pre class="shiki vitesse-dark" style="background-color:#121212;color:#dbd7caee" tabindex="0"><code><span class="line"><span style="color:#B8A965">services</span><span style="color:#666666">:</span></span>
+<span class="line"><span style="color:#B8A965">  db</span><span style="color:#666666">:</span></span>
+<span class="line"><span style="color:#B8A965">    secrets</span><span style="color:#666666">:</span><span style="color:#666666"> [</span><span style="color:#C98A7D">db_password</span><span style="color:#666666">]</span></span>
+<span class="line"><span style="color:#B8A965">    environment</span><span style="color:#666666">:</span></span>
+<span class="line"><span style="color:#B8A965">      POSTGRES_PASSWORD_FILE</span><span style="color:#666666">:</span><span style="color:#C98A7D"> /run/secrets/db_password</span></span>
+<span class="line"><span style="color:#B8A965">secrets</span><span style="color:#666666">:</span></span>
+<span class="line"><span style="color:#B8A965">  db_password</span><span style="color:#666666">:</span></span>
+<span class="line"><span style="color:#B8A965">    file</span><span style="color:#666666">:</span><span style="color:#C98A7D"> ./secrets/db_password.txt</span></span></code></pre></div><h2 id="cheat-sheet">Cheat sheet</h2><div class="term" dir="ltr"><div class="term-bar"><span class="d d1"></span><span class="d d2"></span><span class="d d3"></span><span class="file">snippet.bash</span><button type="button" class="copy" data-copy>COPY</button></div><pre class="shiki vitesse-dark" style="background-color:#121212;color:#dbd7caee" tabindex="0"><code><span class="line"><span style="color:#80A665">docker</span><span style="color:#C98A7D"> build</span><span style="color:#C99076"> -t</span><span style="color:#C98A7D"> app:1.0</span><span style="color:#C98A7D"> .</span><span style="color:#758575DD">                       # build with a tag</span></span>
+<span class="line"><span style="color:#80A665">docker</span><span style="color:#C98A7D"> run</span><span style="color:#C99076"> -d</span><span style="color:#C99076"> --name</span><span style="color:#C98A7D"> api</span><span style="color:#C99076"> -p</span><span style="color:#C98A7D"> 127.0.0.1:8000:8000</span><span style="color:#C98A7D"> app:1.0</span><span style="color:#758575DD">  # run, safe port</span></span>
+<span class="line"><span style="color:#80A665">docker</span><span style="color:#C98A7D"> logs</span><span style="color:#C99076"> -f</span><span style="color:#C99076"> --tail</span><span style="color:#4C9A91"> 100</span><span style="color:#C99076"> -t</span><span style="color:#C98A7D"> api</span><span style="color:#758575DD">                # follow logs</span></span>
+<span class="line"><span style="color:#80A665">docker</span><span style="color:#C98A7D"> exec</span><span style="color:#C99076"> -u</span><span style="color:#4C9A91"> 0</span><span style="color:#C99076"> -it</span><span style="color:#C98A7D"> api</span><span style="color:#C98A7D"> /bin/sh</span><span style="color:#758575DD">                # root shell inside</span></span>
+<span class="line"><span style="color:#80A665">docker</span><span style="color:#C98A7D"> compose</span><span style="color:#C98A7D"> up</span><span style="color:#C99076"> -d</span><span style="color:#C99076"> --build</span><span style="color:#758575DD">                    # build &#x26; run the stack</span></span>
+<span class="line"><span style="color:#80A665">docker</span><span style="color:#C98A7D"> system</span><span style="color:#C98A7D"> df</span><span style="color:#C99076"> -v</span><span style="color:#758575DD">                             # disk usage breakdown</span></span>
+<span class="line"><span style="color:#80A665">docker</span><span style="color:#C98A7D"> run</span><span style="color:#C99076"> --rm</span><span style="color:#C99076"> -u</span><span style="color:#666666"> $(</span><span style="color:#80A665">id</span><span style="color:#C99076"> -u</span><span style="color:#666666">)</span><span style="color:#C98A7D">:</span><span style="color:#666666">$(</span><span style="color:#80A665">id</span><span style="color:#C99076"> -g</span><span style="color:#666666">)</span><span style="color:#C99076"> -v</span><span style="color:#666666"> $(</span><span style="color:#B8A965">pwd</span><span style="color:#666666">)</span><span style="color:#C98A7D">:/app</span><span style="color:#C99076"> -w</span><span style="color:#C98A7D"> /app</span><span style="color:#C98A7D"> python:3.12-slim</span><span style="color:#C98A7D"> pytest</span><span style="color:#758575DD">  # throwaway test container</span></span>
+<span class="line"><span style="color:#80A665">docker</span><span style="color:#C98A7D"> compose</span><span style="color:#C98A7D"> down</span><span style="color:#C99076"> -v</span><span style="color:#C99076"> --remove-orphans</span><span style="color:#758575DD">         # stop &#x26; wipe volumes</span></span></code></pre></div><h2 id="what-docker-actually-buys-you">What Docker actually buys you</h2><p>Looking back, the value isn&#39;t the whale logo or the YAML. It&#39;s that my
+automation stack, my side projects, and my servers now share one vocabulary:
+the same image that builds on my machine deploys to the VPS unchanged, and
+when something breaks I debug a process with logs instead of a snowflake
+server. That predictability is the product — the rest of this post is just
+how to get it safely.</p>
+<p><em>This guide reflects my study notes compiled from official Docker
+documentation and hard-won production lessons; versions and flags move
+fast, so always cross-check docs.docker.com.</em></p>
+5:["$","main",null,{"className":"pb-20","children":[["$","$L12",null,{}],["$","$L13",null,{"status":"Ready to Hire","lang":"en","linkPrefix":"/"}],["$","article",null,{"className":"mx-auto w-full max-w-3xl px-5 pt-14 sm:px-8","children":[["$","header",null,{"children":[["$","p",null,{"className":"font-mono text-xs tracking-widest text-fog","children":[["$","span",null,{"className":"text-neon","children":["❯ ","~/blog"]}]," ⟶ ","docker-production-guide",".md"]}],["$","div",null,{"className":"mt-5 flex flex-wrap gap-2","children":[["$","$L14","Docker",{"href":"/blog/tags/docker","className":"rounded-md border border-neon/25 bg-neon/10 px-2 py-0.5 font-mono text-[11px] tracking-wide text-neon transition hover:border-neon","children":"DOCKER"}],["$","$L14","DevOps",{"href":"/blog/tags/devops","className":"rounded-md border border-neon/25 bg-neon/10 px-2 py-0.5 font-mono text-[11px] tracking-wide text-neon transition hover:border-neon","children":"DEVOPS"}],["$","$L14","Production",{"href":"/blog/tags/production","className":"rounded-md border border-neon/25 bg-neon/10 px-2 py-0.5 font-mono text-[11px] tracking-wide text-neon transition hover:border-neon","children":"PRODUCTION"}]]}],["$","h1",null,{"className":"chromatic mt-4 text-3xl font-black leading-tight sm:text-4xl","children":"Docker for Developers: From Kernel to Production"}],["$","p",null,{"className":"mt-4 text-lg leading-relaxed text-fog","children":"Why I learned Docker, what containers actually are (in plain words), and a production-grade reference: images and layer caching, Compose v2, networking, and the security traps nobody warns you about."}],["$","div",null,{"className":"mt-6 flex flex-wrap items-center gap-x-5 gap-y-2 rounded-xl border border-line bg-panel px-4 py-3 font-mono text-xs text-fog","children":[["$","span",null,{"children":["DATE:"," ",["$","span",null,{"className":"text-mist","children":"Oct 29, 2026"}]]}],["$","span",null,{"children":["READ:"," ",["$","span",null,{"className":"text-beam","children":["~","8"," ","MIN"]}]]}],["$","span",null,{"children":["AUTHOR:"," ",["$","span",null,{"className":"text-mist","children":"SOHEIL MOHAJER"}]]}]]}],["$","div",null,{"className":"mt-3","children":["$","$L14",null,{"href":"/fa/blog/docker-production-guide/","className":"inline-flex rounded-lg border border-beam/40 bg-beam/10 px-3 py-1.5 font-mono text-xs text-beam transition hover:border-beam","children":"نسخه‌ی فارسی این پست ❯"}]}]]}],["$","div",null,{"className":"prose-blog mt-10","dangerouslySetInnerHTML":{"__html":"$15"}}],"$L16","$L17","$L18","$L19","$L1a"]}],"$L1b","$L1c"]}]
+16:["$","p",null,{"className":"mt-14 text-center font-mono text-xs tracking-widest text-fog","children":"——— // EOF — THANKS_FOR_READING ———"}]
+17:["$","div",null,{"className":"mt-6 flex flex-wrap justify-center gap-2","children":[["$","a",null,{"href":"https://twitter.com/intent/tweet?text=Docker%20for%20Developers%3A%20From%20Kernel%20to%20Production&url=https://soheilmohajer.ir/blog/docker-production-guide","target":"_blank","rel":"noopener noreferrer","className":"rounded-full border border-line bg-panel px-3.5 py-1.5 font-mono text-[11px] tracking-wide text-fog transition hover:border-neon/50 hover:text-neon","children":"SHARE // X"}],["$","a",null,{"href":"https://www.linkedin.com/sharing/share-offsite/?url=https://soheilmohajer.ir/blog/docker-production-guide","target":"_blank","rel":"noopener noreferrer","className":"rounded-full border border-line bg-panel px-3.5 py-1.5 font-mono text-[11px] tracking-wide text-fog transition hover:border-neon/50 hover:text-neon","children":"SHARE // LINKEDIN"}],["$","a",null,{"href":"https://t.me/share/url?url=https://soheilmohajer.ir/blog/docker-production-guide&text=Docker%20for%20Developers%3A%20From%20Kernel%20to%20Production","target":"_blank","rel":"noopener noreferrer","className":"rounded-full border border-line bg-panel px-3.5 py-1.5 font-mono text-[11px] tracking-wide text-fog transition hover:border-neon/50 hover:text-neon","children":"SHARE // TELEGRAM"}]]}]
+18:["$","div",null,{"className":"mt-10 flex flex-wrap items-center gap-4 rounded-2xl border border-line bg-panel p-5","children":[["$","span",null,{"aria-hidden":true,"className":"grid size-14 shrink-0 place-items-center rounded-lg border border-neon/40 bg-neon/10 font-mono text-sm font-bold text-neon","children":"SM$"}],["$","div",null,{"children":[["$","p",null,{"className":"font-black","children":"Soheil Mohajer"}],["$","p",null,{"className":"text-sm text-fog","children":"Android & AI Agent Developer — Mashhad, IR"}]]}],["$","div",null,{"className":"ms-auto flex gap-2","children":[["$","a",null,{"href":"https://github.com/soheilmohajer-code","target":"_blank","rel":"noopener noreferrer","className":"rounded-full border border-line bg-panel-2 px-3 py-1 font-mono text-[11px] text-fog transition hover:border-neon/50 hover:text-neon","children":"GITHUB"}],["$","a",null,{"href":"https://t.me/soheil_mohajer","target":"_blank","rel":"noopener noreferrer","className":"rounded-full border border-line bg-panel-2 px-3 py-1 font-mono text-[11px] text-fog transition hover:border-neon/50 hover:text-neon","children":"TELEGRAM"}]]}]]}]
+19:["$","nav",null,{"className":"mt-6 grid gap-4 sm:grid-cols-2","aria-label":"Post navigation","children":[["$","$L14",null,{"href":"/blog/database-systems","className":"rounded-xl border border-line bg-panel p-4 transition hover:border-neon/30","children":[["$","span",null,{"className":"font-mono text-[10px] tracking-widest text-fog","children":"❮ PREV_POST"}],["$","b",null,{"className":"mt-1 block text-sm leading-snug","children":"Database Systems: How Information Is Organized, Stored and Protected"}]]}],null]}]
+1a:["$","div",null,{"className":"mt-6 flex flex-wrap items-center gap-4 rounded-2xl border border-dashed border-neon/40 bg-neon/5 p-5","children":[["$","div",null,{"children":[["$","b",null,{"className":"font-mono text-sm tracking-widest text-neon","children":"SUBSCRIBE // RSS.SYS"}],["$","p",null,{"className":"mt-1 text-sm text-fog","children":"New research notes and write-ups, straight to your reader."}]]}],["$","$L14",null,{"href":"/feed.xml","className":"ms-auto rounded-lg bg-neon px-4 py-2 font-mono text-xs font-bold text-black transition hover:brightness-110","children":"ADD_TO_READER ❯"}]]}]
+1b:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"Docker for Developers: From Kernel to Production\",\"description\":\"Why I learned Docker, what containers actually are (in plain words), and a production-grade reference: images and layer caching, Compose v2, networking, and the security traps nobody warns you about.\",\"datePublished\":\"2026-10-29\",\"keywords\":\"Docker, DevOps, Production\",\"inLanguage\":\"en\",\"author\":{\"@type\":\"Person\",\"name\":\"Soheil Mohajer\",\"url\":\"https://soheilmohajer.ir\"},\"mainEntityOfPage\":\"https://soheilmohajer.ir/blog/docker-production-guide\"}"}}]
+1c:["$","script",null,{"dangerouslySetInnerHTML":{"__html":"document.addEventListener(\"click\",function(e){var b=e.target.closest(\"[data-copy]\");if(!b)return;var pre=b.closest(\".term\").querySelector(\"pre\");if(!pre||!navigator.clipboard)return;navigator.clipboard.writeText(pre.innerText).then(function(){var o=b.textContent;b.textContent=\"COPIED\";setTimeout(function(){b.textContent=o},1200)});});"}}]
