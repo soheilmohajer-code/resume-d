@@ -1,0 +1,238 @@
+1:"$Sreact.fragment"
+3:I[39756,["/_next/static/chunks/1n-gvq05z14ni.js","/_next/static/chunks/42x9yqu0qh8fc.js"],"default"]
+4:I[37457,["/_next/static/chunks/1n-gvq05z14ni.js","/_next/static/chunks/42x9yqu0qh8fc.js"],"default"]
+6:I[97367,["/_next/static/chunks/1n-gvq05z14ni.js","/_next/static/chunks/42x9yqu0qh8fc.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+a:I[97367,["/_next/static/chunks/1n-gvq05z14ni.js","/_next/static/chunks/42x9yqu0qh8fc.js"],"ViewportBoundary"]
+c:I[97367,["/_next/static/chunks/1n-gvq05z14ni.js","/_next/static/chunks/42x9yqu0qh8fc.js"],"MetadataBoundary"]
+e:I[68027,["/_next/static/chunks/1n-gvq05z14ni.js","/_next/static/chunks/42x9yqu0qh8fc.js"],"default",1]
+:HL["/_next/static/chunks/0k3v18136_hen.css","style"]
+9:X
+0:{"P":null,"c":["","blog","nodejs-explained",""],"q":"","i":false,"f":[[["",{"children":["blog",{"children":[["slug","nodejs-explained","d",["tags"]],{"children":["__PAGE__",{},"$undefined","$undefined",4608]},"$undefined","$undefined",4608]},"$undefined","$undefined",4608]},"$undefined","$undefined",4624],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0k3v18136_hen.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/1n-gvq05z14ni.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/42x9yqu0qh8fc.js","async":true,"nonce":"$undefined"}]],"$L2"]}],{"children":[["$","$1","c",{"children":[null,["$","div",null,{"lang":"en","dir":"ltr","className":"relative z-10","children":[["$","script",null,{"dangerouslySetInnerHTML":{"__html":"try {\n  document.documentElement.lang = \"en\";\n  document.documentElement.dir = \"ltr\";\n} catch (e) {}"}}],["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L5",[["$","script","script-0",{"src":"/_next/static/chunks/1sv8af7n4af36.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/1w60bjl8lf61o.js","async":true,"nonce":"$undefined"}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],{},null,false,null]},null,false,"$9"]},null,false,null]},null,false,null],["$","$1","h",{"children":[null,["$","$La",null,{"children":"$Lb"}],["$","div",null,{"hidden":true,"children":["$","$Lc",null,{"children":["$","$7",null,{"name":"Next.Metadata","children":"$Ld"}]}]}],null]}],false]],"m":"$undefined","G":["$e",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0k3v18136_hen.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"h":null,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"wrc5K_ahQJbsmHBYykBJo"}
+10:I[16756,["/_next/static/chunks/1n-gvq05z14ni.js","/_next/static/chunks/42x9yqu0qh8fc.js"],"default"]
+11:I[22016,["/_next/static/chunks/1n-gvq05z14ni.js","/_next/static/chunks/42x9yqu0qh8fc.js","/_next/static/chunks/1sv8af7n4af36.js","/_next/static/chunks/1w60bjl8lf61o.js"],""]
+12:I[90715,["/_next/static/chunks/1n-gvq05z14ni.js","/_next/static/chunks/42x9yqu0qh8fc.js"],"default"]
+13:I[56194,["/_next/static/chunks/1n-gvq05z14ni.js","/_next/static/chunks/42x9yqu0qh8fc.js"],"default"]
+9:C
+f:T453,
+try {
+  // Single-theme site (default neon): clear any previously saved custom theme.
+  localStorage.removeItem("sm_theme");
+  document.documentElement.removeAttribute("data-theme");
+  var m = localStorage.getItem("sm_mode");
+  if (m) document.documentElement.setAttribute("data-mode", m);
+  // Language/direction fix BEFORE first paint (static export ships fa/rtl shell;
+  // /en/ and blog-EN pages must not flash RTL).
+  var p = location.pathname;
+  if (p.indexOf("/en") === 0 || p.indexOf("/blog") === 0) {
+    document.documentElement.lang = "en";
+    document.documentElement.dir = "ltr";
+  } else if (p.indexOf("/ar") === 0) {
+    document.documentElement.lang = "ar";
+    document.documentElement.dir = "rtl";
+  } else if (p.indexOf("/fa") === 0) {
+    document.documentElement.lang = "fa";
+    document.documentElement.dir = "rtl";
+  }
+  // Theme-color meta follows the active light/dark mode.
+  var tc = document.querySelector('meta[name="theme-color"]');
+  if (tc) tc.setAttribute("content", document.documentElement.getAttribute("data-mode") === "light" ? "#f5f6fa" : "#05070b");
+} catch (e) {}
+2:["$","html",null,{"lang":"fa","dir":"rtl","className":"h-full antialiased","suppressHydrationWarning":true,"children":[["$","head",null,{"children":["$","script",null,{"dangerouslySetInnerHTML":{"__html":"$f"}}]}],["$","body",null,{"className":"min-h-screen overflow-x-hidden bg-void font-sans text-mist","children":[["$","div",null,{"aria-hidden":true,"className":"pointer-events-none fixed inset-0 z-0 print:hidden","children":[["$","div",null,{"className":"grid-lines absolute inset-0"}],["$","div",null,{"className":"noise-layer absolute inset-0 opacity-[0.05] mix-blend-overlay"}],["$","div",null,{"className":"absolute inset-x-0 top-0 h-48 bg-gradient-to-b from-neon/[0.05] to-transparent"}],["$","div",null,{"className":"absolute bottom-[-10rem] start-[-6rem] size-[26rem] rounded-full bg-flare/[0.04] blur-[120px]"}],["$","div",null,{"className":"absolute end-[-8rem] top-1/3 size-[30rem] rounded-full bg-neon/[0.05] blur-[140px]"}]]}],["$","$L10",null,{}],["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"relative z-10 grid min-h-screen place-items-center px-5 py-20","children":["$","div",null,{"className":"w-full max-w-lg rounded-2xl border border-line bg-panel/80 p-8 text-center sm:p-10","children":[["$","p",null,{"dir":"ltr","className":"font-mono text-[11px] tracking-widest text-flare","children":"ERROR // SEGMENT_NOT_FOUND"}],["$","h1",null,{"className":"chromatic mt-4 text-7xl font-black tracking-tight","children":"۴۰۴"}],["$","h2",null,{"className":"mt-3 text-lg font-bold","children":"این مسیر وجود ندارد."}],["$","p",null,{"dir":"ltr","className":"mt-4 font-mono text-xs leading-loose text-fog","children":[["$","span",null,{"className":"text-neon","children":"$$"}]," git log --oneline",["$","br",null,{}],["$","span",null,{"className":"text-flare","children":"fatal:"}]," path '","/…","' does not exist"]}],["$","p",null,{"className":"mt-4 text-sm leading-relaxed text-fog","children":"صفحه‌ای که دنبالش بودی جابه‌جا شده یا هرگز ساخته نشده. از این‌جا ادامه بده:"}],["$","div",null,{"className":"mt-6 flex flex-wrap justify-center gap-2","children":[["$","$L11",null,{"href":"/","className":"rounded-lg bg-neon px-5 py-2.5 font-mono text-xs font-bold text-black transition hover:brightness-110","children":"صفحه‌ی اصلی ❯"}],["$","$L11",null,{"href":"/fa/blog","className":"rounded-lg border border-line px-5 py-2.5 font-mono text-xs text-fog transition hover:border-neon/50 hover:text-neon","children":"وبلاگ ❯"}]]}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","$L12",null,{"lang":"fa"}],["$","$L13",null,{"lang":"fa"}]]}]]}]
+b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#05070b"}]]
+14:I[27201,["/_next/static/chunks/1n-gvq05z14ni.js","/_next/static/chunks/42x9yqu0qh8fc.js"],"IconMark"]
+8:null
+d:[["$","title","0",{"children":"Node.js Explained: JavaScript's Escape From the Browser | Soheil Mohajer"}],["$","meta","1",{"name":"description","content":"What Node.js actually is (a runtime, not a language), how the event loop serves thousands of users with one thread, where it beats PHP, Python and Java — and where it loses. With a practical cheat sheet."}],["$","link","2",{"rel":"author","href":"https://soheilmohajer.ir"}],["$","meta","3",{"name":"author","content":"سهیل مهاجر"}],["$","meta","4",{"name":"keywords","content":"سهیل مهاجر,توسعه‌دهنده اندروید,ایجنت هوش مصنوعی,برنامه‌نویسی بازی,Unity,Android Developer,AI Agent Developer,n8n,کافه بازار"}],["$","meta","5",{"name":"robots","content":"index, follow"}],["$","link","6",{"rel":"canonical","href":"https://soheilmohajer.ir/blog/nodejs-explained/"}],["$","link","7",{"rel":"alternate","hrefLang":"en-US","href":"https://soheilmohajer.ir/blog/nodejs-explained/"}],["$","link","8",{"rel":"alternate","hrefLang":"fa-IR","href":"https://soheilmohajer.ir/fa/blog/nodejs-explained/"}],["$","meta","9",{"property":"og:title","content":"Node.js Explained: JavaScript's Escape From the Browser"}],["$","meta","10",{"property":"og:description","content":"What Node.js actually is (a runtime, not a language), how the event loop serves thousands of users with one thread, where it beats PHP, Python and Java — and where it loses. With a practical cheat sheet."}],["$","meta","11",{"property":"og:image","content":"https://soheilmohajer.ir/og/nodejs-explained.png"}],["$","meta","12",{"property":"og:image:width","content":"1200"}],["$","meta","13",{"property":"og:image:height","content":"630"}],["$","meta","14",{"property":"og:image:alt","content":"Node.js Explained: JavaScript's Escape From the Browser"}],["$","meta","15",{"property":"og:type","content":"article"}],["$","meta","16",{"property":"article:published_time","content":"2026-10-30"}],["$","meta","17",{"property":"article:tag","content":"Node.js"}],["$","meta","18",{"property":"article:tag","content":"JavaScript"}],["$","meta","19",{"property":"article:tag","content":"Backend"}],["$","meta","20",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","21",{"name":"twitter:title","content":"Node.js Explained: JavaScript's Escape From the Browser"}],["$","meta","22",{"name":"twitter:description","content":"What Node.js actually is (a runtime, not a language), how the event loop serves thousands of users with one thread, where it beats PHP, Python and Java — and where it loses. With a practical cheat sheet."}],["$","meta","23",{"name":"twitter:image","content":"https://soheilmohajer.ir/og/nodejs-explained.png"}],["$","link","24",{"rel":"icon","href":"/icon.svg","type":"image/svg+xml"}],["$","link","25",{"rel":"icon","href":"/favicon.ico","sizes":"32x32"}],["$","link","26",{"rel":"apple-touch-icon","href":"/apple-touch-icon.png"}],["$","$L14","27",{}]]
+15:I[36380,["/_next/static/chunks/1n-gvq05z14ni.js","/_next/static/chunks/42x9yqu0qh8fc.js","/_next/static/chunks/1sv8af7n4af36.js","/_next/static/chunks/1w60bjl8lf61o.js"],"default"]
+16:I[2971,["/_next/static/chunks/1n-gvq05z14ni.js","/_next/static/chunks/42x9yqu0qh8fc.js","/_next/static/chunks/1sv8af7n4af36.js","/_next/static/chunks/1w60bjl8lf61o.js"],"default"]
+17:T5d9,M11.998,24c-0.321,0-0.641-0.084-0.922-0.247l-2.936-1.737c-0.438-0.245-0.224-0.332-0.08-0.383 c0.585-0.203,0.703-0.25,1.328-0.604c0.065-0.037,0.151-0.023,0.218,0.017l2.256,1.339c0.082,0.045,0.197,0.045,0.272,0l8.795-5.076 c0.082-0.047,0.134-0.141,0.134-0.238V6.921c0-0.099-0.053-0.192-0.137-0.242l-8.791-5.072c-0.081-0.047-0.189-0.047-0.271,0 L3.075,6.68C2.99,6.729,2.936,6.825,2.936,6.921v10.15c0,0.097,0.054,0.189,0.139,0.235l2.409,1.392 c1.307,0.654,2.108-0.116,2.108-0.89V7.787c0-0.142,0.114-0.253,0.256-0.253h1.115c0.139,0,0.255,0.112,0.255,0.253v10.021 c0,1.745-0.95,2.745-2.604,2.745c-0.508,0-0.909,0-2.026-0.551L2.28,18.675c-0.57-0.329-0.922-0.945-0.922-1.604V6.921 c0-0.659,0.353-1.275,0.922-1.603l8.795-5.082c0.557-0.315,1.296-0.315,1.848,0l8.794,5.082c0.57,0.329,0.924,0.944,0.924,1.603 v10.15c0,0.659-0.354,1.273-0.924,1.604l-8.794,5.078C12.643,23.916,12.324,24,11.998,24z M19.099,13.993 c0-1.9-1.284-2.406-3.987-2.763c-2.731-0.361-3.009-0.548-3.009-1.187c0-0.528,0.235-1.233,2.258-1.233 c1.807,0,2.473,0.389,2.747,1.607c0.024,0.115,0.129,0.199,0.247,0.199h1.141c0.071,0,0.138-0.031,0.186-0.081 c0.048-0.054,0.074-0.123,0.067-0.196c-0.177-2.098-1.571-3.076-4.388-3.076c-2.508,0-4.004,1.058-4.004,2.833 c0,1.925,1.488,2.457,3.895,2.695c2.88,0.282,3.103,0.703,3.103,1.269c0,0.983-0.789,1.402-2.642,1.402 c-2.327,0-2.839-0.584-3.011-1.742c-0.02-0.124-0.126-0.215-0.253-0.215h-1.137c-0.141,0-0.254,0.112-0.254,0.253 c0,1.482,0.806,3.248,4.655,3.248C17.501,17.007,19.099,15.91,19.099,13.993z5:["$","main",null,{"className":"pb-20","children":["$","div",null,{"className":"theme-nodejs","children":[["$","$L15",null,{}],["$","$L16",null,{"status":"Ready to Hire","lang":"en","linkPrefix":"/"}],["$","article",null,{"className":"mx-auto w-full max-w-3xl px-5 pt-14 sm:px-8","children":[["$","header",null,{"children":[["$","p",null,{"className":"font-mono text-xs tracking-widest text-fog","children":[["$","$L11",null,{"href":"/blog","className":"text-neon transition hover:underline","children":["❯ ","~/blog"]}]," ⟶ ","nodejs-explained",".md"]}],["$","div",null,{"className":"mt-5 flex flex-wrap gap-2","children":[["$","$L11","Node.js",{"href":"/blog/tags/node.js","className":"rounded-md border border-neon/25 bg-neon/10 px-2 py-0.5 font-mono text-[11px] tracking-wide text-neon transition hover:border-neon","children":"NODE.JS"}],["$","$L11","JavaScript",{"href":"/blog/tags/javascript","className":"rounded-md border border-neon/25 bg-neon/10 px-2 py-0.5 font-mono text-[11px] tracking-wide text-neon transition hover:border-neon","children":"JAVASCRIPT"}],["$","$L11","Backend",{"href":"/blog/tags/backend","className":"rounded-md border border-neon/25 bg-neon/10 px-2 py-0.5 font-mono text-[11px] tracking-wide text-neon transition hover:border-neon","children":"BACKEND"}]]}],["$","h1",null,{"className":"chromatic mt-4 text-3xl font-black leading-tight sm:text-4xl","children":"Node.js Explained: JavaScript's Escape From the Browser"}],["$","p",null,{"className":"mt-4 text-lg leading-relaxed text-fog","children":"What Node.js actually is (a runtime, not a language), how the event loop serves thousands of users with one thread, where it beats PHP, Python and Java — and where it loses. With a practical cheat sheet."}],["$","div",null,{"className":"mt-6 flex flex-wrap items-center gap-x-5 gap-y-2 rounded-xl border border-line bg-panel px-4 py-3 font-mono text-xs text-fog","children":[["$","span",null,{"children":["DATE:"," ",["$","span",null,{"className":"text-mist","children":"Oct 30, 2026"}]]}],["$","span",null,{"children":["READ:"," ",["$","span",null,{"className":"text-beam","children":["~","5"," ","MIN"]}]]}],["$","span",null,{"children":["AUTHOR:"," ",["$","span",null,{"className":"text-mist","children":"SOHEIL MOHAJER"}]]}]]}],[["$","div",null,{"aria-hidden":true,"className":"post-bg pointer-events-none fixed inset-0 z-0 hidden lg:block","children":[["$","svg",null,{"className":"post-bg-mark","viewBox":"0 0 24 24","aria-hidden":true,"focusable":"false","children":["$","path",null,{"fill":"currentColor","d":"$17"}]}],["$L18","$L19","$L1a","$L1b","$L1c","$L1d"]]}],"$L1e"],"$L1f"]}],"$L20","$L21","$L22","$L23","$L24","$L25"]}],"$L26","$L27","$L28"]}]}]
+29:I[5014,["/_next/static/chunks/1n-gvq05z14ni.js","/_next/static/chunks/42x9yqu0qh8fc.js","/_next/static/chunks/1sv8af7n4af36.js","/_next/static/chunks/1w60bjl8lf61o.js"],"default"]
+18:["$","$L29","0",{"ref":"$undefined","iconNode":[["rect",{"width":"20","height":"8","x":"2","y":"2","rx":"2","ry":"2","key":"ngkwjq"}],["rect",{"width":"20","height":"8","x":"2","y":"14","rx":"2","ry":"2","key":"iecqi9"}],["line",{"x1":"6","x2":"6.01","y1":"6","y2":"6","key":"16zg32"}],["line",{"x1":"6","x2":"6.01","y1":"18","y2":"18","key":"nzw8ys"}]],"className":"lucide-server post-bg-floater","style":{"top":"14%","insetInlineStart":"4%","insetInlineEnd":"$undefined","width":"1.9rem","height":"1.9rem","animationDelay":"0s","animationDuration":"9.5s"},"strokeWidth":1.6}]
+19:["$","$L29","1",{"ref":"$undefined","iconNode":[["path",{"d":"M8 3H7a2 2 0 0 0-2 2v5a2 2 0 0 1-2 2 2 2 0 0 1 2 2v5c0 1.1.9 2 2 2h1","key":"ezmyqa"}],["path",{"d":"M16 21h1a2 2 0 0 0 2-2v-5c0-1.1.9-2 2-2a2 2 0 0 1-2-2V5a2 2 0 0 0-2-2h-1","key":"e1hn23"}]],"className":"lucide-braces post-bg-floater","style":{"top":"46%","insetInlineStart":"7%","insetInlineEnd":"$undefined","width":"1.9rem","height":"1.9rem","animationDelay":"-1.7s","animationDuration":"11s"},"strokeWidth":1.6}]
+1a:["$","$L29","2",{"ref":"$undefined","iconNode":[["path",{"d":"M11 21.73a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73z","key":"1a0edw"}],["path",{"d":"M12 22V12","key":"d0xqtd"}],["polyline",{"points":"3.29 7 12 12 20.71 7","key":"ousv84"}],["path",{"d":"m7.5 4.27 9 5.15","key":"1c824w"}]],"className":"lucide-package post-bg-floater","style":{"top":"79%","insetInlineStart":"11%","insetInlineEnd":"$undefined","width":"1.9rem","height":"1.9rem","animationDelay":"-3.4s","animationDuration":"12.5s"},"strokeWidth":1.6}]
+1b:["$","$L29","3",{"ref":"$undefined","iconNode":[["path",{"d":"M15.914 4a1.5 1.5 0 00-2.474-1.561l-9 9A1.5 1.5 0 005.5 14h4.002a.5.5 0 01.471.666L8.086 20a1.5 1.5 0 002.475 1.56l9-9A1.5 1.5 0 0018.5 10h-3.997a.5.5 0 01-.472-.667z","key":"1v7up4"}]],"className":"lucide-zap post-bg-floater","style":{"top":"21%","insetInlineStart":"$undefined","insetInlineEnd":"5%","width":"1.9rem","height":"1.9rem","animationDelay":"-5.1s","animationDuration":"9.5s"},"strokeWidth":1.6}]
+1c:["$","$L29","4",{"ref":"$undefined","iconNode":[["path",{"d":"M12 19h8","key":"baeox8"}],["path",{"d":"m4 17 6-6-6-6","key":"1yngyt"}]],"className":"lucide-terminal post-bg-floater","style":{"top":"54%","insetInlineStart":"$undefined","insetInlineEnd":"8%","width":"1.9rem","height":"1.9rem","animationDelay":"-6.8s","animationDuration":"11s"},"strokeWidth":1.6}]
+1d:["$","$L29","5",{"ref":"$undefined","iconNode":[["path",{"d":"M10 16h.01","key":"1bzywj"}],["path",{"d":"M2.212 11.577a2 2 0 0 0-.212.896V18a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2v-5.527a2 2 0 0 0-.212-.896L18.55 5.11A2 2 0 0 0 16.76 4H7.24a2 2 0 0 0-1.79 1.11z","key":"18tbho"}],["path",{"d":"M21.946 12.013H2.054","key":"zqlbp7"}],["path",{"d":"M6 16h.01","key":"1pmjb7"}]],"className":"lucide-hard-drive post-bg-floater","style":{"top":"83%","insetInlineStart":"$undefined","insetInlineEnd":"12%","width":"1.9rem","height":"1.9rem","animationDelay":"-8.5s","animationDuration":"12.5s"},"strokeWidth":1.6}]
+2a:T5d9,M11.998,24c-0.321,0-0.641-0.084-0.922-0.247l-2.936-1.737c-0.438-0.245-0.224-0.332-0.08-0.383 c0.585-0.203,0.703-0.25,1.328-0.604c0.065-0.037,0.151-0.023,0.218,0.017l2.256,1.339c0.082,0.045,0.197,0.045,0.272,0l8.795-5.076 c0.082-0.047,0.134-0.141,0.134-0.238V6.921c0-0.099-0.053-0.192-0.137-0.242l-8.791-5.072c-0.081-0.047-0.189-0.047-0.271,0 L3.075,6.68C2.99,6.729,2.936,6.825,2.936,6.921v10.15c0,0.097,0.054,0.189,0.139,0.235l2.409,1.392 c1.307,0.654,2.108-0.116,2.108-0.89V7.787c0-0.142,0.114-0.253,0.256-0.253h1.115c0.139,0,0.255,0.112,0.255,0.253v10.021 c0,1.745-0.95,2.745-2.604,2.745c-0.508,0-0.909,0-2.026-0.551L2.28,18.675c-0.57-0.329-0.922-0.945-0.922-1.604V6.921 c0-0.659,0.353-1.275,0.922-1.603l8.795-5.082c0.557-0.315,1.296-0.315,1.848,0l8.794,5.082c0.57,0.329,0.924,0.944,0.924,1.603 v10.15c0,0.659-0.354,1.273-0.924,1.604l-8.794,5.078C12.643,23.916,12.324,24,11.998,24z M19.099,13.993 c0-1.9-1.284-2.406-3.987-2.763c-2.731-0.361-3.009-0.548-3.009-1.187c0-0.528,0.235-1.233,2.258-1.233 c1.807,0,2.473,0.389,2.747,1.607c0.024,0.115,0.129,0.199,0.247,0.199h1.141c0.071,0,0.138-0.031,0.186-0.081 c0.048-0.054,0.074-0.123,0.067-0.196c-0.177-2.098-1.571-3.076-4.388-3.076c-2.508,0-4.004,1.058-4.004,2.833 c0,1.925,1.488,2.457,3.895,2.695c2.88,0.282,3.103,0.703,3.103,1.269c0,0.983-0.789,1.402-2.642,1.402 c-2.327,0-2.839-0.584-3.011-1.742c-0.02-0.124-0.126-0.215-0.253-0.215h-1.137c-0.141,0-0.254,0.112-0.254,0.253 c0,1.482,0.806,3.248,4.655,3.248C17.501,17.007,19.099,15.91,19.099,13.993z1e:["$","div",null,{"className":"post-strip mt-6","children":[["$","svg",null,{"className":"post-mark","viewBox":"0 0 24 24","aria-hidden":true,"focusable":"false","children":["$","path",null,{"fill":"currentColor","d":"$2a"}]}],["$","span",null,{"className":"post-strip-sep","aria-hidden":true}],["$","div",null,{"className":"post-strip-term font-mono text-xs leading-relaxed","children":[["$","span",null,{"className":"whitespace-nowrap text-fog","children":[["$","span",null,{"className":"text-neon","children":"$$"}]," ","node server.js"]}],["$","span",null,{"className":"flex items-center gap-3 whitespace-nowrap text-fog","children":[["$","span",null,{"className":"post-stack","aria-hidden":true,"children":[["$","i",null,{}],["$","i",null,{}],["$","i",null,{}],["$","i",null,{}],["$","i",null,{}]]}],"LISTENING :3000",["$","span",null,{"className":"text-neon","children":"[OK]"}],["$","span",null,{"className":"post-cursor","aria-hidden":true}]]}]]}]]}]
+1f:["$","div",null,{"className":"mt-3","children":["$","$L11",null,{"href":"/fa/blog/nodejs-explained/","className":"inline-flex rounded-lg border border-beam/40 bg-beam/10 px-3 py-1.5 font-mono text-xs text-beam transition hover:border-beam","children":"نسخه‌ی فارسی این پست ❯"}]}]
+2b:T39cc,<p>Node.js was my bridge from Android into the back-end world. In the
+BreakPoint bootcamp we built our backend with Node.js on a modular,
+layered architecture — and later my own AI-chat platform ran its whole
+API on it. Coming from typed Java, my first reaction was <em>where are the
+classes?!</em> — and my second was <em>wait, this thing serves thousands of
+users on ONE thread?</em> This post is the explanation that made it click.</p>
+<blockquote>
+<p><strong>TL;DR</strong> — Node.js is not a language and not a framework. It&#39;s a
+<strong>runtime</strong>: the Chrome V8 engine + a C++ layer that lets JavaScript
+run outside the browser. Its superpower is non-blocking I/O on an
+event loop — brilliant for APIs and real-time apps, wrong tool for
+heavy CPU math.</p>
+</blockquote>
+<h2 id="what-nodejs-actually-is">What Node.js actually is</h2><p>Three corrections to the common confusion:</p>
+<ol>
+<li><strong>It&#39;s not a language.</strong> The language is JavaScript (or TypeScript).</li>
+<li><strong>It&#39;s not a framework</strong> like Express or NestJS — those run <em>on</em> it.</li>
+<li><strong>It&#39;s a runtime</strong>: in 2009, Ryan Dahl took Chrome&#39;s open-source V8
+engine, wrapped it with <code>libuv</code> (an event loop + async I/O library)
+and file/network bindings — and suddenly JavaScript could run on a
+server, read files, open sockets and talk to databases.</li>
+</ol>
+<div class="term" dir="ltr"><div class="term-bar"><span class="d d1"></span><span class="d d2"></span><span class="d d3"></span><span class="file">snippet.bash</span><button type="button" class="copy" data-copy>COPY</button></div><pre class="shiki vitesse-dark" style="background-color:#121212;color:#dbd7caee" tabindex="0"><code><span class="line"><span style="color:#80A665">$</span><span style="color:#C98A7D"> node</span><span style="color:#C99076"> -v</span></span>
+<span class="line"><span style="color:#80A665">v22.14.0</span></span></code></pre></div><p>Before Node, JavaScript existed only inside browsers. After Node, the
+same language ran the browser tab <em>and</em> the server talking to it — the
+&quot;one language everywhere&quot; idea that reshaped web development.</p>
+<h2 id="the-event-loop-one-waiter-a-whole-restaurant">The event loop: one waiter, a whole restaurant</h2><p>The mental model that makes Node click:</p>
+<ul>
+<li><strong>Classic servers (PHP/Java style)</strong> are like a restaurant that hires
+<strong>one waiter per customer</strong>. A slow order (database query, file read)
+parks a whole worker. With 1,000 customers you need 1,000 waiters —
+threads are expensive.</li>
+<li><strong>Node.js</strong> hires <strong>one brilliant waiter</strong> who never stands still. He
+takes your order, passes it to the kitchen (the OS and async I/O), and
+immediately serves the next table. When the kitchen rings the bell
+(a callback/promise resolves), he delivers the result.</li>
+</ul>
+<p>That&#39;s the <strong>event loop</strong>: one single thread processing events, while
+every slow operation happens asynchronously in the background. This is
+why Node can hold thousands of concurrent connections on one core — and
+also why <strong>one heavy CPU calculation blocks the entire restaurant</strong>:
+the waiter does the cooking himself, so a 10-second math loop freezes
+everyone. (Worker threads exist for exactly this escape hatch.)</p>
+<div class="term" dir="ltr"><div class="term-bar"><span class="d d1"></span><span class="d d2"></span><span class="d d3"></span><span class="file">snippet.js</span><button type="button" class="copy" data-copy>COPY</button></div><pre class="shiki vitesse-dark" style="background-color:#121212;color:#dbd7caee" tabindex="0"><code><span class="line"><span style="color:#758575DD">// Non-blocking: the server answers other users WHILE the file is read</span></span>
+<span class="line"><span style="color:#4D9375">import</span><span style="color:#666666"> {</span><span style="color:#BD976A"> readFile</span><span style="color:#666666"> }</span><span style="color:#4D9375"> from</span><span style="color:#C98A7D77"> "</span><span style="color:#C98A7D">node:fs/promises</span><span style="color:#C98A7D77">"</span><span style="color:#666666">;</span></span>
+<span class="line"></span>
+<span class="line"><span style="color:#BD976A">app</span><span style="color:#666666">.</span><span style="color:#80A665">get</span><span style="color:#666666">(</span><span style="color:#C98A7D77">"</span><span style="color:#C98A7D">/report</span><span style="color:#C98A7D77">"</span><span style="color:#666666">,</span><span style="color:#CB7676"> async</span><span style="color:#666666"> (</span><span style="color:#BD976A">req</span><span style="color:#666666">,</span><span style="color:#BD976A"> res</span><span style="color:#666666">)</span><span style="color:#666666"> =></span><span style="color:#666666"> {</span></span>
+<span class="line"><span style="color:#CB7676">  const</span><span style="color:#BD976A"> data</span><span style="color:#666666"> =</span><span style="color:#4D9375"> await</span><span style="color:#80A665"> readFile</span><span style="color:#666666">(</span><span style="color:#C98A7D77">"</span><span style="color:#C98A7D">report.json</span><span style="color:#C98A7D77">"</span><span style="color:#666666">,</span><span style="color:#C98A7D77"> "</span><span style="color:#C98A7D">utf8</span><span style="color:#C98A7D77">"</span><span style="color:#666666">);</span><span style="color:#758575DD"> // waiter doesn't wait</span></span>
+<span class="line"><span style="color:#BD976A">  res</span><span style="color:#666666">.</span><span style="color:#80A665">json</span><span style="color:#666666">(</span><span style="color:#BD976A">JSON</span><span style="color:#666666">.</span><span style="color:#80A665">parse</span><span style="color:#666666">(</span><span style="color:#BD976A">data</span><span style="color:#666666">));</span></span>
+<span class="line"><span style="color:#666666">});</span></span></code></pre></div><h2 id="what-it39s-actually-used-for">What it&#39;s actually used for</h2><ul>
+<li><strong>REST/GraphQL APIs</strong> — the classic use: JSON endpoints for web and
+mobile apps (my AI-chat platform&#39;s backend is exactly this).</li>
+<li><strong>Real-time features</strong> — WebSockets, live chats, driver-location
+streaming. The event loop is <em>made</em> for thousands of open connections.</li>
+<li><strong>Build tooling</strong> — the irony of modern web: every front-end framework
+(React, Vue, Next.js) is built and served by Node tooling (Vite, npm).</li>
+<li><strong>CLI tools and automation</strong> — deploy scripts, bots, scrapers.</li>
+<li><strong>Microservices &amp; serverless</strong> — small, fast-booting functions are a
+natural fit.</li>
+</ul>
+<h2 id="node-vs-the-other-back-ends">Node vs the other back-ends</h2><table>
+<thead>
+<tr>
+<th></th>
+<th>Node.js</th>
+<th>PHP</th>
+<th>Python (Django/FastAPI)</th>
+<th>Java (Spring)</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Model</td>
+<td>Event loop, single thread</td>
+<td>Thread/process per request</td>
+<td>Sync or async</td>
+<td>Multithreaded</td>
+</tr>
+<tr>
+<td>I/O concurrency</td>
+<td>Excellent</td>
+<td>Good</td>
+<td>Good (async)</td>
+<td>Good</td>
+</tr>
+<tr>
+<td>CPU-heavy tasks</td>
+<td>Weak (workers help)</td>
+<td>Weak</td>
+<td>Medium</td>
+<td><strong>Excellent</strong></td>
+</tr>
+<tr>
+<td>Language</td>
+<td>JS / TS</td>
+<td>PHP</td>
+<td>Python</td>
+<td>Java</td>
+</tr>
+<tr>
+<td>Learning curve</td>
+<td>Gentle (esp. for front-end devs)</td>
+<td>Gentle</td>
+<td>Gentle</td>
+<td>Steep</td>
+</tr>
+<tr>
+<td>Sweet spot</td>
+<td>Real-time apps, APIs, full-stack JS</td>
+<td>Classic websites</td>
+<td>Data, AI, scripting</td>
+<td>Enterprise systems</td>
+</tr>
+</tbody></table>
+<p>The honest pattern I see: if your app is mostly <strong>waiting</strong> (databases,
+APIs, sockets), Node&#39;s model is superb. If it&#39;s mostly <strong>computing</strong>
+(video encoding, ML, big math), pick a language built for that — or push
+that part to a separate service.</p>
+<h2 id="the-npm-universe">The npm universe</h2><p>Node ships with <strong>npm</strong>, the largest software registry ever created
+(~2 million packages — my <a href="/blog/javascript-explained/">JavaScript post</a>
+covers it). Real talk: half of Node&#39;s productivity is <code>npm install</code> +
+a battle-tested library for everything, and the other half is writing
+your <code>package.json</code> scripts so deploys are one command.</p>
+<h2 id="strengths-and-weaknesses-honestly">Strengths and weaknesses, honestly</h2><p><strong>Wins:</strong></p>
+<ul>
+<li>One language across the whole stack — shared types, shared validation,
+one hire.</li>
+<li>Exceptional I/O performance for its simplicity; boots in milliseconds
+(great for serverless/containers).</li>
+<li>The richest ecosystem; anything you need is one install away.</li>
+<li>Perfect companion to front-end frameworks: Next.js, Nuxt and Vite all
+live on Node.</li>
+</ul>
+<p><strong>Loses:</strong></p>
+<ul>
+<li>CPU-bound work stalls the loop — video processing or ML inference
+belong in another service.</li>
+<li>The callback-era scar tissue: older codebases read like pyramids;
+modern <code>async/await</code> fixed the code, not the old tutorials.</li>
+<li>Churn: dependencies and frameworks move fast (same story as the JS
+world generally).</li>
+<li>For large enterprise systems, Java/C# still bring stronger long-term
+tooling and typing discipline (TypeScript narrows the gap a lot).</li>
+</ul>
+<h2 id="how-popular-is-it">How popular is it?</h2><ul>
+<li><strong>Netflix, PayPal, LinkedIn, Uber</strong> all famously moved critical
+services to Node — PayPal reported 35% faster responses and Netflix
+a huge drop in startup time after migration.</li>
+<li><strong>npm is the #1 package registry on Earth</strong> — nothing else is close.</li>
+<li>Most modern cloud tooling (CLIs, serverless runtimes, dev servers) is
+written in Node.</li>
+<li>Combined with its front-end monopoly, JavaScript + Node form the
+largest developer ecosystem in history.</li>
+</ul>
+<h2 id="cheat-sheet-the-commands-that-matter">Cheat sheet — the commands that matter</h2><div class="term" dir="ltr"><div class="term-bar"><span class="d d1"></span><span class="d d2"></span><span class="d d3"></span><span class="file">snippet.bash</span><button type="button" class="copy" data-copy>COPY</button></div><pre class="shiki vitesse-dark" style="background-color:#121212;color:#dbd7caee" tabindex="0"><code><span class="line"><span style="color:#80A665">node</span><span style="color:#C99076"> -v</span><span style="color:#758575DD">                       # check version (LTS = even numbers)</span></span>
+<span class="line"><span style="color:#80A665">npm</span><span style="color:#C98A7D"> init</span><span style="color:#C99076"> -y</span><span style="color:#758575DD">                   # create package.json</span></span>
+<span class="line"><span style="color:#80A665">npm</span><span style="color:#C98A7D"> install</span><span style="color:#C98A7D"> express</span><span style="color:#758575DD">           # add a dependency</span></span>
+<span class="line"><span style="color:#80A665">npm</span><span style="color:#C98A7D"> run</span><span style="color:#C98A7D"> dev</span><span style="color:#758575DD">                   # run a script from package.json</span></span>
+<span class="line"><span style="color:#80A665">npx</span><span style="color:#C98A7D"> create-next-app@latest</span><span style="color:#758575DD">    # run a package without installing globally</span></span>
+<span class="line"></span>
+<span class="line"><span style="color:#80A665">node</span><span style="color:#C99076"> --watch</span><span style="color:#C98A7D"> server.js</span><span style="color:#758575DD">        # auto-restart on changes (built-in!)</span></span>
+<span class="line"><span style="color:#80A665">node</span><span style="color:#C99076"> -e</span><span style="color:#C98A7D77"> "</span><span style="color:#C98A7D">console.log(process.version)</span><span style="color:#C98A7D77">"</span></span></code></pre></div><div class="term" dir="ltr"><div class="term-bar"><span class="d d1"></span><span class="d d2"></span><span class="d d3"></span><span class="file">snippet.js</span><button type="button" class="copy" data-copy>COPY</button></div><pre class="shiki vitesse-dark" style="background-color:#121212;color:#dbd7caee" tabindex="0"><code><span class="line"><span style="color:#758575DD">// Minimal HTTP server — zero dependencies</span></span>
+<span class="line"><span style="color:#4D9375">import</span><span style="color:#666666"> {</span><span style="color:#BD976A"> createServer</span><span style="color:#666666"> }</span><span style="color:#4D9375"> from</span><span style="color:#C98A7D77"> "</span><span style="color:#C98A7D">node:http</span><span style="color:#C98A7D77">"</span><span style="color:#666666">;</span></span>
+<span class="line"></span>
+<span class="line"><span style="color:#80A665">createServer</span><span style="color:#666666">((</span><span style="color:#BD976A">req</span><span style="color:#666666">,</span><span style="color:#BD976A"> res</span><span style="color:#666666">)</span><span style="color:#666666"> =></span><span style="color:#666666"> {</span></span>
+<span class="line"><span style="color:#BD976A">  res</span><span style="color:#666666">.</span><span style="color:#80A665">end</span><span style="color:#666666">(</span><span style="color:#C98A7D77">"</span><span style="color:#C98A7D">Hello from Node!</span><span style="color:#C98A7D77">"</span><span style="color:#666666">);</span></span>
+<span class="line"><span style="color:#666666">}).</span><span style="color:#80A665">listen</span><span style="color:#666666">(</span><span style="color:#4C9A91">3000</span><span style="color:#666666">,</span><span style="color:#666666"> ()</span><span style="color:#666666"> =></span><span style="color:#BD976A"> console</span><span style="color:#666666">.</span><span style="color:#80A665">log</span><span style="color:#666666">(</span><span style="color:#C98A7D77">"</span><span style="color:#C98A7D">Listening on :3000</span><span style="color:#C98A7D77">"</span><span style="color:#666666">));</span></span></code></pre></div><h2 id="why-it-matters">Why it matters</h2><p>Node.js broke the wall between browser and server. One language, one
+mental model, from the button on the screen to the database behind it —
+and an event loop that turned JavaScript, once mocked as a toy, into one
+of the most deployed server technologies on Earth. If you know front-end
+JS, the back-end is already halfway familiar: <code>npm init</code> and see.</p>
+<p><em>Versions and benchmarks move; check nodejs.org and the npm registry for
+current numbers.</em></p>
+20:["$","div",null,{"className":"prose-blog mt-10","dangerouslySetInnerHTML":{"__html":"$2b"}}]
+21:["$","p",null,{"className":"mt-14 text-center font-mono text-xs tracking-widest text-fog","children":"——— // EOF — THANKS_FOR_READING ———"}]
+22:["$","div",null,{"className":"mt-6 flex flex-wrap justify-center gap-2","children":[["$","a",null,{"href":"https://twitter.com/intent/tweet?text=Node.js%20Explained%3A%20JavaScript's%20Escape%20From%20the%20Browser&url=https://soheilmohajer.ir/blog/nodejs-explained","target":"_blank","rel":"noopener noreferrer","className":"rounded-full border border-line bg-panel px-3.5 py-1.5 font-mono text-[11px] tracking-wide text-fog transition hover:border-neon/50 hover:text-neon","children":"SHARE // X"}],["$","a",null,{"href":"https://www.linkedin.com/sharing/share-offsite/?url=https://soheilmohajer.ir/blog/nodejs-explained","target":"_blank","rel":"noopener noreferrer","className":"rounded-full border border-line bg-panel px-3.5 py-1.5 font-mono text-[11px] tracking-wide text-fog transition hover:border-neon/50 hover:text-neon","children":"SHARE // LINKEDIN"}],["$","a",null,{"href":"https://t.me/share/url?url=https://soheilmohajer.ir/blog/nodejs-explained&text=Node.js%20Explained%3A%20JavaScript's%20Escape%20From%20the%20Browser","target":"_blank","rel":"noopener noreferrer","className":"rounded-full border border-line bg-panel px-3.5 py-1.5 font-mono text-[11px] tracking-wide text-fog transition hover:border-neon/50 hover:text-neon","children":"SHARE // TELEGRAM"}]]}]
+23:["$","div",null,{"className":"mt-10 flex flex-wrap items-center gap-4 rounded-2xl border border-line bg-panel p-5","children":[["$","span",null,{"aria-hidden":true,"className":"grid size-14 shrink-0 place-items-center rounded-lg border border-neon/40 bg-neon/10 font-mono text-sm font-bold text-neon","children":"SM$"}],["$","div",null,{"children":[["$","p",null,{"className":"font-black","children":"Soheil Mohajer"}],["$","p",null,{"className":"text-sm text-fog","children":"Android & AI Agent Developer — Mashhad, IR"}]]}],["$","div",null,{"className":"ms-auto flex gap-2","children":[["$","a",null,{"href":"https://github.com/soheilmohajer-code","target":"_blank","rel":"noopener noreferrer","className":"rounded-full border border-line bg-panel-2 px-3 py-1 font-mono text-[11px] text-fog transition hover:border-neon/50 hover:text-neon","children":"GITHUB"}],["$","a",null,{"href":"https://t.me/soheil_mohajer","target":"_blank","rel":"noopener noreferrer","className":"rounded-full border border-line bg-panel-2 px-3 py-1 font-mono text-[11px] text-fog transition hover:border-neon/50 hover:text-neon","children":"TELEGRAM"}]]}]]}]
+24:["$","nav",null,{"className":"mt-6 grid gap-4 sm:grid-cols-2","aria-label":"Post navigation","children":[["$","$L11",null,{"href":"/blog/linux-operating-system","className":"rounded-xl border border-line bg-panel p-4 transition hover:border-neon/30","children":[["$","span",null,{"className":"font-mono text-[10px] tracking-widest text-fog","children":"❮ PREV_POST"}],["$","b",null,{"className":"mt-1 block text-sm leading-snug","children":"Linux Explained: What It Is, Why People Love It, and Where It Loses"}]]}],null]}]
+25:["$","div",null,{"className":"mt-6 flex flex-wrap items-center gap-4 rounded-2xl border border-dashed border-neon/40 bg-neon/5 p-5","children":[["$","div",null,{"children":[["$","b",null,{"className":"font-mono text-sm tracking-widest text-neon","children":"SUBSCRIBE // RSS.SYS"}],["$","p",null,{"className":"mt-1 text-sm text-fog","children":"New research notes and write-ups, straight to your reader."}]]}],["$","$L11",null,{"href":"/feed.xml","className":"ms-auto rounded-lg bg-neon px-4 py-2 font-mono text-xs font-bold text-black transition hover:brightness-110","children":"ADD_TO_READER ❯"}]]}]
+26:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"Node.js Explained: JavaScript's Escape From the Browser\",\"description\":\"What Node.js actually is (a runtime, not a language), how the event loop serves thousands of users with one thread, where it beats PHP, Python and Java — and where it loses. With a practical cheat sheet.\",\"datePublished\":\"2026-10-30\",\"keywords\":\"Node.js, JavaScript, Backend\",\"inLanguage\":\"en\",\"image\":\"https://soheilmohajer.ir/og/nodejs-explained.png\",\"author\":{\"@type\":\"Person\",\"name\":\"Soheil Mohajer\",\"url\":\"https://soheilmohajer.ir\",\"sameAs\":[\"https://github.com/soheilmohajer-code\",\"https://www.linkedin.com/in/soheil-mohajer\",\"https://t.me/soheil_mohajer\"]},\"mainEntityOfPage\":\"https://soheilmohajer.ir/blog/nodejs-explained\"}"}}]
+27:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://soheilmohajer.ir\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Blog\",\"item\":\"https://soheilmohajer.ir/blog\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Node.js Explained: JavaScript's Escape From the Browser\",\"item\":\"https://soheilmohajer.ir/blog/nodejs-explained\"}]}"}}]
+28:["$","script",null,{"dangerouslySetInnerHTML":{"__html":"document.addEventListener(\"click\",function(e){var b=e.target.closest(\"[data-copy]\");if(!b)return;var pre=b.closest(\".term\").querySelector(\"pre\");if(!pre||!navigator.clipboard)return;navigator.clipboard.writeText(pre.innerText).then(function(){var o=b.textContent;b.textContent=\"COPIED\";setTimeout(function(){b.textContent=o},1200)});});"}}]

@@ -1,0 +1,238 @@
+1:"$Sreact.fragment"
+3:I[39756,["/_next/static/chunks/1n-gvq05z14ni.js","/_next/static/chunks/42x9yqu0qh8fc.js"],"default"]
+4:I[37457,["/_next/static/chunks/1n-gvq05z14ni.js","/_next/static/chunks/42x9yqu0qh8fc.js"],"default"]
+6:I[97367,["/_next/static/chunks/1n-gvq05z14ni.js","/_next/static/chunks/42x9yqu0qh8fc.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+a:I[97367,["/_next/static/chunks/1n-gvq05z14ni.js","/_next/static/chunks/42x9yqu0qh8fc.js"],"ViewportBoundary"]
+c:I[97367,["/_next/static/chunks/1n-gvq05z14ni.js","/_next/static/chunks/42x9yqu0qh8fc.js"],"MetadataBoundary"]
+e:I[68027,["/_next/static/chunks/1n-gvq05z14ni.js","/_next/static/chunks/42x9yqu0qh8fc.js"],"default",1]
+:HL["/_next/static/chunks/0k3v18136_hen.css","style"]
+9:X
+0:{"P":null,"c":["","fa","blog","nodejs-explained",""],"q":"","i":false,"f":[[["",{"children":["fa",{"children":["blog",{"children":[["slug","nodejs-explained","d",["tags"]],{"children":["__PAGE__",{},"$undefined","$undefined",4608]},"$undefined","$undefined",4608]},"$undefined","$undefined",4608]},"$undefined","$undefined",4608]},"$undefined","$undefined",4624],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0k3v18136_hen.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/1n-gvq05z14ni.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/42x9yqu0qh8fc.js","async":true,"nonce":"$undefined"}]],"$L2"]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","div",null,{"lang":"fa","dir":"rtl","className":"relative z-10","children":[["$","script",null,{"dangerouslySetInnerHTML":{"__html":"try {\n  document.documentElement.lang = \"fa\";\n  document.documentElement.dir = \"rtl\";\n} catch (e) {}"}}],["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L5",[["$","script","script-0",{"src":"/_next/static/chunks/1sv8af7n4af36.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/1w60bjl8lf61o.js","async":true,"nonce":"$undefined"}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],{},null,false,null]},null,false,"$9"]},null,false,null]},null,false,"$9"]},null,false,null],["$","$1","h",{"children":[null,["$","$La",null,{"children":"$Lb"}],["$","div",null,{"hidden":true,"children":["$","$Lc",null,{"children":["$","$7",null,{"name":"Next.Metadata","children":"$Ld"}]}]}],null]}],false]],"m":"$undefined","G":["$e",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0k3v18136_hen.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"h":null,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"wrc5K_ahQJbsmHBYykBJo"}
+10:I[16756,["/_next/static/chunks/1n-gvq05z14ni.js","/_next/static/chunks/42x9yqu0qh8fc.js"],"default"]
+11:I[22016,["/_next/static/chunks/1n-gvq05z14ni.js","/_next/static/chunks/42x9yqu0qh8fc.js","/_next/static/chunks/1sv8af7n4af36.js","/_next/static/chunks/1w60bjl8lf61o.js"],""]
+12:I[90715,["/_next/static/chunks/1n-gvq05z14ni.js","/_next/static/chunks/42x9yqu0qh8fc.js"],"default"]
+13:I[56194,["/_next/static/chunks/1n-gvq05z14ni.js","/_next/static/chunks/42x9yqu0qh8fc.js"],"default"]
+9:C
+f:T453,
+try {
+  // Single-theme site (default neon): clear any previously saved custom theme.
+  localStorage.removeItem("sm_theme");
+  document.documentElement.removeAttribute("data-theme");
+  var m = localStorage.getItem("sm_mode");
+  if (m) document.documentElement.setAttribute("data-mode", m);
+  // Language/direction fix BEFORE first paint (static export ships fa/rtl shell;
+  // /en/ and blog-EN pages must not flash RTL).
+  var p = location.pathname;
+  if (p.indexOf("/en") === 0 || p.indexOf("/blog") === 0) {
+    document.documentElement.lang = "en";
+    document.documentElement.dir = "ltr";
+  } else if (p.indexOf("/ar") === 0) {
+    document.documentElement.lang = "ar";
+    document.documentElement.dir = "rtl";
+  } else if (p.indexOf("/fa") === 0) {
+    document.documentElement.lang = "fa";
+    document.documentElement.dir = "rtl";
+  }
+  // Theme-color meta follows the active light/dark mode.
+  var tc = document.querySelector('meta[name="theme-color"]');
+  if (tc) tc.setAttribute("content", document.documentElement.getAttribute("data-mode") === "light" ? "#f5f6fa" : "#05070b");
+} catch (e) {}
+2:["$","html",null,{"lang":"fa","dir":"rtl","className":"h-full antialiased","suppressHydrationWarning":true,"children":[["$","head",null,{"children":["$","script",null,{"dangerouslySetInnerHTML":{"__html":"$f"}}]}],["$","body",null,{"className":"min-h-screen overflow-x-hidden bg-void font-sans text-mist","children":[["$","div",null,{"aria-hidden":true,"className":"pointer-events-none fixed inset-0 z-0 print:hidden","children":[["$","div",null,{"className":"grid-lines absolute inset-0"}],["$","div",null,{"className":"noise-layer absolute inset-0 opacity-[0.05] mix-blend-overlay"}],["$","div",null,{"className":"absolute inset-x-0 top-0 h-48 bg-gradient-to-b from-neon/[0.05] to-transparent"}],["$","div",null,{"className":"absolute bottom-[-10rem] start-[-6rem] size-[26rem] rounded-full bg-flare/[0.04] blur-[120px]"}],["$","div",null,{"className":"absolute end-[-8rem] top-1/3 size-[30rem] rounded-full bg-neon/[0.05] blur-[140px]"}]]}],["$","$L10",null,{}],["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"relative z-10 grid min-h-screen place-items-center px-5 py-20","children":["$","div",null,{"className":"w-full max-w-lg rounded-2xl border border-line bg-panel/80 p-8 text-center sm:p-10","children":[["$","p",null,{"dir":"ltr","className":"font-mono text-[11px] tracking-widest text-flare","children":"ERROR // SEGMENT_NOT_FOUND"}],["$","h1",null,{"className":"chromatic mt-4 text-7xl font-black tracking-tight","children":"۴۰۴"}],["$","h2",null,{"className":"mt-3 text-lg font-bold","children":"این مسیر وجود ندارد."}],["$","p",null,{"dir":"ltr","className":"mt-4 font-mono text-xs leading-loose text-fog","children":[["$","span",null,{"className":"text-neon","children":"$$"}]," git log --oneline",["$","br",null,{}],["$","span",null,{"className":"text-flare","children":"fatal:"}]," path '","/…","' does not exist"]}],["$","p",null,{"className":"mt-4 text-sm leading-relaxed text-fog","children":"صفحه‌ای که دنبالش بودی جابه‌جا شده یا هرگز ساخته نشده. از این‌جا ادامه بده:"}],["$","div",null,{"className":"mt-6 flex flex-wrap justify-center gap-2","children":[["$","$L11",null,{"href":"/","className":"rounded-lg bg-neon px-5 py-2.5 font-mono text-xs font-bold text-black transition hover:brightness-110","children":"صفحه‌ی اصلی ❯"}],["$","$L11",null,{"href":"/fa/blog","className":"rounded-lg border border-line px-5 py-2.5 font-mono text-xs text-fog transition hover:border-neon/50 hover:text-neon","children":"وبلاگ ❯"}]]}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","$L12",null,{"lang":"fa"}],["$","$L13",null,{"lang":"fa"}]]}]]}]
+b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#05070b"}]]
+14:I[27201,["/_next/static/chunks/1n-gvq05z14ni.js","/_next/static/chunks/42x9yqu0qh8fc.js"],"IconMark"]
+8:null
+d:[["$","title","0",{"children":"Node.js به زبان ساده: فرار جاوااسکریپت از مرورگر | سهیل مهاجر"}],["$","meta","1",{"name":"description","content":"Node.js واقعاً چیست (یک ران‌تایم است، نه زبان)، event loop چطور با یک تِرِد به هزاران کاربر سرویس می‌دهد، کجا از PHP و Python و Java بهتر است و کجا می‌بازد — با چیت‌شیت عملی."}],["$","link","2",{"rel":"author","href":"https://soheilmohajer.ir"}],["$","meta","3",{"name":"author","content":"سهیل مهاجر"}],["$","meta","4",{"name":"keywords","content":"سهیل مهاجر,توسعه‌دهنده اندروید,ایجنت هوش مصنوعی,برنامه‌نویسی بازی,Unity,Android Developer,AI Agent Developer,n8n,کافه بازار"}],["$","meta","5",{"name":"robots","content":"index, follow"}],["$","link","6",{"rel":"canonical","href":"https://soheilmohajer.ir/fa/blog/nodejs-explained/"}],["$","link","7",{"rel":"alternate","hrefLang":"fa-IR","href":"https://soheilmohajer.ir/fa/blog/nodejs-explained/"}],["$","link","8",{"rel":"alternate","hrefLang":"en-US","href":"https://soheilmohajer.ir/blog/nodejs-explained/"}],["$","meta","9",{"property":"og:title","content":"Node.js به زبان ساده: فرار جاوااسکریپت از مرورگر"}],["$","meta","10",{"property":"og:description","content":"Node.js واقعاً چیست (یک ران‌تایم است، نه زبان)، event loop چطور با یک تِرِد به هزاران کاربر سرویس می‌دهد، کجا از PHP و Python و Java بهتر است و کجا می‌بازد — با چیت‌شیت عملی."}],["$","meta","11",{"property":"og:locale","content":"fa_IR"}],["$","meta","12",{"property":"og:image","content":"https://soheilmohajer.ir/og/nodejs-explained.png"}],["$","meta","13",{"property":"og:image:width","content":"1200"}],["$","meta","14",{"property":"og:image:height","content":"630"}],["$","meta","15",{"property":"og:image:alt","content":"Node.js به زبان ساده: فرار جاوااسکریپت از مرورگر"}],["$","meta","16",{"property":"og:type","content":"article"}],["$","meta","17",{"property":"article:published_time","content":"2026-10-30"}],["$","meta","18",{"property":"article:tag","content":"Node.js"}],["$","meta","19",{"property":"article:tag","content":"JavaScript"}],["$","meta","20",{"property":"article:tag","content":"Backend"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:title","content":"Node.js به زبان ساده: فرار جاوااسکریپت از مرورگر"}],["$","meta","23",{"name":"twitter:description","content":"Node.js واقعاً چیست (یک ران‌تایم است، نه زبان)، event loop چطور با یک تِرِد به هزاران کاربر سرویس می‌دهد، کجا از PHP و Python و Java بهتر است و کجا می‌بازد — با چیت‌شیت عملی."}],["$","meta","24",{"name":"twitter:image","content":"https://soheilmohajer.ir/og/nodejs-explained.png"}],["$","link","25",{"rel":"icon","href":"/icon.svg","type":"image/svg+xml"}],["$","link","26",{"rel":"icon","href":"/favicon.ico","sizes":"32x32"}],["$","link","27",{"rel":"apple-touch-icon","href":"/apple-touch-icon.png"}],["$","$L14","28",{}]]
+15:I[36380,["/_next/static/chunks/1n-gvq05z14ni.js","/_next/static/chunks/42x9yqu0qh8fc.js","/_next/static/chunks/1sv8af7n4af36.js","/_next/static/chunks/1w60bjl8lf61o.js"],"default"]
+16:I[2971,["/_next/static/chunks/1n-gvq05z14ni.js","/_next/static/chunks/42x9yqu0qh8fc.js","/_next/static/chunks/1sv8af7n4af36.js","/_next/static/chunks/1w60bjl8lf61o.js"],"default"]
+17:T5d9,M11.998,24c-0.321,0-0.641-0.084-0.922-0.247l-2.936-1.737c-0.438-0.245-0.224-0.332-0.08-0.383 c0.585-0.203,0.703-0.25,1.328-0.604c0.065-0.037,0.151-0.023,0.218,0.017l2.256,1.339c0.082,0.045,0.197,0.045,0.272,0l8.795-5.076 c0.082-0.047,0.134-0.141,0.134-0.238V6.921c0-0.099-0.053-0.192-0.137-0.242l-8.791-5.072c-0.081-0.047-0.189-0.047-0.271,0 L3.075,6.68C2.99,6.729,2.936,6.825,2.936,6.921v10.15c0,0.097,0.054,0.189,0.139,0.235l2.409,1.392 c1.307,0.654,2.108-0.116,2.108-0.89V7.787c0-0.142,0.114-0.253,0.256-0.253h1.115c0.139,0,0.255,0.112,0.255,0.253v10.021 c0,1.745-0.95,2.745-2.604,2.745c-0.508,0-0.909,0-2.026-0.551L2.28,18.675c-0.57-0.329-0.922-0.945-0.922-1.604V6.921 c0-0.659,0.353-1.275,0.922-1.603l8.795-5.082c0.557-0.315,1.296-0.315,1.848,0l8.794,5.082c0.57,0.329,0.924,0.944,0.924,1.603 v10.15c0,0.659-0.354,1.273-0.924,1.604l-8.794,5.078C12.643,23.916,12.324,24,11.998,24z M19.099,13.993 c0-1.9-1.284-2.406-3.987-2.763c-2.731-0.361-3.009-0.548-3.009-1.187c0-0.528,0.235-1.233,2.258-1.233 c1.807,0,2.473,0.389,2.747,1.607c0.024,0.115,0.129,0.199,0.247,0.199h1.141c0.071,0,0.138-0.031,0.186-0.081 c0.048-0.054,0.074-0.123,0.067-0.196c-0.177-2.098-1.571-3.076-4.388-3.076c-2.508,0-4.004,1.058-4.004,2.833 c0,1.925,1.488,2.457,3.895,2.695c2.88,0.282,3.103,0.703,3.103,1.269c0,0.983-0.789,1.402-2.642,1.402 c-2.327,0-2.839-0.584-3.011-1.742c-0.02-0.124-0.126-0.215-0.253-0.215h-1.137c-0.141,0-0.254,0.112-0.254,0.253 c0,1.482,0.806,3.248,4.655,3.248C17.501,17.007,19.099,15.91,19.099,13.993z5:["$","main",null,{"className":"pb-20","children":["$","div",null,{"className":"theme-nodejs","children":[["$","$L15",null,{}],["$","$L16",null,{"status":"آماده همکاری","lang":"fa","linkPrefix":"/"}],["$","article",null,{"className":"mx-auto w-full max-w-3xl px-5 pt-14 sm:px-8","children":[["$","header",null,{"children":[["$","p",null,{"className":"font-mono text-xs tracking-widest text-fog","children":[["$","$L11",null,{"href":"/fa/blog","className":"text-neon transition hover:underline","children":["❯ ","~/fa/blog"]}]," ⟶ ","nodejs-explained",".md"]}],["$","div",null,{"className":"mt-5 flex flex-wrap gap-2","children":[["$","$L11","Node.js",{"href":"/fa/blog/tags/node.js","className":"rounded-md border border-neon/25 bg-neon/10 px-2 py-0.5 font-mono text-[11px] tracking-wide text-neon transition hover:border-neon","children":"NODE.JS"}],["$","$L11","JavaScript",{"href":"/fa/blog/tags/javascript","className":"rounded-md border border-neon/25 bg-neon/10 px-2 py-0.5 font-mono text-[11px] tracking-wide text-neon transition hover:border-neon","children":"JAVASCRIPT"}],["$","$L11","Backend",{"href":"/fa/blog/tags/backend","className":"rounded-md border border-neon/25 bg-neon/10 px-2 py-0.5 font-mono text-[11px] tracking-wide text-neon transition hover:border-neon","children":"BACKEND"}]]}],["$","h1",null,{"className":"chromatic mt-4 text-3xl font-black leading-tight sm:text-4xl","children":"Node.js به زبان ساده: فرار جاوااسکریپت از مرورگر"}],["$","p",null,{"className":"mt-4 text-lg leading-relaxed text-fog","children":"Node.js واقعاً چیست (یک ران‌تایم است، نه زبان)، event loop چطور با یک تِرِد به هزاران کاربر سرویس می‌دهد، کجا از PHP و Python و Java بهتر است و کجا می‌بازد — با چیت‌شیت عملی."}],["$","div",null,{"className":"mt-6 flex flex-wrap items-center gap-x-5 gap-y-2 rounded-xl border border-line bg-panel px-4 py-3 font-mono text-xs text-fog","children":[["$","span",null,{"children":["تاریخ:"," ",["$","span",null,{"className":"text-mist","children":"۸ آبان ۱۴۰۵"}]]}],["$","span",null,{"children":["مطالعه:"," ",["$","span",null,{"className":"text-beam","children":["~","۵"," ","دقیقه"]}]]}],["$","span",null,{"children":["نویسنده:"," ",["$","span",null,{"className":"text-mist","children":"سهیل مهاجر"}]]}]]}],[["$","div",null,{"aria-hidden":true,"className":"post-bg pointer-events-none fixed inset-0 z-0 hidden lg:block","children":[["$","svg",null,{"className":"post-bg-mark","viewBox":"0 0 24 24","aria-hidden":true,"focusable":"false","children":["$","path",null,{"fill":"currentColor","d":"$17"}]}],["$L18","$L19","$L1a","$L1b","$L1c","$L1d"]]}],"$L1e"],"$L1f"]}],"$L20","$L21","$L22","$L23","$L24","$L25"]}],"$L26","$L27","$L28"]}]}]
+29:I[5014,["/_next/static/chunks/1n-gvq05z14ni.js","/_next/static/chunks/42x9yqu0qh8fc.js","/_next/static/chunks/1sv8af7n4af36.js","/_next/static/chunks/1w60bjl8lf61o.js"],"default"]
+18:["$","$L29","0",{"ref":"$undefined","iconNode":[["rect",{"width":"20","height":"8","x":"2","y":"2","rx":"2","ry":"2","key":"ngkwjq"}],["rect",{"width":"20","height":"8","x":"2","y":"14","rx":"2","ry":"2","key":"iecqi9"}],["line",{"x1":"6","x2":"6.01","y1":"6","y2":"6","key":"16zg32"}],["line",{"x1":"6","x2":"6.01","y1":"18","y2":"18","key":"nzw8ys"}]],"className":"lucide-server post-bg-floater","style":{"top":"14%","insetInlineStart":"4%","insetInlineEnd":"$undefined","width":"1.9rem","height":"1.9rem","animationDelay":"0s","animationDuration":"9.5s"},"strokeWidth":1.6}]
+19:["$","$L29","1",{"ref":"$undefined","iconNode":[["path",{"d":"M8 3H7a2 2 0 0 0-2 2v5a2 2 0 0 1-2 2 2 2 0 0 1 2 2v5c0 1.1.9 2 2 2h1","key":"ezmyqa"}],["path",{"d":"M16 21h1a2 2 0 0 0 2-2v-5c0-1.1.9-2 2-2a2 2 0 0 1-2-2V5a2 2 0 0 0-2-2h-1","key":"e1hn23"}]],"className":"lucide-braces post-bg-floater","style":{"top":"46%","insetInlineStart":"7%","insetInlineEnd":"$undefined","width":"1.9rem","height":"1.9rem","animationDelay":"-1.7s","animationDuration":"11s"},"strokeWidth":1.6}]
+1a:["$","$L29","2",{"ref":"$undefined","iconNode":[["path",{"d":"M11 21.73a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73z","key":"1a0edw"}],["path",{"d":"M12 22V12","key":"d0xqtd"}],["polyline",{"points":"3.29 7 12 12 20.71 7","key":"ousv84"}],["path",{"d":"m7.5 4.27 9 5.15","key":"1c824w"}]],"className":"lucide-package post-bg-floater","style":{"top":"79%","insetInlineStart":"11%","insetInlineEnd":"$undefined","width":"1.9rem","height":"1.9rem","animationDelay":"-3.4s","animationDuration":"12.5s"},"strokeWidth":1.6}]
+1b:["$","$L29","3",{"ref":"$undefined","iconNode":[["path",{"d":"M15.914 4a1.5 1.5 0 00-2.474-1.561l-9 9A1.5 1.5 0 005.5 14h4.002a.5.5 0 01.471.666L8.086 20a1.5 1.5 0 002.475 1.56l9-9A1.5 1.5 0 0018.5 10h-3.997a.5.5 0 01-.472-.667z","key":"1v7up4"}]],"className":"lucide-zap post-bg-floater","style":{"top":"21%","insetInlineStart":"$undefined","insetInlineEnd":"5%","width":"1.9rem","height":"1.9rem","animationDelay":"-5.1s","animationDuration":"9.5s"},"strokeWidth":1.6}]
+1c:["$","$L29","4",{"ref":"$undefined","iconNode":[["path",{"d":"M12 19h8","key":"baeox8"}],["path",{"d":"m4 17 6-6-6-6","key":"1yngyt"}]],"className":"lucide-terminal post-bg-floater","style":{"top":"54%","insetInlineStart":"$undefined","insetInlineEnd":"8%","width":"1.9rem","height":"1.9rem","animationDelay":"-6.8s","animationDuration":"11s"},"strokeWidth":1.6}]
+1d:["$","$L29","5",{"ref":"$undefined","iconNode":[["path",{"d":"M10 16h.01","key":"1bzywj"}],["path",{"d":"M2.212 11.577a2 2 0 0 0-.212.896V18a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2v-5.527a2 2 0 0 0-.212-.896L18.55 5.11A2 2 0 0 0 16.76 4H7.24a2 2 0 0 0-1.79 1.11z","key":"18tbho"}],["path",{"d":"M21.946 12.013H2.054","key":"zqlbp7"}],["path",{"d":"M6 16h.01","key":"1pmjb7"}]],"className":"lucide-hard-drive post-bg-floater","style":{"top":"83%","insetInlineStart":"$undefined","insetInlineEnd":"12%","width":"1.9rem","height":"1.9rem","animationDelay":"-8.5s","animationDuration":"12.5s"},"strokeWidth":1.6}]
+2a:T5d9,M11.998,24c-0.321,0-0.641-0.084-0.922-0.247l-2.936-1.737c-0.438-0.245-0.224-0.332-0.08-0.383 c0.585-0.203,0.703-0.25,1.328-0.604c0.065-0.037,0.151-0.023,0.218,0.017l2.256,1.339c0.082,0.045,0.197,0.045,0.272,0l8.795-5.076 c0.082-0.047,0.134-0.141,0.134-0.238V6.921c0-0.099-0.053-0.192-0.137-0.242l-8.791-5.072c-0.081-0.047-0.189-0.047-0.271,0 L3.075,6.68C2.99,6.729,2.936,6.825,2.936,6.921v10.15c0,0.097,0.054,0.189,0.139,0.235l2.409,1.392 c1.307,0.654,2.108-0.116,2.108-0.89V7.787c0-0.142,0.114-0.253,0.256-0.253h1.115c0.139,0,0.255,0.112,0.255,0.253v10.021 c0,1.745-0.95,2.745-2.604,2.745c-0.508,0-0.909,0-2.026-0.551L2.28,18.675c-0.57-0.329-0.922-0.945-0.922-1.604V6.921 c0-0.659,0.353-1.275,0.922-1.603l8.795-5.082c0.557-0.315,1.296-0.315,1.848,0l8.794,5.082c0.57,0.329,0.924,0.944,0.924,1.603 v10.15c0,0.659-0.354,1.273-0.924,1.604l-8.794,5.078C12.643,23.916,12.324,24,11.998,24z M19.099,13.993 c0-1.9-1.284-2.406-3.987-2.763c-2.731-0.361-3.009-0.548-3.009-1.187c0-0.528,0.235-1.233,2.258-1.233 c1.807,0,2.473,0.389,2.747,1.607c0.024,0.115,0.129,0.199,0.247,0.199h1.141c0.071,0,0.138-0.031,0.186-0.081 c0.048-0.054,0.074-0.123,0.067-0.196c-0.177-2.098-1.571-3.076-4.388-3.076c-2.508,0-4.004,1.058-4.004,2.833 c0,1.925,1.488,2.457,3.895,2.695c2.88,0.282,3.103,0.703,3.103,1.269c0,0.983-0.789,1.402-2.642,1.402 c-2.327,0-2.839-0.584-3.011-1.742c-0.02-0.124-0.126-0.215-0.253-0.215h-1.137c-0.141,0-0.254,0.112-0.254,0.253 c0,1.482,0.806,3.248,4.655,3.248C17.501,17.007,19.099,15.91,19.099,13.993z1e:["$","div",null,{"className":"post-strip mt-6","children":[["$","svg",null,{"className":"post-mark","viewBox":"0 0 24 24","aria-hidden":true,"focusable":"false","children":["$","path",null,{"fill":"currentColor","d":"$2a"}]}],["$","span",null,{"className":"post-strip-sep","aria-hidden":true}],["$","div",null,{"className":"post-strip-term font-mono text-xs leading-relaxed","children":[["$","span",null,{"className":"whitespace-nowrap text-fog","children":[["$","span",null,{"className":"text-neon","children":"$$"}]," ","node server.js"]}],["$","span",null,{"className":"flex items-center gap-3 whitespace-nowrap text-fog","children":[["$","span",null,{"className":"post-stack","aria-hidden":true,"children":[["$","i",null,{}],["$","i",null,{}],["$","i",null,{}],["$","i",null,{}],["$","i",null,{}]]}],"گوش دادن به پورت ۳۰۰۰",["$","span",null,{"className":"text-neon","children":"[OK]"}],["$","span",null,{"className":"post-cursor","aria-hidden":true}]]}]]}]]}]
+1f:["$","div",null,{"className":"mt-3","children":["$","$L11",null,{"href":"/blog/nodejs-explained/","className":"inline-flex rounded-lg border border-beam/40 bg-beam/10 px-3 py-1.5 font-mono text-xs text-beam transition hover:border-beam","children":"English version of this post ❯"}]}]
+2b:T4845,<p>Node.js پل من از دنیای اندروید به بک‌اند بود. در بوتکامپ BreakPoint بک‌اند
+پروژه‌مان را با Node.js روی معماری ماژولار و لایه‌ای ساختیم و بعداً پلتفرم
+چت هوش مصنوعی خودم هم کل API‌اش روی آن اجرا می‌شد. با پیش‌زمینه‌ی Javaِ
+تایپ‌دار، اولین واکنشم «پس کلاس‌ها کجاست؟!» بود و دومی: «صبر کن، این چیز
+هزاران کاربر را روی <strong>یک ترد</strong> سرویس می‌کند؟!» این پست همان توضیحی است که
+برایم همه‌چیز را جا انداخت.</p>
+<blockquote>
+<p><strong>خلاصه برای عجول‌ها</strong> — Node.js نه زبان است و نه فریم‌ورک؛ یک
+<strong>ران‌تایم</strong> است: موتور V8 کروم + یک لایه‌ی C++ که اجازه می‌دهد
+جاوااسکریپت بیرون از مرورگر اجرا شود. ابرقدرتش I/O غیرمسدودکننده روی
+event loop است — برای API و اپ‌های ریل‌تایم فوق‌العاده، ابزار اشتباه
+برای محاسبات سنگین CPU.</p>
+</blockquote>
+<h2 id="nodejs-واقعا-چیست">Node.js واقعاً چیست؟</h2><p>سه اصلاح برای سردرگمی رایج:</p>
+<ol>
+<li><strong>زبان نیست.</strong> زبان، جاوااسکریپت است (یا TypeScript).</li>
+<li><strong>فریم‌ورک نیست</strong> — Express و NestJS فریم‌ورک‌هایی هستند که <em>روی</em> آن
+اجرا می‌شوند.</li>
+<li><strong>ران‌تایم است</strong>: در ۲۰۰۹ رایان دال موتور متن‌باز V8 کروم را برداشت،
+آن را با <code>libuv</code> (کتابخانه‌ی event loop و I/O ناهمگام) و بایندینگ‌های
+فایل/شبکه بسته‌بندی کرد — و ناگهان جاوااسکریپت می‌توانست روی سرور اجرا
+شود، فایل بخواند، سوکت باز کند و با دیتابیس حرف بزند.</li>
+</ol>
+<div class="term" dir="ltr"><div class="term-bar"><span class="d d1"></span><span class="d d2"></span><span class="d d3"></span><span class="file">snippet.bash</span><button type="button" class="copy" data-copy>COPY</button></div><pre class="shiki vitesse-dark" style="background-color:#121212;color:#dbd7caee" tabindex="0"><code><span class="line"><span style="color:#80A665">$</span><span style="color:#C98A7D"> node</span><span style="color:#C99076"> -v</span></span>
+<span class="line"><span style="color:#80A665">v22.14.0</span></span></code></pre></div><p>قبل از Node، جاوااسکریپت فقط داخل مرورگرها زندگی می‌کرد. بعد از Node،
+همان زبان هم تب مرورگر را اجرا می‌کرد هم سروری را که به آن جواب می‌داد —
+ایده‌ی «یک زبان همه‌جا» که توسعه‌ی وب را از پایه عوض کرد.</p>
+<h2 id="event-loop-یک-گارسون-یک-رستوران-کامل">Event loop: یک گارسون، یک رستوران کامل</h2><p>مدل ذهنی‌ای که Node را جا می‌اندازد:</p>
+<ul>
+<li><strong>سرورهای کلاسیک (به سبک PHP/Java)</strong> مثل رستورانی‌اند که <strong>برای هر
+مشتری یک گارسون</strong> استخدام می‌کنند. یک سفارش کند (کوئری دیتابیس، خواندن
+فایل)، یک کارگر کامل را پارک می‌کند. با ۱۰۰۰ مشتری، ۱۰۰۰ گارسون لازم
+است — تردها گران‌اند.</li>
+<li><strong>Node.js</strong> <strong>یک گارسون نابغه</strong> استخدام می‌کند که هیچ‌وقت بی‌حرکت
+نمی‌ایستد: سفارش تو را می‌گیرد، به آشپزخانه می‌دهد (سیستم‌عامل و I/O
+ناهمگام) و فوراً سراغ میز بعدی می‌رود. وقتی آشپزخانه زنگ می‌زند (یک
+callback/promise آماده می‌شود)، نتیجه را می‌آورد.</li>
+</ul>
+<p>این همان <strong>event loop</strong> است: یک تردِ تنها که رویدادها را پردازش می‌کند
+در حالی که هر عملیات کند به‌صورت ناهمگام در پس‌زمینه انجام می‌شود. به
+همین دلیل Node روی یک هسته هزار اتصال هم‌زمان را نگه می‌دارد — و به همین
+دلیل <strong>یک محاسبه‌ی سنگین CPU کل رستوران را قفل می‌کند</strong>: گارسون خودش
+آشپزی می‌کند، پس یک حلقه‌ی ریاضی ۱۰ ثانیه‌ای همه را فریز می‌کند.
+(Worker Threadها دقیقاً برای همین فرار ساخته شده‌اند.)</p>
+<div class="term" dir="ltr"><div class="term-bar"><span class="d d1"></span><span class="d d2"></span><span class="d d3"></span><span class="file">snippet.js</span><button type="button" class="copy" data-copy>COPY</button></div><pre class="shiki vitesse-dark" style="background-color:#121212;color:#dbd7caee" tabindex="0"><code><span class="line"><span style="color:#758575DD">// غیرمسدودکننده: سرور در حین خواندن فایل، به بقیه جواب می‌دهد</span></span>
+<span class="line"><span style="color:#4D9375">import</span><span style="color:#666666"> {</span><span style="color:#BD976A"> readFile</span><span style="color:#666666"> }</span><span style="color:#4D9375"> from</span><span style="color:#C98A7D77"> "</span><span style="color:#C98A7D">node:fs/promises</span><span style="color:#C98A7D77">"</span><span style="color:#666666">;</span></span>
+<span class="line"></span>
+<span class="line"><span style="color:#BD976A">app</span><span style="color:#666666">.</span><span style="color:#80A665">get</span><span style="color:#666666">(</span><span style="color:#C98A7D77">"</span><span style="color:#C98A7D">/report</span><span style="color:#C98A7D77">"</span><span style="color:#666666">,</span><span style="color:#CB7676"> async</span><span style="color:#666666"> (</span><span style="color:#BD976A">req</span><span style="color:#666666">,</span><span style="color:#BD976A"> res</span><span style="color:#666666">)</span><span style="color:#666666"> =></span><span style="color:#666666"> {</span></span>
+<span class="line"><span style="color:#CB7676">  const</span><span style="color:#BD976A"> data</span><span style="color:#666666"> =</span><span style="color:#4D9375"> await</span><span style="color:#80A665"> readFile</span><span style="color:#666666">(</span><span style="color:#C98A7D77">"</span><span style="color:#C98A7D">report.json</span><span style="color:#C98A7D77">"</span><span style="color:#666666">,</span><span style="color:#C98A7D77"> "</span><span style="color:#C98A7D">utf8</span><span style="color:#C98A7D77">"</span><span style="color:#666666">);</span><span style="color:#758575DD"> // گارسون منتظر نمی‌ماند</span></span>
+<span class="line"><span style="color:#BD976A">  res</span><span style="color:#666666">.</span><span style="color:#80A665">json</span><span style="color:#666666">(</span><span style="color:#BD976A">JSON</span><span style="color:#666666">.</span><span style="color:#80A665">parse</span><span style="color:#666666">(</span><span style="color:#BD976A">data</span><span style="color:#666666">));</span></span>
+<span class="line"><span style="color:#666666">});</span></span></code></pre></div><h2 id="واقعا-برای-چه-استفاده-میشود">واقعاً برای چه استفاده می‌شود؟</h2><ul>
+<li><strong>APIهای REST/GraphQL</strong> — کاربرد کلاسیک: اندپوینت‌های JSON برای وب و
+موبایل (بک‌اند پلتفرم چت AI من دقیقاً همین است).</li>
+<li><strong>قابلیت‌های ریل‌تایم</strong> — WebSocket، چت زنده، استریم موقعیت راننده.
+event loop برای هزاران اتصال باز <em>ساخته</em> شده.</li>
+<li><strong>ابزارهای بیلد</strong> — طنز ماجرای وب مدرن: همه‌ی فریم‌ورک‌های فرانت‌اند
+(React، Vue، Next.js) با ابزارهای Node بیلد و سرو می‌شوند (Vite، npm).</li>
+<li><strong>ابزارهای CLI و خودکارسازی</strong> — اسکریپت‌های دیپلوی، ربات‌ها، اسکرپرها.</li>
+<li><strong>میکروسرویس و serverless</strong> — توابع کوچک با بوت میلی‌ثانیه‌ای جور
+طبیعی‌اند.</li>
+</ul>
+<h2 id="node-در-برابر-بکاندهای-دیگر">Node در برابر بک‌اندهای دیگر</h2><table>
+<thead>
+<tr>
+<th></th>
+<th>Node.js</th>
+<th>PHP</th>
+<th>Python (Django/FastAPI)</th>
+<th>Java (Spring)</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>مدل</td>
+<td>Event loop، تک‌ترد</td>
+<td>ترد/پروسه به‌ازای هر درخواست</td>
+<td>همگام یا ناهمگام</td>
+<td>چندتردی</td>
+</tr>
+<tr>
+<td>همزمانی I/O</td>
+<td>عالی</td>
+<td>خوب</td>
+<td>خوب (async)</td>
+<td>خوب</td>
+</tr>
+<tr>
+<td>کارهای سنگین CPU</td>
+<td>ضعیف (worker کمک می‌کند)</td>
+<td>ضعیف</td>
+<td>متوسط</td>
+<td><strong>عالی</strong></td>
+</tr>
+<tr>
+<td>زبان</td>
+<td>JS / TS</td>
+<td>PHP</td>
+<td>Python</td>
+<td>Java</td>
+</tr>
+<tr>
+<td>منحنی یادگیری</td>
+<td>ملایم (به‌خصوص برای فرانت‌کارها)</td>
+<td>ملایم</td>
+<td>ملایم</td>
+<td>تند</td>
+</tr>
+<tr>
+<td>نقطه‌ی طلایی</td>
+<td>ریل‌تایم، API، فول‌استک JS</td>
+<td>وب‌سایت‌های کلاسیک</td>
+<td>داده، AI، اسکریپت</td>
+<td>سیستم‌های سازمانی</td>
+</tr>
+</tbody></table>
+<p>الگوی صادقانه‌ای که می‌بینم: اگر اپ تو بیشتر <strong>منتظر می‌ماند</strong> (دیتابیس،
+API، سوکت)، مدل Node فوق‌العاده است. اگر بیشتر <strong>محاسبه می‌کند</strong> (انکود
+ویدیو، ML، ریاضیات سنگین)، زبانی را انتخاب کن که برای همان ساخته شده —
+یا آن بخش را به یک سرویس جدا بده.</p>
+<h2 id="دنیای-npm">دنیای npm</h2><p>Node همراه خودش <strong>npm</strong> را می‌آورد؛ بزرگ‌ترین مخزن نرم‌افزاری تاریخ
+(~۲ میلیون پکیج — پست
+<a href="/fa/blog/javascript-explained/">جاوااسکریپت من</a> درباره‌اش نوشته). صادقانه:
+نصف بهره‌وری Node همان <code>npm install</code> و کتابخانه‌ی آزمون‌پس‌داده برای
+همه‌چیز است، و نصف دیگرش نوشتن اسکریپت‌های <code>package.json</code> است تا دیپلوی
+یک دستوری شود.</p>
+<h2 id="مزایا-و-معایب-صادقانه">مزایا و معایب، صادقانه</h2><p><strong>می‌برد:</strong></p>
+<ul>
+<li>یک زبان در کل استک: تایپ‌های مشترک، اعتبارسنجی مشترک، یک استخدام.</li>
+<li>پرفورمنس استثنایی I/O به آن سادگی؛ بوت میلی‌ثانیه‌ای (عالی برای
+serverless و کانتینر).</li>
+<li>غنی‌ترین اکوسیستم؛ هر چیزی یک install فاصله دارد.</li>
+<li>رفیق طبیبی فریم‌ورک‌های فرانت: Next.js و Nuxt و Vite همه روی Node
+زندگی می‌کنند.</li>
+</ul>
+<p><strong>می‌بازد:</strong></p>
+<ul>
+<li>کارهای سنگین CPU حلقه را قفل می‌کنند — انکود ویدیو و inference مدل‌های
+یادگیری ماشین مال سرویس دیگری است.</li>
+<li>زخم قدیمی eraی callback: کدهای قدیمی مثل هرم می‌خوانند؛ <code>async/await</code>
+مدرن کد را درست کرد، نه آموزش‌های قدیمی را.</li>
+<li>تلاطم: وابستگی‌ها و فریم‌ورک‌ها سریع عوض می‌شوند (همان قصه‌ی کلی دنیای JS).</li>
+<li>برای سیستم‌های سازمانی بزرگ، Java/C# هنوز ابزارهای بلندمدت قوی‌تر و
+انضباط تایپی بیشتری دارند (TypeScript خیلی از این فاصله را پر می‌کند).</li>
+</ul>
+<h2 id="چقدر-محبوب-است">چقدر محبوب است؟</h2><ul>
+<li><strong>Netflix و PayPal و LinkedIn و Uber</strong> به‌شهرت سرویس‌های حیاتی‌شان را
+به Node بردند — PayPal ۳۵٪ پاسخ‌دهی سریع‌تر و Netflix کاهش عظیم زمان
+بوت را بعد از مهاجرت گزارش کرد.</li>
+<li><strong>npm رتبه یک مخازن پکیج دنیاست</strong> — هیچ رقیبی نزدیک نیست.</li>
+<li>بیشترِ ابزارهای ابری مدرن (CLIها، ران‌تایم‌های serverless، dev
+serverها) با Node نوشته شده‌اند.</li>
+<li>کنار انحصار فرانت‌اند، جاوااسکریپت + Node بزرگ‌ترین اکوسیستم
+توسعه‌دهنده‌ی تاریخ را می‌سازند.</li>
+</ul>
+<h2 id="چیتشیت-دستوراتی-که-مهماند">چیت‌شیت — دستوراتی که مهم‌اند</h2><div class="term" dir="ltr"><div class="term-bar"><span class="d d1"></span><span class="d d2"></span><span class="d d3"></span><span class="file">snippet.bash</span><button type="button" class="copy" data-copy>COPY</button></div><pre class="shiki vitesse-dark" style="background-color:#121212;color:#dbd7caee" tabindex="0"><code><span class="line"><span style="color:#80A665">node</span><span style="color:#C99076"> -v</span><span style="color:#758575DD">                       # چک نسخه (LTS = اعداد زوج)</span></span>
+<span class="line"><span style="color:#80A665">npm</span><span style="color:#C98A7D"> init</span><span style="color:#C99076"> -y</span><span style="color:#758575DD">                   # ساخت package.json</span></span>
+<span class="line"><span style="color:#80A665">npm</span><span style="color:#C98A7D"> install</span><span style="color:#C98A7D"> express</span><span style="color:#758575DD">           # اضافه‌کردن وابستگی</span></span>
+<span class="line"><span style="color:#80A665">npm</span><span style="color:#C98A7D"> run</span><span style="color:#C98A7D"> dev</span><span style="color:#758575DD">                   # اجرای یک اسکریپت از package.json</span></span>
+<span class="line"><span style="color:#80A665">npx</span><span style="color:#C98A7D"> create-next-app@latest</span><span style="color:#758575DD">    # اجرای پکیج بدون نصب سراسری</span></span>
+<span class="line"></span>
+<span class="line"><span style="color:#80A665">node</span><span style="color:#C99076"> --watch</span><span style="color:#C98A7D"> server.js</span><span style="color:#758575DD">        # ری‌استارت خودکار بعد از تغییر (داخلی!)</span></span>
+<span class="line"><span style="color:#80A665">node</span><span style="color:#C99076"> -e</span><span style="color:#C98A7D77"> "</span><span style="color:#C98A7D">console.log(process.version)</span><span style="color:#C98A7D77">"</span></span></code></pre></div><div class="term" dir="ltr"><div class="term-bar"><span class="d d1"></span><span class="d d2"></span><span class="d d3"></span><span class="file">snippet.js</span><button type="button" class="copy" data-copy>COPY</button></div><pre class="shiki vitesse-dark" style="background-color:#121212;color:#dbd7caee" tabindex="0"><code><span class="line"><span style="color:#758575DD">// مینیمال‌ترین HTTP سرور — بدون هیچ وابستگی</span></span>
+<span class="line"><span style="color:#4D9375">import</span><span style="color:#666666"> {</span><span style="color:#BD976A"> createServer</span><span style="color:#666666"> }</span><span style="color:#4D9375"> from</span><span style="color:#C98A7D77"> "</span><span style="color:#C98A7D">node:http</span><span style="color:#C98A7D77">"</span><span style="color:#666666">;</span></span>
+<span class="line"></span>
+<span class="line"><span style="color:#80A665">createServer</span><span style="color:#666666">((</span><span style="color:#BD976A">req</span><span style="color:#666666">,</span><span style="color:#BD976A"> res</span><span style="color:#666666">)</span><span style="color:#666666"> =></span><span style="color:#666666"> {</span></span>
+<span class="line"><span style="color:#BD976A">  res</span><span style="color:#666666">.</span><span style="color:#80A665">end</span><span style="color:#666666">(</span><span style="color:#C98A7D77">"</span><span style="color:#C98A7D">Hello from Node!</span><span style="color:#C98A7D77">"</span><span style="color:#666666">);</span></span>
+<span class="line"><span style="color:#666666">}).</span><span style="color:#80A665">listen</span><span style="color:#666666">(</span><span style="color:#4C9A91">3000</span><span style="color:#666666">,</span><span style="color:#666666"> ()</span><span style="color:#666666"> =></span><span style="color:#BD976A"> console</span><span style="color:#666666">.</span><span style="color:#80A665">log</span><span style="color:#666666">(</span><span style="color:#C98A7D77">"</span><span style="color:#C98A7D">Listening on :3000</span><span style="color:#C98A7D77">"</span><span style="color:#666666">));</span></span></code></pre></div><h2 id="چرا-مهم-است">چرا مهم است</h2><p>Node.js دیوار بین مرورگر و سرور را شکست. یک زبان، یک مدل ذهنی، از دکمه‌ی
+روی صفحه تا دیتابیسی که پشت آن است — و یک event loop که جاوااسکریپتِ
+مسخره‌شده را به یکی از پراستقرارترین تکنولوژی‌های سروری زمین تبدیل کرد.
+اگر جاوااسکریپتِ فرانت بلدی، بک‌اند نصفه‌کامه آشناست: <code>npm init</code> بزن و
+ببین.</p>
+<p><em>نسخه‌ها و بنچمارک‌ها عوض می‌شوند؛ اعداد روز را از nodejs.org و مخزن npm
+چک کن.</em></p>
+20:["$","div",null,{"className":"prose-blog mt-10","dangerouslySetInnerHTML":{"__html":"$2b"}}]
+21:["$","p",null,{"className":"mt-14 text-center font-mono text-xs tracking-widest text-fog","children":"——— // پایان — ممنون از خواندن ———"}]
+22:["$","div",null,{"className":"mt-6 flex flex-wrap justify-center gap-2","children":[["$","a",null,{"href":"https://twitter.com/intent/tweet?text=Node.js%20%D8%A8%D9%87%20%D8%B2%D8%A8%D8%A7%D9%86%20%D8%B3%D8%A7%D8%AF%D9%87%3A%20%D9%81%D8%B1%D8%A7%D8%B1%20%D8%AC%D8%A7%D9%88%D8%A7%D8%A7%D8%B3%DA%A9%D8%B1%DB%8C%D9%BE%D8%AA%20%D8%A7%D8%B2%20%D9%85%D8%B1%D9%88%D8%B1%DA%AF%D8%B1&url=https://soheilmohajer.ir/fa/blog/nodejs-explained","target":"_blank","rel":"noopener noreferrer","className":"rounded-full border border-line bg-panel px-3.5 py-1.5 font-mono text-[11px] tracking-wide text-fog transition hover:border-neon/50 hover:text-neon","children":"اشتراک // X"}],["$","a",null,{"href":"https://www.linkedin.com/sharing/share-offsite/?url=https://soheilmohajer.ir/fa/blog/nodejs-explained","target":"_blank","rel":"noopener noreferrer","className":"rounded-full border border-line bg-panel px-3.5 py-1.5 font-mono text-[11px] tracking-wide text-fog transition hover:border-neon/50 hover:text-neon","children":"اشتراک // لینکدین"}],["$","a",null,{"href":"https://t.me/share/url?url=https://soheilmohajer.ir/fa/blog/nodejs-explained&text=Node.js%20%D8%A8%D9%87%20%D8%B2%D8%A8%D8%A7%D9%86%20%D8%B3%D8%A7%D8%AF%D9%87%3A%20%D9%81%D8%B1%D8%A7%D8%B1%20%D8%AC%D8%A7%D9%88%D8%A7%D8%A7%D8%B3%DA%A9%D8%B1%DB%8C%D9%BE%D8%AA%20%D8%A7%D8%B2%20%D9%85%D8%B1%D9%88%D8%B1%DA%AF%D8%B1","target":"_blank","rel":"noopener noreferrer","className":"rounded-full border border-line bg-panel px-3.5 py-1.5 font-mono text-[11px] tracking-wide text-fog transition hover:border-neon/50 hover:text-neon","children":"اشتراک // تلگرام"}]]}]
+23:["$","div",null,{"className":"mt-10 flex flex-wrap items-center gap-4 rounded-2xl border border-line bg-panel p-5","children":[["$","span",null,{"aria-hidden":true,"className":"grid size-14 shrink-0 place-items-center rounded-lg border border-neon/40 bg-neon/10 font-mono text-sm font-bold text-neon","children":"SM$"}],["$","div",null,{"children":[["$","p",null,{"className":"font-black","children":"سهیل مهاجر"}],["$","p",null,{"className":"text-sm text-fog","children":"توسعه‌دهنده اندروید و ایجنت هوش مصنوعی — مشهد، ایران"}]]}],["$","div",null,{"className":"ms-auto flex gap-2","children":[["$","a",null,{"href":"https://github.com/soheilmohajer-code","target":"_blank","rel":"noopener noreferrer","className":"rounded-full border border-line bg-panel-2 px-3 py-1 font-mono text-[11px] text-fog transition hover:border-neon/50 hover:text-neon","children":"GITHUB"}],["$","a",null,{"href":"https://t.me/soheil_mohajer","target":"_blank","rel":"noopener noreferrer","className":"rounded-full border border-line bg-panel-2 px-3 py-1 font-mono text-[11px] text-fog transition hover:border-neon/50 hover:text-neon","children":"TELEGRAM"}]]}]]}]
+24:["$","nav",null,{"className":"mt-6 grid gap-4 sm:grid-cols-2","aria-label":"Post navigation","children":[["$","$L11",null,{"href":"/fa/blog/linux-operating-system","className":"rounded-xl border border-line bg-panel p-4 transition hover:border-neon/30","children":[["$","span",null,{"className":"font-mono text-[10px] tracking-widest text-fog","children":"❮ پست قبلی"}],["$","b",null,{"className":"mt-1 block text-sm leading-snug","children":"لینوکس به زبان ساده: چیست، چرا دوستش دارند و کجا می‌بازد"}]]}],null]}]
+25:["$","div",null,{"className":"mt-6 flex flex-wrap items-center gap-4 rounded-2xl border border-dashed border-neon/40 bg-neon/5 p-5","children":[["$","div",null,{"children":[["$","b",null,{"className":"font-mono text-sm tracking-widest text-neon","children":"دنبال کردن // RSS"}],["$","p",null,{"className":"mt-1 text-sm text-fog","children":"یادداشت‌های جدید مستقیم به ریدرتان می‌رسند."}]]}],["$","$L11",null,{"href":"/feed.xml","className":"ms-auto rounded-lg bg-neon px-4 py-2 font-mono text-xs font-bold text-black transition hover:brightness-110","children":"افزودن به ریدر ❯"}]]}]
+26:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"Node.js به زبان ساده: فرار جاوااسکریپت از مرورگر\",\"description\":\"Node.js واقعاً چیست (یک ران‌تایم است، نه زبان)، event loop چطور با یک تِرِد به هزاران کاربر سرویس می‌دهد، کجا از PHP و Python و Java بهتر است و کجا می‌بازد — با چیت‌شیت عملی.\",\"datePublished\":\"2026-10-30\",\"keywords\":\"Node.js, JavaScript, Backend\",\"inLanguage\":\"fa\",\"image\":\"https://soheilmohajer.ir/og/nodejs-explained.png\",\"author\":{\"@type\":\"Person\",\"name\":\"Soheil Mohajer\",\"url\":\"https://soheilmohajer.ir\",\"sameAs\":[\"https://github.com/soheilmohajer-code\",\"https://www.linkedin.com/in/soheil-mohajer\",\"https://t.me/soheil_mohajer\"]},\"mainEntityOfPage\":\"https://soheilmohajer.ir/fa/blog/nodejs-explained\"}"}}]
+27:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://soheilmohajer.ir\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"وبلاگ\",\"item\":\"https://soheilmohajer.ir/fa/blog\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Node.js به زبان ساده: فرار جاوااسکریپت از مرورگر\",\"item\":\"https://soheilmohajer.ir/fa/blog/nodejs-explained\"}]}"}}]
+28:["$","script",null,{"dangerouslySetInnerHTML":{"__html":"document.addEventListener(\"click\",function(e){var b=e.target.closest(\"[data-copy]\");if(!b)return;var pre=b.closest(\".term\").querySelector(\"pre\");if(!pre||!navigator.clipboard)return;navigator.clipboard.writeText(pre.innerText).then(function(){var o=b.textContent;b.textContent=\"COPIED\";setTimeout(function(){b.textContent=o},1200)});});"}}]

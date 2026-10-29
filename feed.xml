@@ -7,6 +7,16 @@
     <language>en</language>
     <atom:link href="https://soheilmohajer.ir/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Node.js Explained: JavaScript&apos;s Escape From the Browser</title>
+      <link>https://soheilmohajer.ir/blog/nodejs-explained</link>
+      <guid isPermaLink="true">https://soheilmohajer.ir/blog/nodejs-explained</guid>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 GMT</pubDate>
+      <description>What Node.js actually is (a runtime, not a language), how the event loop serves thousands of users with one thread, where it beats PHP, Python and Java — and where it loses. With a practical cheat sheet.</description>
+      <category>Node.js</category>
+      <category>JavaScript</category>
+      <category>Backend</category>
+    </item>
+    <item>
       <title>Linux Explained: What It Is, Why People Love It, and Where It Loses</title>
       <link>https://soheilmohajer.ir/blog/linux-operating-system</link>
       <guid isPermaLink="true">https://soheilmohajer.ir/blog/linux-operating-system</guid>
