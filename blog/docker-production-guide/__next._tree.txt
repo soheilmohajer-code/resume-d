@@ -1,3 +1,2 @@
-:HL["/_next/static/chunks/1sa1862-hsunw.css","style"]
-:HC["/",""]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"blog","param":null,"prefetchHints":4192,"slots":{"children":{"name":"slug","param":{"type":"d","key":"docker-production-guide","siblings":["tags"]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"uuH4jZH-VkYRDTLk3QvN2"}
+:HL["/_next/static/chunks/1wz7-q8dzh0uf.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"blog","param":null,"prefetchHints":4192,"slots":{"children":{"name":"slug","param":{"type":"d","key":"docker-production-guide","siblings":["tags"]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"qDhm_8xs4fD4KVyKqvg5f"}
