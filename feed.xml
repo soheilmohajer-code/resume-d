@@ -17,6 +17,16 @@
       <category>Operating Systems</category>
     </item>
     <item>
+      <title>JavaScript Explained: The Language That Quietly Runs the World</title>
+      <link>https://soheilmohajer.ir/blog/javascript-explained</link>
+      <guid isPermaLink="true">https://soheilmohajer.ir/blog/javascript-explained</guid>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 GMT</pubDate>
+      <description>What JavaScript actually is, why it was built in 10 days, where it runs (way beyond the browser), the honest strengths and weaknesses, and why it has been the most-used language on Earth for a decade.</description>
+      <category>JavaScript</category>
+      <category>Web</category>
+      <category>Programming</category>
+    </item>
+    <item>
       <title>Docker for Developers: From Kernel to Production</title>
       <link>https://soheilmohajer.ir/blog/docker-production-guide</link>
       <guid isPermaLink="true">https://soheilmohajer.ir/blog/docker-production-guide</guid>
