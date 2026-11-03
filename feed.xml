@@ -27,6 +27,16 @@
       <category>Computer Science</category>
     </item>
     <item>
+      <title>CI/CD Explained: From Two Warring Teams to Zero-Touch Deploys</title>
+      <link>https://soheilmohajer.ir/blog/cicd-explained</link>
+      <guid isPermaLink="true">https://soheilmohajer.ir/blog/cicd-explained</guid>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 GMT</pubDate>
+      <description>Why CI/CD was born, the real difference between Continuous Integration, Continuous Delivery and Continuous Deployment, how pipelines and automated tests work, what job statuses mean — with a real e-commerce example.</description>
+      <category>CI/CD</category>
+      <category>DevOps</category>
+      <category>Automation</category>
+    </item>
+    <item>
       <title>Linux Explained: What It Is, Why People Love It, and Where It Loses</title>
       <link>https://soheilmohajer.ir/blog/linux-operating-system</link>
       <guid isPermaLink="true">https://soheilmohajer.ir/blog/linux-operating-system</guid>
