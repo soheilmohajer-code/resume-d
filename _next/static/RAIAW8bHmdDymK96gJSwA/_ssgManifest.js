@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["\u002Fblog\u002F[slug]","\u002Fblog\u002Ftags\u002F[tag]","\u002Fc\u002F[course]","\u002Fc\u002F[course]\u002F[lesson]","\u002Fcourse\u002Fgit-beginner\u002F[part]","\u002Ffa\u002Fblog\u002F[slug]","\u002Ffa\u002Fblog\u002Ftags\u002F[tag]"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()
