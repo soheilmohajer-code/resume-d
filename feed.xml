@@ -7,6 +7,16 @@
     <language>en</language>
     <atom:link href="https://soheilmohajer.ir/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Python Explained: The Language Powering the AI Era</title>
+      <link>https://soheilmohajer.ir/blog/python-explained</link>
+      <guid isPermaLink="true">https://soheilmohajer.ir/blog/python-explained</guid>
+      <pubDate>Sun, 08 Nov 2026 00:00:00 GMT</pubDate>
+      <description>What Python is, why it dominates AI and data science, where it shines and where it struggles — an honest tour with real examples and a practical cheat sheet.</description>
+      <category>Python</category>
+      <category>Programming</category>
+      <category>AI</category>
+    </item>
+    <item>
       <title>Node.js Explained: JavaScript&apos;s Escape From the Browser</title>
       <link>https://soheilmohajer.ir/blog/nodejs-explained</link>
       <guid isPermaLink="true">https://soheilmohajer.ir/blog/nodejs-explained</guid>
